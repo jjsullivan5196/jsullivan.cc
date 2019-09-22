@@ -1,0 +1,21 @@
+---
+title: "Multi-Leap: Multiple LeapMotion controllers on one machine"
+---
+
+{{< youtube X4LNkIV6XO8 >}}
+
+Working demonstration of multiple
+[[https://www.leapmotion.com/][LeapMotion]] infrared trackers being used
+on one PC. This work was intended for an interactive projection surface,
+and would allow multiple people to manually interact with applications
+displayed on the glass.
+
+This was achieved using
+[[https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html][SystemD-Nspawn]]
+process containers in linux, as the Leap driver at the time did not
+allow for multiple controllers to be connected to one machine. I used
+the process isolation provided by SystemD to filter the USB identifiers
+of the controllers in each container, so that only one controller was
+seen per container instance. Since the Leap driver is exposed via
+websocket, this allows for an application to use multiple controllers at
+once.

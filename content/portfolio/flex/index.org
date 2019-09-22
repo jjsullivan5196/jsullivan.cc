@@ -1,0 +1,14 @@
+---
+title: "Flex: Hand Gesture Recognition using Muscle Flexing Sensors"
+---
+
+- [[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]
+- [[https://github.com/jjsullivan5196/flex][Test data/Driver code]]
+
+A poster I co-authored demonstrating a novel gesture sensor, built from
+an array of bend resistors.
+
+I implemented a recognizer using a Long-Short Term Memory Recurrent
+Neural Network, it achieved accuracy surpassing the competing Myo sensor
+for the same set of gestures. I also wrote drivers for the sensor itself
+using the Arudino toolkit and python serial IO libraries.

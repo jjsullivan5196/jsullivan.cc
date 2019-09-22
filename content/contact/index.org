@@ -1,0 +1,11 @@
+---
+title: Contact
+---
+
+** All the things
+
+John Sullivan
+
+Email <jsullivan at csumb dot edu>
+
+[[https://github.com/jjsullivan5196][GitHub]] [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]

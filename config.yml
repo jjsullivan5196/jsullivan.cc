@@ -1,0 +1,27 @@
+baseURL: http://jsullivan.cc/
+languageCode: en-us
+title: John's Site
+theme: hugo-flex
+enableRobotsTXT: true
+
+params:
+  footer: "&copy; 2020 John Sullivan"
+  mainSections:
+  - portfolio
+  - blog
+  color: firebrick
+
+menu:
+  nav:
+  - name: Blog
+    url: /blog/
+    weight: 1
+  - name: Portfolio
+    url: /portfolio/
+    weight: 2
+  - name: CV
+    url: /resume.pdf
+    weight: 3
+  - name: Contact
+    url: /contact/
+    weight: 4

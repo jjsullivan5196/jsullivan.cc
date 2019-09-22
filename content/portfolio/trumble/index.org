@@ -1,0 +1,23 @@
+---
+title: "Trumble: The world's greatest robot, you wouldn't believe"
+---
+
+- [[https://github.com/jjsullivan5196/trumble/blob/master/RNN%20For%20Text%20Generation.ipynb][Demo Jupyter Notebook]]
+
+What happens when you put Donald Trump's twitter account into a
+recurrent neural network? You get a trump robot of course.
+
+The notebook has more details on how this works, but here's a sampling
+of the final product
+
+- Doug Jones are using the incompetent and back to Super Monthman Steep
+  and so many go? Great job on @nbc @FoxNews but we've said that took
+  lead trade!
+
+- Moore is being released. Not even close. Can we mate must be announce
+  that it's donely high failure of winning 94,000 fuch atclited to
+  learn!
+
+- Jones tonight! The Democrats... CAFFO. I will not want to take in a
+  different lightment said I will leave for America! He had to see the
+  brave!

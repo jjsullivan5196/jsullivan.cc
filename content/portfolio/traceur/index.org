@@ -1,0 +1,19 @@
+---
+title: "Traceur: VR exercise gamified"
+---
+
+- [[https://studentgames.itch.io/traceur][On Itch.io]]
+  
+#+BEGIN_EXPORT html
+<iframe src="https://drive.google.com/file/d/0B1DkmJkXgmzqanNiY2hKT0pCMlE/preview" width="640" height="480"></iframe>
+#+END_EXPORT
+
+Concept of an infinite runner as a VR exercise game. I worked on this as
+part of a small team for my game programming final project.
+
+I implemented a primitive motion tracking solution based on work I had
+done for a past research project. The game is able to track quick
+side-to-side movements or jumping, and maps it in-game so you can avoid
+obstacles approaching you. This works by calibrating offsets against the
+accelerometer, and checking the magnitude of acceleration in each
+direction to determine which way the player wants to dodge.
