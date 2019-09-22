@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
+    <meta name="description" content="Working demonstration of multiple LeapMotion infrared trackers being used on one PC. This work was intended for an interactive projection surface, and would allow multiple people to manually interact with applications displayed on the glass.
+ This was achieved using SystemD-Nspawn process containers in linux, as the Leap driver at the time did not allow for multiple controllers to be connected to one machine. I used the process isolation provided by SystemD to filter the USB identifiers of the controllers in each container, so that only one controller was seen per container instance.">
+  
+
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.75.1" />
+  <title>Multi-Leap -- Multi-user interaction surface | John&#39;s Site</title>
+  <link rel="canonical" href="/portfolio/multileap/">
+
+
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+  <link rel="stylesheet" href="/css/base.min.af7c4b03fb92213dbe4b5129da03fb81cb4b330eafa13511479060f0a5c0a2a2.css" integrity="sha256-r3xLA/uSIT2&#43;S1Ep2gP7gctLMw6voTURR5Bg8KXAoqI=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <a class="Banner-link u-clickable" href="/">John&#39;s Site</a>
+      </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/">Blog</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/portfolio/">Portfolio</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/resume">Resume</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/contact/">Contact</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+  <main>
+    <div class="u-wrapper">
+      <div class="u-padding">
+        
+
+  <article>
+    <header class="Heading">
+  <h2 class="Heading-title">
+    <a class="Heading-link u-clickable" href="/portfolio/multileap/" rel="bookmark">Multi-Leap -- Multi-user interaction surface</a>
+  </h2>
+  
+</header>
+    <p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/CeaJa77KWD4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<p>
+Working demonstration of multiple <a href="https://www.leapmotion.com/">LeapMotion</a> infrared trackers being used on one
+PC. This work was intended for an interactive projection surface, and would
+allow multiple people to manually interact with applications displayed on the
+glass.</p>
+<p>
+This was achieved using <a href="https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html">SystemD-Nspawn</a> process containers in linux, as the Leap
+driver at the time did not allow for multiple controllers to be connected to one
+machine. I used the process isolation provided by SystemD to filter the USB
+identifiers of the controllers in each container, so that only one controller
+was seen per container instance. Since the Leap driver is exposed via websocket,
+this allows for an application to use multiple controllers at once.</p>
+
+    
+
+
+  
+
+  
+
+
+
+
+
+    
+  
+
+  </article>
+
+
+      </div>
+    </div>
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding">
+        &copy; 2023 John Sullivan
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>

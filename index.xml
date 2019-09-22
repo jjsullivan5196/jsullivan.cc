@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John&#39;s Site</title>
+    <link>/</link>
+    <description>Recent content on John&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AttentiveAI -- Tools for tracking classroom engagement</title>
+      <link>/portfolio/attentive/</link>
+      <guid>/portfolio/attentive/</guid>
+      <description>&lt;p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1oO4VQVYbxI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://devpost.com/software/5g-in-education&#34;&gt;Winner of ATT 5G Hackathon – Best use of Cloud Technology&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demonstration of an application that gives teachers realtime metrics and
+visualizations of classroom attention. I consulted on the concept and provided
+guidance on using React Native to build the clientside application.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Clamparking -- Parking space management with minimal overhead</title>
+      <link>/portfolio/clampark/</link>
+      <guid>/portfolio/clampark/</guid>
+      <description>&lt;object data=&#34;/clampark.pdf&#34;
+        type=&#34;application/pdf&#34;
+        style=&#34;width: 100%; height: 90vh;&#34;&gt;
+&lt;/object&gt;
+&lt;p&gt;
+This was the final deliverable for a computer architecture class. We were asked
+to design an IOT product that would solve a specific problem, and the greatest
+threat to any Monterey Bay student in 2018 was finding a parking spot on-time
+for class.&lt;/p&gt;
+&lt;p&gt;
+We acknowledged the fact that all the university parking lots were in open-air
+and had proximity to the school&amp;#39;s WiFi. Therefore, we created an IOT-connected
+sensor to detect open parking spaces, and report needed parking spaces to
+students. This device only requires WiFi access points to operate, and can be
+placed at the end of any parking spot.  All the software needed can be run in
+on-demand compute services for a minimal cost. I ended up providing the IOT glue
+for the device, the frontend webapp, and orchestrated the backend services to
+demonstrate sending parking updates to students.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>dbpedia browser single-page app</title>
+      <link>/portfolio/dbbrowse/</link>
+      <guid>/portfolio/dbbrowse/</guid>
+      <description>&lt;p&gt;Check it out &lt;a href=&#34;/browse.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Flex -- Hand Gesture Recognition using Muscle Flexing Sensors</title>
+      <link>/portfolio/flex/</link>
+      <guid>/portfolio/flex/</guid>
+      <description>&lt;p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/gcCZUx5LIl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=3134360&#34;&gt;ACM Digital Library&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/jjsullivan5196/flex&#34;&gt;Test data/Driver code&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A poster I co-authored demonstrating a novel gesture sensor, built from
+an array of bend resistors.&lt;/p&gt;
+&lt;p&gt;
+I implemented a recognizer using a Long-Short Term Memory Recurrent
+Neural Network, it achieved accuracy surpassing the competing Myo sensor
+for the same set of gestures. I also wrote drivers for the sensor itself
+using the Arudino toolkit and python serial IO libraries.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Make programming simple again</title>
+      <link>/blog/therealsuckless/</link>
+      <guid>/blog/therealsuckless/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a &lt;a href=&#34;#my-bad-ill-advised-opinions&#34;&gt;commentary&lt;/a&gt; section that follows the
+list, read it for purpose/background on this article. If you have suggestions,
+please contact me or send a &lt;a href=&#34;https://github.com/jjsullivan5196/jsullivan.cc/tree/master/content/blog/therealsuckless/index.md&#34;&gt;github
+PR&lt;/a&gt;
+for this page.&lt;/p&gt;
+&lt;h1 id=&#34;the-list&#34;&gt;The List&lt;/h1&gt;
+&lt;h2 id=&#34;consolidating-implementation-effort&#34;&gt;Consolidating implementation effort&lt;/h2&gt;
+&lt;p&gt;The following sections highlight ideas that make it simpler to create and
+inspect software systems.&lt;/p&gt;
+&lt;h3 id=&#34;fielding-et-al-architectural-styles-and-the-design-of-network-based-software-architectures&#34;&gt;Fielding et al, Architectural Styles and the Design of Network-based Software Architectures&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ics.uci.edu/~fielding/pubs/dissertation/top.htm&#34;&gt;https://ics.uci.edu/~fielding/pubs/dissertation/top.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Roy Fielding&amp;rsquo;s disseration on the design of networked applications and RESTful
+architecture. Gives context to the design of modern hypermedia systems, HTTP,
+the web and applications we build on top of it.&lt;/p&gt;
+&lt;h3 id=&#34;htmx&#34;&gt;htmx&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://htmx.org/docs/&#34;&gt;https://htmx.org/docs/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Library that implements a modern hypermedia client in any web browser, rather
+than writing a different one every time you make a webapp.&lt;/p&gt;
+&lt;h3 id=&#34;rich-hickey-on-repls&#34;&gt;Rich Hickey on REPLs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextjournal.com/mk/rich-hickey-on-repls&#34;&gt;https://nextjournal.com/mk/rich-hickey-on-repls&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;REPLs aren&amp;rsquo;t just about evaluating code interactively, they&amp;rsquo;re a well-defined
+entrypoint for the programmer to modify and inspect a system. The ceremony is
+well-organized and specifically tailored to this purpose, you send data to the
+program, the program evaluates it, and you get data back. Also see the linked
+talk by Nada Amin, which evaluates this concept from the perspective of
+implementing languages.&lt;/p&gt;
+&lt;h3 id=&#34;cosmopolitan-libc&#34;&gt;Cosmopolitan LibC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1ZTRb-2DZGs&#34;&gt;https://www.youtube.com/watch?v=1ZTRb-2DZGs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justine.lol/cosmopolitan/index.html&#34;&gt;https://justine.lol/cosmopolitan/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://redbean.dev/&#34;&gt;https://redbean.dev/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cosmo is a gargantuan effort to create a C library that can target multiple
+platforms at once in a single binary. It has one abstraction over the system
+layer that largely emulates the amd64 ABI for Linux, meaning that most
+applications made for Linux can run natively on any major operating system. It
+also bundles necessary functions for common tasks like HTTP servers or
+multimedia manipulation. Redbean is a small application server linked against
+cosmo that provides the equivalent of a full LAMP stack in one program, one
+executable file that is your entire application, with its code and database state.&lt;/p&gt;
+&lt;h3 id=&#34;forth-metacompilation&#34;&gt;Forth metacompilation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ultratechnology.com/meta.html#minmeta&#34;&gt;https://www.ultratechnology.com/meta.html#minmeta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arduino-forth.com/article/FORTH_metacompilation_intro&#34;&gt;https://arduino-forth.com/article/FORTH_metacompilation_intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pygmy.utoh.org/pygmyforth.html&#34;&gt;https://pygmy.utoh.org/pygmyforth.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Forth is a very small programming language, phrased more as an abstract stack
+machine. The machine executes words, which are procedures that manipulate data
+on a shared stack. Typically the machine is defined in terms of primitive words,
+implemented in native machine code. Forth metacompilers allow for this abstract
+machine to be defined in Forth itself, creating a very tight loop for designing
+other Forth systems.&lt;/p&gt;
+&lt;h3 id=&#34;bootstrapping-the-forth-language-from-a-3-instruction-interpreter&#34;&gt;Bootstrapping the Forth language from a 3-instruction interpreter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pygmy.utoh.org/3ins4th.html&#34;&gt;https://pygmy.utoh.org/3ins4th.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From Frank Sergeant. Essentially describes a generic protocol for a &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_code_monitor&#34;&gt;machine
+code monitor&lt;/a&gt; over a serial
+port. Using only peek, poke, and essentially a CALL instruction, a full Forth
+machine can be implemented on the target from any programming language.&lt;/p&gt;
+&lt;h2 id=&#34;prior-art&#34;&gt;Prior art&lt;/h2&gt;
+&lt;p&gt;Well-executed attempts at creating a cohesive software development system&lt;/p&gt;
+&lt;h3 id=&#34;smalltalk-80-on-the-xerox-alto&#34;&gt;Smalltalk-80 on the Xerox Alto&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/uknEhXyZgsg?si=69rb8E0Lljtr-w1E&#34;&gt;https://youtu.be/uknEhXyZgsg?si=69rb8E0Lljtr-w1E&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://computerhistory.org/blog/smalltalk-at-50/&#34;&gt;https://computerhistory.org/blog/smalltalk-at-50/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hypercard&#34;&gt;Hypercard!&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2K1C5BZKP3I&#34;&gt;https://www.youtube.com/watch?v=2K1C5BZKP3I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-self-programming-language-java-and-javascripts-dad&#34;&gt;The Self Programming Language (Java and Javascript&amp;rsquo;s Dad)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://selflanguage.org/&#34;&gt;https://selflanguage.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Self was the breeding ground for what eventually became the JVM platform and
+Javascript&amp;rsquo;s prototypal object system. It was a pioneer in language VM
+implementation, aiming to create an entire development environment and runtime
+in the same programming language.&lt;/p&gt;
+&lt;h3 id=&#34;genera-and-s-graphics&#34;&gt;Genera and S-Graphics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gV5obrYaogU&#34;&gt;https://www.youtube.com/watch?v=gV5obrYaogU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A complete 3D and compositing solution all running on a Symbolics Lisp Machine.
+Later became the software basis for SGI and its many licensed development kits.&lt;/p&gt;
+&lt;h3 id=&#34;steel-bank-common-lisp&#34;&gt;Steel Bank Common Lisp&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sbcl.org/porting.html&#34;&gt;https://www.sbcl.org/porting.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Common Lisp implementation written in itself, build process can almost skip a C
+compiler.&lt;/p&gt;
+&lt;h3 id=&#34;oberon&#34;&gt;Oberon&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Oberon_(operating_system)&#34;&gt;https://en.wikipedia.org/wiki/Oberon_(operating_system)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OJGnpmnXR5w&#34;&gt;https://www.youtube.com/watch?v=OJGnpmnXR5w&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A complete operating system implemented in a Pascal-like language. All
+interactions with the system are done thru rich text documents that can embed
+programs and various objects. Running code is as simple as clicking a hyperlink.&lt;/p&gt;
+&lt;h3 id=&#34;btron&#34;&gt;BTRON&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/7RNbIEJvjUA?si=rYcdjt8D22oHGokS&amp;amp;t=1505&#34;&gt;https://youtu.be/7RNbIEJvjUA?si=rYcdjt8D22oHGokS&amp;amp;t=1505&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/BTRON&#34;&gt;https://en.wikipedia.org/wiki/BTRON&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A core component of Japan&amp;rsquo;s TRON computer platform, was meant to be a
+programming environment working on the scale of the web. All resources were
+presented as inspectable objects, much like Smalltalk. These could represent
+simple data, hypermedia documents, remote machines, or collections of other
+objects.&lt;/p&gt;
+&lt;h3 id=&#34;rebol&#34;&gt;Rebol&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rebol.com/what-rebol.html&#34;&gt;http://www.rebol.com/what-rebol.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pygmyforth&#34;&gt;PygmyForth&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pygmy.utoh.org/pygmyforth.html&#34;&gt;https://pygmy.utoh.org/pygmyforth.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A complete Forth system for DOS that can recompile itself. Includes facilities
+for interactive development and debugging.&lt;/p&gt;
+&lt;h3 id=&#34;smithforth&#34;&gt;SmithForth&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dacvs.neocities.org/SF/&#34;&gt;https://dacvs.neocities.org/SF/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9MSJGzYELBA&#34;&gt;https://www.youtube.com/watch?v=9MSJGzYELBA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A Forth 2012 compliant system implemented in legible amd64 machine code. The
+interpreter bootstraps from a byte-delimited read-protocol, which defines the
+primitive Forth words directly in machine code. After startup, a full Forth
+system can be used to compile and run code interactively.&lt;/p&gt;
+&lt;h3 id=&#34;jonesforth&#34;&gt;JonesForth&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nornagon/jonesforth/blob/master/jonesforth.S&#34;&gt;https://github.com/nornagon/jonesforth/blob/master/jonesforth.S&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Forth implemented in x86 assembler, complete with inline documentation and
+diagrams explaining how it works.&lt;/p&gt;
+&lt;h2 id=&#34;cool-stuff-happening-today&#34;&gt;Cool stuff happening today&lt;/h2&gt;
+&lt;h3 id=&#34;graalvm-and-self-hosted-java&#34;&gt;GraalVM and self-hosted Java&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.graalvm.org/latest/reference-manual/java-on-truffle/&#34;&gt;https://www.graalvm.org/latest/reference-manual/java-on-truffle/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;development-of-the-uefi-ecosystem&#34;&gt;Development of the UEFI ecosystem&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/a/53057494&#34;&gt;https://stackoverflow.com/a/53057494&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linuxboot.org/&#34;&gt;https://www.linuxboot.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unix-haters&#34;&gt;Unix haters&lt;/h2&gt;
+&lt;p&gt;And they&amp;rsquo;re right&lt;/p&gt;
+&lt;h3 id=&#34;stop-writing-dead-programs&#34;&gt;Stop Writing Dead Programs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8Ab3ArE8W3s&#34;&gt;https://www.youtube.com/watch?v=8Ab3ArE8W3s&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;replacing-the-unix-tradition&#34;&gt;Replacing the UNIX tradition&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/L9v4Mg8wi4U&#34;&gt;https://youtu.be/L9v4Mg8wi4U&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;more-powerful-primitives&#34;&gt;More powerful primitives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dercuano.github.io/notes/powerful-primitives.html&#34;&gt;https://dercuano.github.io/notes/powerful-primitives.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-bad-ill-advised-opinions&#34;&gt;My bad, ill-advised opinions&lt;/h1&gt;
+&lt;p&gt;This article is an annotated reading list that tracks tools for better
+understanding how software is
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Lambda_calculus&#34;&gt;made&lt;/a&gt; and
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_machine&#34;&gt;run&lt;/a&gt; on
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Von_Neumann_architecture&#34;&gt;machines&lt;/a&gt;. It will be
+loaded with a lot of my own wacky opinions of how bad software and computers
+are, since it is my main motivation for constantly looking for more of these
+materials.&lt;/p&gt;
+&lt;p&gt;More specifically, I want to understand why the engineering distance between a
+machine and the practical applications it performs is so inordinately large. We
+have excellent, high-level programming languages with appropriate primitives to
+build world-scale systems, but God forbid you want to talk to a
+&lt;a href=&#34;https://gist.github.com/Overv/7ac07356037592a121225172d7d78f2d&#34;&gt;graphics&lt;/a&gt;
+&lt;a href=&#34;https://youtu.be/_36yNWw_07g?si=ne3IAwWmQEcEk6e3&#34;&gt;device&lt;/a&gt; and have it do a cool
+trick you just thought up, or create your own &lt;a href=&#34;https://llvm.org/docs/GettingStarted.html&#34;&gt;programming
+language&lt;/a&gt;, or any number of
+applications that involve negotiating with some platform.&lt;/p&gt;
+&lt;p&gt;Smalltalk, all the way back in the 1980s, did solve all the problems related to
+bootstrapping a complete programming system from bare metal, and you could
+inspect any layer of that solution with the same exact tools you use to write
+applications. Why can&amp;rsquo;t we do that today? Why can&amp;rsquo;t we create a closed
+abstraction of a machine that any platform or language can use?&lt;/p&gt;
+&lt;p&gt;I lay the blame with our development tools being inadequate for understanding a
+complete system as a whole, from hardware &amp;amp; platforms to the software that runs
+on them. Any programmer should be able to spend an afternoon in any programming
+language and be able to have a small kernel program that can file your taxes and
+send HTTP requests on nearly anything that can run code. However, we often get
+stuck in what is the right language not for the application we are making, but
+rather how this language can eventually target some CPU, operating system, VM
+hypervisor, container framework, web browser, game console, and so on. Even when
+you do have merely adequate tools for development, they often grow legs and run
+far away from your language of choice, ask you to suffer hours of tutorials or
+documentation that doesn&amp;rsquo;t generalize, or bring &lt;a href=&#34;https://github.com/emacs-mirror/emacs&#34;&gt;all their 50+ year old
+friends&lt;/a&gt; to give you some light reading.&lt;/p&gt;
+&lt;p&gt;Considering our platform is a fine problem to have, but in the end it shouldn&amp;rsquo;t
+be something that restricts our ability to use the right tool for the problem
+we&amp;rsquo;re trying to solve. Platforms offer us primitives to run code, languages
+arrange those primitives into useful tools for solving problems. Programming
+languages should offer us the ability to solve both our application and
+platform-related problems in a generic way. Despite this, we settle for &lt;a href=&#34;https://en.wikipedia.org/wiki/Worse_is_better&#34;&gt;worse
+is better&lt;/a&gt; and have bespoke,
+cryptic and non-portable solutions for abstracting over platforms. See the
+demand for win32 emulation, Valve basically adopting the WINE project, the C
+programming language being unable to die, and the success of Docker for evidence
+of platforms being more than platforms.&lt;/p&gt;
+&lt;p&gt;Even the &lt;a href=&#34;https://en.wikipedia.org/wiki/GraphQL&#34;&gt;conceptual&lt;/a&gt;
+&lt;a href=&#34;https://www.destroyallsoftware.com/talks/wat&#34;&gt;machines&lt;/a&gt; we build on top of the
+real ones don&amp;rsquo;t make our programs easier to comprehend. Often they ignore
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Self_(programming_language)&#34;&gt;years&lt;/a&gt; of research
+work, or they haphazardly cherry pick features for some particular reason (often
+not good reasons) to the
+&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction&#34;&gt;detriment&lt;/a&gt;
+of the overall system being transparent to the person who works with it.&lt;/p&gt;
+&lt;p&gt;I enjoy masochistically pretending I can do something about all of this, so I
+spend a lot of time messing with compilers and other such tools to see how we
+can simplify the process of making great applications. This list documents some
+of the resources I&amp;rsquo;ve collected to gain some insight on this issue and prior
+attempts at making better tools for software development.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Misc web development</title>
+      <link>/portfolio/web/</link>
+      <guid>/portfolio/web/</guid>
+      <description>&lt;p&gt;
+Here&amp;#39;s some of my other work from the web:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34; http://uist.acm.org/uist2020/gallery.html&#34;&gt;Gallery site for a scientific conference&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://sigchi.github.io/web-program-gallery/&#34;&gt;Gallery Component for Poster/Paper Sessions&lt;/a&gt; | &lt;a href=&#34;https://github.com/sigchi/web-program-gallery&#34;&gt;Source Code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://leimberg.com/News/SneakPeek/Gain-Harvesting-Calculator&#34;&gt;Components of NumberCruncher Browser Version&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dancelawyer.squarespace.com/&#34;&gt;Squarespace theme for online publication&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://makenibeats.com/&#34;&gt;Personal site for local artist&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jjsullivan5196.github.io/stegonet/&#34;&gt;An image steganography tool, running in the browser&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Multi-Leap -- Multi-user interaction surface</title>
+      <link>/portfolio/multileap/</link>
+      <guid>/portfolio/multileap/</guid>
+      <description>&lt;p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/CeaJa77KWD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Working demonstration of multiple &lt;a href=&#34;https://www.leapmotion.com/&#34;&gt;LeapMotion&lt;/a&gt; infrared trackers being used on one
+PC. This work was intended for an interactive projection surface, and would
+allow multiple people to manually interact with applications displayed on the
+glass.&lt;/p&gt;
+&lt;p&gt;
+This was achieved using &lt;a href=&#34;https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html&#34;&gt;SystemD-Nspawn&lt;/a&gt; process containers in linux, as the Leap
+driver at the time did not allow for multiple controllers to be connected to one
+machine. I used the process isolation provided by SystemD to filter the USB
+identifiers of the controllers in each container, so that only one controller
+was seen per container instance. Since the Leap driver is exposed via websocket,
+this allows for an application to use multiple controllers at once.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Portfolio Website for Pieper Construction</title>
+      <link>/portfolio/piepercom/</link>
+      <guid>/portfolio/piepercom/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://pieperconstruction.com&#34;&gt;pieperconstruction.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A local construction company in LA needed a new website to exhibit their
+previous work. Their old site was predicated mostly on SEO content, without much
+for human visitors to see. I took some queues from other contractor portfolios
+and made a gallery page which expands to show the summaries of the jobs.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Scene Scheduling for the LA Music Center Plaza</title>
+      <link>/portfolio/plaza/</link>
+      <guid>/portfolio/plaza/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yuco.com/works/music-center-plaza&#34;&gt;Project Overview/demo video&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Over the past few years, the Los Angeles Music Center has installed an IP camera
+system and signboard monitors to create altered reflections of their plaza
+space. yU+co has taken this system and used it to apply style-transferred
+projections and other effects to those passing by.&lt;/p&gt;
+&lt;p&gt;
+I was contracted to provide a simple scheduling mediator for the different
+effects used by the system, and allow for creating detailed schedules for the
+week, by day, hour, scene and various controls for duration and immediate
+scheduling. This allows the operators to control the central touchdesigner
+application externally, and save persistent schedules that can be swapped for
+different times of the year, all from a simple web application.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Spodder -- Find places and events right around you</title>
+      <link>/portfolio/spodder/</link>
+      <guid>/portfolio/spodder/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.spodder.io/&#34;&gt;Website TBA&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An experimental social network that allows you to anonymously create
+&amp;#39;beacons&amp;#39; on a shared map. The beacons can tell others what you&amp;#39;re up to
+or things going on in the area, through text and/or images. You can
+click on these beacons all over the map, or you can view them as a feed
+with more details.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Traceur -- VR exercise gamified</title>
+      <link>/portfolio/traceur/</link>
+      <guid>/portfolio/traceur/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://studentgames.itch.io/traceur&#34;&gt;On Itch.io&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Concept of an infinite runner as a VR exercise game. I worked on this as
+part of a small team for my game programming final project.&lt;/p&gt;
+&lt;p&gt;
+I implemented a primitive motion tracking solution based on work I had
+done for a past research project. The game is able to track quick
+side-to-side movements or jumping, and maps it in-game so you can avoid
+obstacles approaching you. This works by calibrating offsets against the
+accelerometer, and checking the magnitude of acceleration in each
+direction to determine which way the player wants to dodge.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Trumble -- The world&#39;s greatest robot, you wouldn&#39;t believe</title>
+      <link>/portfolio/trumble/</link>
+      <guid>/portfolio/trumble/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/jjsullivan5196/trumble/blob/master/RNN%20For%20Text%20Generation.ipynb&#34;&gt;Demo Jupyter Notebook&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What happens when you put Donald Trump&amp;#39;s twitter account into a
+recurrent neural network? You get a trump robot of course.&lt;/p&gt;
+&lt;p&gt;
+The notebook has more details on how this works, but here&amp;#39;s a sampling
+of the final product&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Doug Jones are using the incompetent and back to Super Monthman Steep
+and so many go? Great job on @nbc @FoxNews but we&amp;#39;ve said that took
+lead trade!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moore is being released. Not even close. Can we mate must be announce
+that it&amp;#39;s donely high failure of winning 94,000 fuch atclited to
+learn!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jones tonight! The Democrats… CAFFO. I will not want to take in a
+different lightment said I will leave for America! He had to see the
+brave!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+  </channel>
+</rss>

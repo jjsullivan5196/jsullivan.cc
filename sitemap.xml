@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/attentive/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/clampark/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/dbbrowse/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/flex/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/therealsuckless/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/web/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/multileap/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/piepercom/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/plaza/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/spodder/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/traceur/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/trumble/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/web/</loc>
+  </url>
+  
+</urlset>
