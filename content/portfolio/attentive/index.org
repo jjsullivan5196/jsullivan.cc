@@ -1,0 +1,9 @@
+---
+title: "AttentiveAI: Using ubiquitous 5G for classroom engagement"
+---
+
+ - *[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]*
+
+Demonstration of an application that gives teachers realtime metrics and
+visualizations of classroom attention. I consulted on the concept and provided
+guidance on using React Native to build the clientside application.
