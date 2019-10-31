@@ -23,7 +23,7 @@ menu:
     url: https://github.com/jjsullivan5196
     weight: 3
   - name: CV
-    url: /resume.pdf
+    url: /resume
     weight: 4
   - name: Contact
     url: /contact/

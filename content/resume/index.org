@@ -1,0 +1,102 @@
+#+TITLE: John Sullivan
+#+LAYOUT: topspace=0mm,height=300mm
+#+LINKCOLOR: blue
+#+LINKSTYLE: type
+#+PAGENUMBERING: state=stop
+[[/resume.pdf][PDF Version]]
+
+[[mailto:jsullivan@csumb.edu][jsullivan@csumb.edu]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
+
+References available upon request
+
+** Education
+ * B.S. Computer Science, CSU Monterey Bay, May 2018
+
+ * Eagle Rock High School, June 2014
+
+** Experience
+*** Software Engineer II | Capture2 
+July 2018 - August 2019 | San Diego, CA
+ * Created customer reporting integrations for Office365 using ReactJs
+ * Moved backend data infrastructure from non-reproducible deployments to
+   turnkey instantiation using Azure RM templates, Ansible, and Docker
+ * Implemented a full-stack search-by-location capability by aggregating on a
+   flat address per document, allowing customers to easily find content in
+   places relevant to their business
+ * Used Kibana to identify search performance bottlenecks and improve customer
+   experience
+
+*** Teaching Assistant | TA++ Program, CSUMB SCD 
+August 2016 - June 2018 | Seaside, CA
+ * Collaborated on an engaging and interactive intro programming curriculum,
+   including in class labs, study sessions, and extracurricular activities
+ * Directed Peer-Led-Team-Learning sessions that improved student cooperation
+   and practical problem-solving skills
+
+*** Undergrad Researcher | CSUMB-UROC Research Internship 
+May 2016 - August 2017 | Seaside, CA
+ * Developed novel locomotion input techniques for Samsung Gear VR
+ * Assisted in other VR/peripheral related projects in a cooperative lab
+   environment
+
+*** Computer Repair Volunteer | Loaves Fishes and Computers
+September 2017 - January 2018 | Salinas, CA
+ * Worked  as  a technician  assisting  with  refurb  of computers  for  in-need
+   community members
+ * Wrote software for automated hardware lifetime checks \& issue reporting
+ * Assisted customers one-on-one in technical support and consultation
+
+** Highlighted Projects
+*** Flex | hand gesture recognition using muscle flexing sensors 
+[[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]
+ * Used multiple recurrent neural networks in a bagging configuration to
+   classify gestures used by the Myo sensor
+ * Developed driver code for the sensor, recording framework for collecting
+   gesture samples, implemented classification techniques
+
+*** Spodder | Event driven social network on a map 
+[[http://www.spodder.io][Website TBA]]
+ * Allows users to anonymously add and discover 'beacons' on a shared map, with
+   info on what's going on in the area with text/photos. Frontend mobile app
+   using React Native/React-Redux with integrated analytics tracking and more.
+
+*** AttentiveAI | Using ubiquitous 5G for classroom engagement 
+[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]
+ * Application that gives teachers realtime information on classroom attention,
+   based on computer vision and IoT devices. Consulted on the concept and
+   provided guidance for using React Native
+
+*** Trumpbot | RNN trained on tweets to generate new messages 
+[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]
+ * Takes tweets from @realDonaldTrump and creates new messages. Uses
+   preprocessing techniques in sklearn and an RNN-based text generator written
+   in tensorflow
+
+** Coursework
+ - Operating Systems
+ - Data Mining
+ - Machine Learning
+ - Graphics Programming
+ - Multimedia Programming
+ - Software Design
+ - Game Programming
+ - Computer Networking
+   
+** Skills
+*** Languages/Tech
+ - C++ \bull C\# \bull C \bull Rust
+ - Java / Android \bull Clojure
+ - Javascript(ECMA) \bull React.js/Native
+ - Python \bull ShellScript
+ - Unity3D
+ - SocketIO
+ - Elastic Stack \bull ASP.NET \bull SQL Server
+ - OpenGL/DirectX \bull R
+ - SciKit Learn \bull Tensorflow
+   
+*** IT/DevOps
+ - Ansible \bull AWS \bull Azure
+ - Linux/*nix Admin/Support
+ - Windows Setup/Support
+ - Unix Tools/Scripts
+ - Git collaboration, build hooks, CI
