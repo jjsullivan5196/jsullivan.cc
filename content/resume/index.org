@@ -43,7 +43,7 @@ May 2016 - August 2017 | Seaside, CA
 September 2017 - January 2018 | Salinas, CA
  * Worked  as  a technician  assisting  with  refurb  of computers  for  in-need
    community members
- * Wrote software for automated hardware lifetime checks \& issue reporting
+ * Wrote software for automated hardware lifetime checks & issue reporting
  * Assisted customers one-on-one in technical support and consultation
 
 ** Highlighted Projects
