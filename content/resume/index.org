@@ -54,6 +54,13 @@ September 2017 - January 2018 | Salinas, CA
  * Developed driver code for the sensor, recording framework for collecting
    gesture samples, implemented classification techniques
 
+*** Multi-Leap | Multiple LeapMotion controllers on one machine
+[[https://youtu.be/X4LNkIV6XO8][Demo on YouTube]]
+ * Multiple leapmotion hand trackers on one machine, multiplexed through
+   systemd-nspawn
+ * Doesn't require any virtual machines, fault-tolerant
+ * Can be used over the network or locally for interactive applications
+
 *** Spodder | Event driven social network on a map 
 [[http://www.spodder.io][Website TBA]]
  * Allows users to anonymously add and discover 'beacons' on a shared map, with
