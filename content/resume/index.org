@@ -20,6 +20,8 @@ July 2018 - August 2019 | San Diego, CA
  * Created customer reporting integrations for Office365 using ReactJs
  * Moved backend data infrastructure from non-reproducible deployments to
    turnkey instantiation using Azure RM templates, Ansible, and Docker
+ * Maintained a set of polyglot backend services critical to the
+   application, including technologies implemented in C#, Java, and Python
  * Implemented a full-stack search-by-location capability by aggregating on a
    flat address per document, allowing customers to easily find content in
    places relevant to their business
