@@ -32,8 +32,8 @@ July 2018 - August 2019 | San Diego, CA
    places relevant to their business
  * Eliminated wasted time and human error from manually deploying backbone
    architecture by automating with Azure RM templates, Ansible, and Docker
- * Deployed and maintained a set of polyglot backend API services which added
-   critical new features, including technologies implemented in C#, Java, and
+ * Deployed and maintained a set of polyglot backend REST API services which
+   added critical features, including technologies implemented in C#, Java, and
    Python
  * Used Kibana to identify search performance bottlenecks and improve customer
    experience
@@ -105,15 +105,17 @@ September 2017 - January 2018 | Salinas, CA
  - C++ \bull C\# \bull C \bull Rust
  - Java / Android \bull Clojure[Script]
  - JavaScript(ECMA) \bull React.js/Native
- - Python \bull ShellScript
+ - Python \bull Flask
+ - ShellScript
  - Unity3D
  - SocketIO
- - Elastic Stack \bull ASP.NET \bull SQL Server
+ - Elastic Stack \bull ASP.NET Core \bull SQL Server
  - OpenGL/DirectX \bull R
  - SciKit Learn \bull Tensorflow
+ - REST API Design \bull GraphQL
    
 *** IT/DevOps
- - Ansible \bull AWS \bull Azure
+ - Ansible \bull Docker \bull AWS \bull Azure
  - Linux/*nix Admin/Support
  - Windows Setup/Support
  - Unix Tools/Scripts
