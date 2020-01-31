@@ -3,7 +3,7 @@
 #+LINKCOLOR: blue
 #+LINKSTYLE: type
 #+PAGENUMBERING: state=stop
-[[/resume.pdf][PDF Version]]
+[[http://jsullivan.cc/resume.pdf][PDF Version]] | [[http://jsullivan.cc/resume][On my website]]
 
 [[mailto:jsullivan@csumb.edu][jsullivan@csumb.edu]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
