@@ -4,10 +4,6 @@ title: "Traceur: VR exercise gamified"
 
 - [[https://studentgames.itch.io/traceur][On Itch.io]]
   
-#+BEGIN_EXPORT html
-<iframe src="https://drive.google.com/file/d/0B1DkmJkXgmzqanNiY2hKT0pCMlE/preview" width="640" height="480"></iframe>
-#+END_EXPORT
-
 Concept of an infinite runner as a VR exercise game. I worked on this as
 part of a small team for my game programming final project.
 

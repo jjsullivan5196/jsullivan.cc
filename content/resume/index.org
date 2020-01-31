@@ -15,41 +15,68 @@ References available upon request
  * Eagle Rock High School, June 2014
 
 ** Experience
+*** Co-Founder/Software Developer | Spodder
+August 2019 - Present | Remote
+ * Allows users to anonymously add and discover 'beacons' on a shared map, with
+   info on what's going on in the area with text/photos
+ * Created mobile app using React Native/React-Redux with integrated analytics
+   tracking and more
+
 *** Software Engineer II | Capture2 
 July 2018 - August 2019 | San Diego, CA
- * Created customer reporting integrations for Office365 using ReactJs
- * Moved backend data infrastructure from non-reproducible deployments to
-   turnkey instantiation using Azure RM templates, Ansible, and Docker
- * Maintained a set of polyglot backend services critical to the
-   application, including technologies implemented in C#, Java, and Python
+ * Created reporting integrations for Office365 using ReactJs, allowing
+   customers to create internal reports using tools they're already familiar
+   with
  * Implemented a full-stack search-by-location capability by aggregating on a
-   flat address per document, allowing customers to easily find content in
+   flat address per document, allowing customers to easily find opportunities in
    places relevant to their business
+ * Eliminated wasted time and human error from manually deploying backbone
+   architecture by automating with Azure RM templates, Ansible, and Docker
+ * Deployed and maintained a set of polyglot backend API services which added
+   critical new features, including technologies implemented in C#, Java, and
+   Python
  * Used Kibana to identify search performance bottlenecks and improve customer
    experience
 
 *** Teaching Assistant | TA++ Program, CSUMB SCD 
 August 2016 - June 2018 | Seaside, CA
- * Collaborated on an engaging and interactive intro programming curriculum,
+ * Delivered quality instructional assistance to the Intro, Multimedia, and Web
+   programming classes
+ * Advised students on technical considerations for python multimedia projects
+ * Collaborated on an engaging and interactive intro programming curriculum
    including in class labs, study sessions, and extracurricular activities
  * Directed Peer-Led-Team-Learning sessions that improved student cooperation
    and practical problem-solving skills
 
 *** Undergrad Researcher | CSUMB-UROC Research Internship 
 May 2016 - August 2017 | Seaside, CA
- * Developed novel locomotion input techniques for Samsung Gear VR
+ * Synthesized original research in computer input peripherals
+ * Used data science methodologies/scikit to test signal processing and classification
+   techniques
  * Assisted in other VR/peripheral related projects in a cooperative lab
    environment
 
 *** Computer Repair Volunteer | Loaves Fishes and Computers
 September 2017 - January 2018 | Salinas, CA
- * Worked  as  a technician  assisting  with  refurb  of computers  for  in-need
+ * Worked as a technician assisting with refurb of computers for in-need
    community members
  * Wrote software for automated hardware lifetime checks & issue reporting
  * Assisted customers one-on-one in technical support and consultation
 
 ** Highlighted Projects
-*** Flex | hand gesture recognition using muscle flexing sensors 
+*** AttentiveAI | Using ubiquitous 5G for classroom engagement
+[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]
+ * Application that gives teachers realtime information on classroom attention,
+   based on computer vision and IoT devices. Consulted on the concept and
+   provided guidance for using React Native
+
+*** Trumpbot | RNN trained on tweets to generate new messages
+[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]
+ * Takes tweets from @realDonaldTrump and creates new messages. Uses
+   preprocessing techniques in sklearn and an RNN-based text generator written
+   in tensorflow
+
+*** Flex | Hand gesture recognition using muscle flexing sensors
 [[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]
  * Used multiple recurrent neural networks in a bagging configuration to
    classify gestures used by the Myo sensor
@@ -62,24 +89,6 @@ September 2017 - January 2018 | Salinas, CA
    systemd-nspawn
  * Doesn't require any virtual machines, fault-tolerant
  * Can be used over the network or locally for interactive applications
-
-*** Spodder | Event driven social network on a map 
-[[http://www.spodder.io][Website TBA]]
- * Allows users to anonymously add and discover 'beacons' on a shared map, with
-   info on what's going on in the area with text/photos. Frontend mobile app
-   using React Native/React-Redux with integrated analytics tracking and more.
-
-*** AttentiveAI | Using ubiquitous 5G for classroom engagement 
-[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]
- * Application that gives teachers realtime information on classroom attention,
-   based on computer vision and IoT devices. Consulted on the concept and
-   provided guidance for using React Native
-
-*** Trumpbot | RNN trained on tweets to generate new messages 
-[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]
- * Takes tweets from @realDonaldTrump and creates new messages. Uses
-   preprocessing techniques in sklearn and an RNN-based text generator written
-   in tensorflow
 
 ** Coursework
  - Operating Systems
@@ -94,8 +103,8 @@ September 2017 - January 2018 | Salinas, CA
 ** Skills
 *** Languages/Tech
  - C++ \bull C\# \bull C \bull Rust
- - Java / Android \bull Clojure
- - Javascript(ECMA) \bull React.js/Native
+ - Java / Android \bull Clojure[Script]
+ - JavaScript(ECMA) \bull React.js/Native
  - Python \bull ShellScript
  - Unity3D
  - SocketIO
