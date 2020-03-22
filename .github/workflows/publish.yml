@@ -15,11 +15,6 @@ jobs:
       
     - name: Init modules
       run: git submodule update --init
-
-    #- name: Add resume to static
-    #  uses: docker://pandoc/latex:latest
-    #  with:
-    #    args: "-t context -o static/resume.pdf content/resume/index.org"
     
     - name: Generate site
       uses: klakegg/actions-hugo@1.0.0
