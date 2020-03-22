@@ -3,7 +3,7 @@
 #+LINKCOLOR: blue
 #+LINKSTYLE: type
 #+PAGENUMBERING: state=stop
-[[http://jsullivan.cc/resume.pdf][PDF Version]] | [[http://jsullivan.cc/resume][On my website]]
+[[http://www.jsullivan.cc/resume.pdf][PDF Version]] | [[http://www.jsullivan.cc/resume][On my website]]
 
 [[mailto:jsullivan@csumb.edu][jsullivan@csumb.edu]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
@@ -22,7 +22,7 @@ August 2019 - Present | Remote
  * Created mobile app using React Native/React-Redux with integrated analytics
    tracking and more
 
-*** Software Engineer II | Capture2 
+*** Software Engineer II | Capture2
 July 2018 - August 2019 | San Diego, CA
  * Created reporting integrations for Office365 using ReactJs, allowing
    customers to create internal reports using tools they're already familiar
@@ -38,7 +38,7 @@ July 2018 - August 2019 | San Diego, CA
  * Used Kibana to identify search performance bottlenecks and improve customer
    experience
 
-*** Teaching Assistant | TA++ Program, CSUMB SCD 
+*** Teaching Assistant | TA++ Program, CSUMB SCD
 August 2016 - June 2018 | Seaside, CA
  * Delivered quality instructional assistance to the Intro, Multimedia, and Web
    programming classes
@@ -48,7 +48,7 @@ August 2016 - June 2018 | Seaside, CA
  * Directed Peer-Led-Team-Learning sessions that improved student cooperation
    and practical problem-solving skills
 
-*** Undergrad Researcher | CSUMB-UROC Research Internship 
+*** Undergrad Researcher | CSUMB-UROC Research Internship
 May 2016 - August 2017 | Seaside, CA
  * Synthesized original research in computer input peripherals
  * Used data science methodologies/scikit to test signal processing and classification
@@ -99,7 +99,7 @@ September 2017 - January 2018 | Salinas, CA
  - Software Design
  - Game Programming
  - Computer Networking
-   
+
 ** Skills
 *** Languages/Tech
  - C++ \bull C\# \bull C \bull Rust
@@ -113,7 +113,7 @@ September 2017 - January 2018 | Salinas, CA
  - OpenGL/DirectX \bull R
  - SciKit Learn \bull Tensorflow
  - REST API Design \bull GraphQL
-   
+
 *** IT/DevOps
  - Ansible \bull Docker \bull AWS \bull Azure
  - Linux/*nix Admin/Support
