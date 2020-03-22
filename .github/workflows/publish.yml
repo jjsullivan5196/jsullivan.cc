@@ -1,0 +1,39 @@
+name: Publish gh-pages
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+      
+    - name: Init modules
+      run: git submodule update --init
+
+    #- name: Add resume to static
+    #  uses: docker://pandoc/latex:latest
+    #  with:
+    #    args: "-t context -o static/resume.pdf content/resume/index.org"
+    
+    - name: Generate site
+      uses: klakegg/actions-hugo@1.0.0
+    
+    - name: Push to gh-pages
+      run: |
+        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+        git config --global user.name "Github Actions"
+        git config --global user.email "actions@github.com"
+        
+        git fetch github
+        git checkout gh-pages
+        cp -r public/* $GITHUB_WORKSPACE/
+        
+        git add -A
+        git commit -m "Updating gh-pages"
+        git push github gh-pages
