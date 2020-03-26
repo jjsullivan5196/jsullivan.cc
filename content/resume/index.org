@@ -15,8 +15,14 @@ References available upon request
  * Eagle Rock High School, June 2014
 
 ** Experience
+*** Freelance Software Developer
+January 2020 | Los Angeles/Remote
+ * Providing various technical services to clients, such as backend software or
+   web development
+ * Consulting for software installation, hosting, etc
+
 *** Co-Founder/Software Developer | Spodder
-August 2019 - Present | Remote
+August 2019 | Remote
  * Allows users to anonymously add and discover 'beacons' on a shared map, with
    info on what's going on in the area with text/photos
  * Created mobile app using React Native/React-Redux with integrated analytics
