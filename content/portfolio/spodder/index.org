@@ -1,5 +1,5 @@
 ---
-title: "Spodder: Event-driven social network on a map"
+title: "Spodder -- Find places and events right around you"
 ---
 
 - [[http://www.spodder.io/][Website TBA]]

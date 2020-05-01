@@ -1,9 +1,11 @@
 ---
-title: "Flex: Hand Gesture Recognition using Muscle Flexing Sensors"
+title: "Flex -- Hand Gesture Recognition using Muscle Flexing Sensors"
 ---
 
-- [[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]
-- [[https://github.com/jjsullivan5196/flex][Test data/Driver code]]
+{{< youtube 4zgQ9ko6Kss >}}
+
+- *[[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]*
+- *[[https://github.com/jjsullivan5196/flex][Test data/Driver code]]*
 
 A poster I co-authored demonstrating a novel gesture sensor, built from
 an array of bend resistors.

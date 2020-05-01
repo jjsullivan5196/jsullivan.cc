@@ -1,8 +1,8 @@
 ---
-title: "Trumble: The world's greatest robot, you wouldn't believe"
+title: "Trumble -- The world's greatest robot, you wouldn't believe"
 ---
 
-- [[https://github.com/jjsullivan5196/trumble/blob/master/RNN%20For%20Text%20Generation.ipynb][Demo Jupyter Notebook]]
+- *[[https://github.com/jjsullivan5196/trumble/blob/master/RNN%20For%20Text%20Generation.ipynb][Demo Jupyter Notebook]]*
 
 What happens when you put Donald Trump's twitter account into a
 recurrent neural network? You get a trump robot of course.

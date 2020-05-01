@@ -1,8 +1,12 @@
 ---
-title: "Clamparking: Parking space management with minimal to zero infrastructure"
+title: "Clamparking -- Parking space management with minimal overhead"
 ---
 
- - [[/clampark.pdf][Product presentation]]
+#+BEGIN_EXPORT html
+<object data="/clampark.pdf" type="application/pdf"></object>
+#+END_EXPORT
+
+ - *[[/clampark.pdf][Product presentation]]*
 
 This was the final deliverable for a computer architecture class. We were asked
 to design an IOT product that would solve a specific problem, and the greatest

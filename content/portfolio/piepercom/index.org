@@ -2,7 +2,7 @@
 title: "Portfolio Website for Pieper Construction"
 ---
 
- - [[https://pieperconstruction.com][pieperconstruction.com]]
+ - *[[https://pieperconstruction.com][pieperconstruction.com]]*
 
 A local construction company in LA needed a new website to exhibit their
 previous work. Their old site was predicated mostly on SEO content, without much
