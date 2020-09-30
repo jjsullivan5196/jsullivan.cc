@@ -1,130 +1,119 @@
-#+TITLE: John Sullivan
-#+LAYOUT: topspace=0mm,height=300mm
 #+LINKCOLOR: blue
 #+LINKSTYLE: type
-#+PAGENUMBERING: state=stop
-[[https://www.jsullivan.cc/resume.pdf][PDF Version]] | [[https://www.jsullivan.cc/resume][On my website]]
+#+GEOMETRY: margin=1.5cm
+
+#+BEGIN_EXPORT latex
+\pagenumbering{gobble}
+#+END_EXPORT
+* John Sullivan
+
+[[https://www.jsullivan.cc/resume.pdf][PDF Version]] | [[https://raw.githubusercontent.com/jjsullivan5196/jsullivan.cc/master/content/resume/index.org][org-mode plaintext]] | [[https://www.jsullivan.cc/resume][On my website]]
 
 [[mailto:jsullivan@csumb.edu][jsullivan@csumb.edu]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
 References available upon request
 
 ** Education
- * B.S. Computer Science, CSU Monterey Bay, May 2018
-
- * Eagle Rock High School, June 2014
+ - B.S. Computer Science, CSU Monterey Bay, May 2018
+ - Eagle Rock High School, June 2014
 
 ** Experience
 *** Freelance Software Developer
 January 2020 | Los Angeles/Remote
- * Provide technical services to clients, such as backend software or web
+ - Provide technical services to clients, such as backend software or web
    development
- * Determine scope and outcomes for client projects
- * Consulting for software installation, hosting, etc
+ - Determine scope and outcomes for client projects
+ - Consulting for software installation, hosting, etc
+ - Delivered such products as a scheduler for an interactive LED display at the
+   LA Music Center, multiple client portfolio websites, and more
 
 *** Co-Founder/Software Developer | Spodder
 August 2019 | Remote
- * Allows users to anonymously add and discover 'beacons' on a shared map, which
+ - Allows users to anonymously add and discover 'beacons' on a shared map, which
    detail local places and events
- * Created mobile app using React Native/React-Redux with integrated analytics
+ - Created mobile app using React Native/React-Redux with integrated analytics
    tracking and more
 
 *** Software Engineer II | Capture2
 July 2018 - August 2019 | San Diego, CA
- * Created reporting integrations for Office365 using ReactJs, allows customers
+ - Created reporting integrations for Office365 using ReactJs, allows customers
    to create reports using tools they're already familiar with
- * Implemented a search-by-location capability for govt business opportunities,
+ - Implemented a search-by-location capability for govt business opportunities,
    allowing customers to easily find opportunities in places relevant to their
    business
- * Eliminated wasted time and human error from manually deploying backbone
+ - Eliminated wasted time and human error from manually deploying backbone
    architecture by automating with Azure RM templates, Ansible, and Docker
- * Deployed and maintained a set of polyglot backend REST API services which
+ - Deployed and maintained a set of polyglot backend REST API services which
    added critical features, including technologies implemented in C#, Java, and
    Python
- * Used Kibana to identify search performance bottlenecks and improve customer
+ - Used Kibana to identify search performance bottlenecks and improve customer
    experience
 
 *** Teaching Assistant | TA++ Program, CSUMB SCD
 August 2016 - June 2018 | Seaside, CA
- * Delivered quality instructional assistance to the Intro, Multimedia, and Web
+ - Delivered quality instructional assistance to the Intro, Multimedia, and Web
    programming classes
- * Advised students on technical considerations for python multimedia projects
- * Collaborated on an engaging intro programming curriculum including in class
+ - Advised students on technical considerations for python multimedia projects
+ - Collaborated on an engaging intro programming curriculum including in class
    labs, study sessions, and extracurricular activities
- * Directed Peer-Led-Team-Learning sessions that improved student cooperation
+ - Directed Peer-Led-Team-Learning sessions that improved student cooperation
    and practical problem-solving skills
 
 *** Undergrad Researcher | CSUMB-UROC Research Internship
 May 2016 - August 2017 | Seaside, CA
- * Synthesized original research in computer input peripherals
- * Used data science methodologies/scikit to test signal processing and classification
+ - Synthesized original research in computer input peripherals
+ - Used data science methodologies/scikit to test signal processing and classification
    techniques
- * Assisted in other VR/peripheral related projects in a cooperative lab
+ - Assisted in other VR/peripheral related projects in a cooperative lab
    environment
 
 *** Computer Repair Volunteer | Loaves Fishes and Computers
 September 2017 - January 2018 | Salinas, CA
- * Technician assisting with refurb of computers for in-need community members
- * Wrote software for automated hardware lifetime checks & issue reporting
- * Assisted customers one-on-one in technical support and consultation
+ - Technician assisting with refurb of computers for in-need community members
+ - Wrote software for automated hardware lifetime checks & issue reporting
+ - Assisted customers one-on-one in technical support and consultation
 
 ** Highlighted Projects
 *** AttentiveAI | Using ubiquitous 5G for classroom engagement
 *[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]*
- * Application that gives teachers realtime information on classroom attention,
+ - Application that gives teachers realtime information on classroom attention,
    using computer vision and IoT devices. Consulted on the concept and provided
    guidance for using React Native
 
 *** Trumpbot | RNN trained on tweets to generate new messages
 *[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]*
- * Takes tweets from @realDonaldTrump and creates new messages. Uses
+ - Takes tweets from @realDonaldTrump and creates new messages. Uses
    preprocessing techniques in sklearn and an RNN-based text generator written
    in tensorflow
 
 *** Flex | Hand gesture recognition using muscle flexing sensors
 *[[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]*
- * Novel gesture sensor intended for use as a general-purpose remote control
- * Used multiple recurrent neural networks in a bagging configuration to
+ - Novel gesture sensor intended for use as a general-purpose remote control
+ - Used multiple recurrent neural networks in a bagging configuration to
    classify gestures used by the Myo sensor
- * Developed driver code for the sensor, recording framework for collecting
+ - Developed driver code for the sensor, recording framework for collecting
    gesture samples, implemented classification techniques
 
 *** Multi-Leap | Multiple LeapMotion controllers on one machine
 *[[https://youtu.be/X4LNkIV6XO8][Demo on YouTube]]*
- * System that allows for multiple people to use an interactive projection
+ - System that allows for multiple people to use an interactive projection
    surface at the same time
- * Multiple leapmotion hand trackers on one machine, multiplexed through
+ - Multiple leapmotion hand trackers on one machine, multiplexed through
    systemd-nspawn
- * Doesn't require any virtual machines, fault-tolerant
- * Can be used over the network or locally for interactive applications
+ - Doesn't require any virtual machines, fault-tolerant
+ - Can be used over the network or locally for interactive applications
 
 ** Skills
-*** Experience Areas
- - Operating Systems
- - Data Mining
- - Machine Learning
- - Graphics Programming
- - Multimedia Programming
- - Software Design
- - Game Programming
- - Computer Networking
-
-*** Languages/Tech
- - C++ \bull C\# \bull C \bull Rust
- - Java / Android \bull Clojure[Script]
- - JavaScript(ECMA) \bull React.js/Native
- - Python \bull Flask
- - ShellScript
- - Unity3D
- - SocketIO
- - Elastic Stack \bull ASP.NET Core \bull SQL Server
- - OpenGL/DirectX \bull R
- - SciKit Learn \bull Tensorflow
- - REST API Design \bull GraphQL
-
-*** IT/DevOps
- - Ansible \bull Docker \bull AWS \bull Azure
- - Linux/*nix Admin/Support
- - Windows Setup/Support
- - Unix Tools/Scripts
- - Git collaboration, build hooks, CI
+| Experience Areas       | Languages/Tech                                    | IT/DevOps                                  |
+|------------------------+---------------------------------------------------+--------------------------------------------|
+| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull AWS \bull Azure |
+| Data Mining            | Java / Android \bull Clojure[Script]              | Linux/*nix Admin/Support                   |
+| Machine Learning       | JavaScript(ECMA) \bull React.js/Native            | Windows Setup/Support                      |
+| Graphics Programming   | Python \bull Flask                                | Unix Tools/Scripts                         |
+| Multimedia Programming | Unix shell                                        | Git collaboration, build hooks, CI         |
+| Software Design        | Unity3D                                           |                                            |
+| Game Programming       | TCP/UDP Sockets                                   |                                            |
+| Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server |                                            |
+|                        | OpenGL/DirectX \bull R                            |                                            |
+|                        | SciKit Learn \bull Tensorflow                     |                                            |
+|                        | REST API Design \bull GraphQL                     |                                            |
