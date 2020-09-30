@@ -15,20 +15,27 @@ jobs:
       
     - name: Init modules
       run: git submodule update --init
+
+    - name: Generate resume pdf
+      uses: docker://pandoc/latex:2.9.2.1
+      with:
+        args: -o static/resume.pdf content/resume/index.org
     
     - name: Generate site
-      uses: klakegg/actions-hugo@1.0.0
+      uses: docker://klakegg/hugo:0.75.1-alpine
     
     - name: Push to gh-pages
       run: |
-        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+        export SITEPUB="$HOME/gh-pages"
+
         git config --global user.name "Github Actions"
         git config --global user.email "actions@github.com"
-        
-        git fetch github
-        git checkout gh-pages
-        cp -r public/* $GITHUB_WORKSPACE/
-        
-        git add -A
-        git commit --amend -m "Publish gh-pages"
-        git push -f github gh-pages
+
+        git clone --depth 1 -b gh-pages \
+          "https://$GITHUB_ACTOR:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" \
+          $SITEPUB
+
+        cp -r $GITHUB_WORKSPACE/public/* $SITEPUB
+        git -C $SITEPUB add -A
+        git -C $SITEPUB commit --amend -m "Publish gh-pages"
+        git -C $SITEPUB push -f origin gh-pages
