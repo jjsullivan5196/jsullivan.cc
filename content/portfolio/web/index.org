@@ -1,0 +1,9 @@
+---
+title: "Misc web design"
+---
+
+Here's some of my other work from the web:
+
+ - [[https://makenibeats.com/][Personal site for local artist]]
+ - [[https://dancelawyer.squarespace.com/][Squarespace theme for online publication]]
+ - [[ http://uist.acm.org/uist2020/gallery.html][Gallery site for a scientific conference]]
