@@ -18,7 +18,8 @@ January 2020 | Los Angeles/Remote
  - Determine scope and outcomes for client projects
  - Consulting for software installation, hosting, etc
  - Delivered such products as a scheduler for an interactive LED display at the
-   LA Music Center, multiple client portfolio websites, and more
+   LA Music Center, custom web applications, multiple client portfolio websites,
+   and more
 
 *** Co-Founder/Software Developer | Spodder
 August 2019 | Remote
