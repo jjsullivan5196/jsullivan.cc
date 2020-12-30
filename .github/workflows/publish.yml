@@ -19,7 +19,7 @@ jobs:
     - name: Generate resume pdf
       uses: docker://pandoc/latex:2.9.2.1
       with:
-        args: -o static/resume.pdf content/resume/index.org
+        args: --metadata-file content/resume/meta.yaml -o static/resume.pdf content/resume/index.org
     
     - name: Generate site
       uses: docker://klakegg/hugo:0.75.1-alpine

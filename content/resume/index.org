@@ -1,10 +1,3 @@
-#+LINKCOLOR: blue
-#+LINKSTYLE: type
-#+GEOMETRY: margin=1.5cm
-
-#+BEGIN_EXPORT latex
-\pagenumbering{gobble}
-#+END_EXPORT
 * John Sullivan
 
 [[https://www.jsullivan.cc/resume.pdf][PDF Version]] | [[https://raw.githubusercontent.com/jjsullivan5196/jsullivan.cc/master/content/resume/index.org][org-mode plaintext]] | [[https://www.jsullivan.cc/resume][On my website]]

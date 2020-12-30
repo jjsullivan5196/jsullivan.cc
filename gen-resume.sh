@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-pandoc -o static/resume.pdf content/resume/index.org
+pandoc --metadata-file content/resume/meta.yaml -o resume.pdf content/resume/index.org
