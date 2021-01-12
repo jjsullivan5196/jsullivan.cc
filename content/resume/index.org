@@ -12,7 +12,7 @@ References available upon request
 
 ** Experience
 *** Freelance Software Developer
-January 2020 | Los Angeles/Remote
+January 2020 - Present | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
    development
  - Determine scope and outcomes for client projects
@@ -22,7 +22,7 @@ January 2020 | Los Angeles/Remote
    and more
 
 *** Co-Founder/Software Developer | Spodder
-August 2019 | Remote
+August 2019 - January 2020 | Remote
  - Allows users to anonymously add and discover 'beacons' on a shared map, which
    detail local places and events
  - Created mobile app using React Native/React-Redux with integrated analytics
