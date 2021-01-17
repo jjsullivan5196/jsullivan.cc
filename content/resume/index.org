@@ -36,7 +36,8 @@ July 2018 - August 2019 | San Diego, CA
    allowing customers to easily find opportunities in places relevant to their
    business
  - Eliminated wasted time and human error from manually deploying backbone
-   architecture by automating with Azure RM templates, Ansible, and Docker
+   architecture by automating with Azure RM templates, Ansible, Docker, and
+   Kubernetes
  - Deployed and maintained a set of polyglot backend REST API services which
    added critical features, including technologies implemented in C#, Java, and
    Python
@@ -102,16 +103,16 @@ September 2017 - January 2018 | Salinas, CA
  - Can be used over the network or locally for interactive applications
 
 ** Skills
-| Experience Areas       | Languages/Tech                                    | IT/DevOps                                  |
-|------------------------+---------------------------------------------------+--------------------------------------------|
-| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull AWS \bull Azure |
-| Data Mining            | Java / Android \bull Clojure[Script]              | Linux/*nix Admin/Support                   |
-| Machine Learning       | JavaScript(ECMA) \bull React.js/Native            | Windows Setup/Support                      |
-| Graphics Programming   | Python \bull Flask                                | Unix Tools/Scripts                         |
-| Multimedia Programming | Unix shell                                        | Git collaboration, build hooks, CI         |
-| Software Design        | Unity3D                                           |                                            |
-| Game Programming       | TCP/UDP Sockets                                   |                                            |
-| Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server |                                            |
-|                        | OpenGL/DirectX \bull R                            |                                            |
-|                        | SciKit Learn \bull Tensorflow                     |                                            |
-|                        | REST API Design \bull GraphQL                     |                                            |
+| Experience Areas       | Languages/Tech                                    | IT/DevOps                                                   |
+|------------------------+---------------------------------------------------+-------------------------------------------------------------|
+| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull Kubernetes \bull AWS \bull Azure |
+| Data Mining            | Java / Android \bull Clojure[Script]              | Linux/*nix Admin/Support                                    |
+| Machine Learning       | JavaScript(ECMA) \bull React.js/Native            | Windows Setup/Support                                       |
+| Graphics Programming   | Python \bull Flask                                | Unix Tools/Scripts                                          |
+| Multimedia Programming | Unix shell                                        | Git collaboration, build hooks, CI                          |
+| Software Design        | Unity3D                                           |                                                             |
+| Game Programming       | TCP/UDP Sockets                                   |                                                             |
+| Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server |                                                             |
+|                        | OpenGL/DirectX \bull R                            |                                                             |
+|                        | SciKit Learn \bull Tensorflow                     |                                                             |
+|                        | REST API Design \bull GraphQL                     |                                                             |
