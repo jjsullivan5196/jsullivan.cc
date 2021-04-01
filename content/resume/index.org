@@ -16,7 +16,8 @@ January 2020 - Present | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
    development
  - Determine scope and outcomes for client projects
- - Consulting for software installation, hosting, etc
+ - Consulting for software installation and operations, hosting, recurring
+   costs, etc
  - Delivered such products as a scheduler for an interactive LED display at the
    LA Music Center, custom web applications, multiple client portfolio websites,
    and more
@@ -26,7 +27,9 @@ August 2019 - January 2020 | Remote
  - Allows users to anonymously add and discover 'beacons' on a shared map, which
    detail local places and events
  - Created mobile app using React Native/React-Redux with integrated analytics
-   tracking and more
+   tracking
+ - Deployed infrastructure using docker-compose and cloud-native services like
+   S3
 
 *** Software Engineer II | Capture2
 July 2018 - August 2019 | San Diego, CA
@@ -60,7 +63,7 @@ May 2016 - August 2017 | Seaside, CA
  - Used data science methodologies/scikit to test signal processing and classification
    techniques
  - Assisted in other VR/peripheral related projects in a cooperative lab
-   environment
+   environment, particularly in system administration/maintenance activities
 
 ** Misc Experience
 *** US Census Enumerator | US Census Bureau
@@ -110,8 +113,8 @@ September 2017 - January 2018 | Salinas, CA
 | Machine Learning       | JavaScript(ECMA) \bull React.js/Native            | Windows Setup/Support                                       |
 | Graphics Programming   | Python \bull Flask                                | Unix Tools/Scripts                                          |
 | Multimedia Programming | Unix shell                                        | Git collaboration, build hooks, CI                          |
-| Software Design        | Unity3D                                           |                                                             |
-| Game Programming       | TCP/UDP Sockets                                   |                                                             |
+| Software Design        | Unity3D                                           | Network admin, filtering, subnets                           |
+| Game Programming       | TCP/UDP Sockets                                   | Azure AD, group management, automation roles                |
 | Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server |                                                             |
 |                        | OpenGL/DirectX \bull R                            |                                                             |
 |                        | SciKit Learn \bull Tensorflow                     |                                                             |
