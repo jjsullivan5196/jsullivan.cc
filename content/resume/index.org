@@ -11,8 +11,10 @@ References available upon request
  - Eagle Rock High School, June 2014
 
 ** Experience
+*** Contract Software Engineer | Walmart via Insight Global
+March 2021 - Present | Remote
 *** Freelance Software Developer
-January 2020 - Present | Los Angeles/Remote
+January 2020 - March 2021 | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
    development
  - Determine scope and outcomes for client projects
