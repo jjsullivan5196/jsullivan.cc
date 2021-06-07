@@ -4,15 +4,32 @@
 
 [[mailto:jsullivan@csumb.edu][jsullivan@csumb.edu]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
-References available upon request
 
-** Education
- - B.S. Computer Science, CSU Monterey Bay, May 2018
- - Eagle Rock High School, June 2014
+** Skills
+| Experience Areas       | Languages/Tech                                    | IT/DevOps                                                   |
+|------------------------+---------------------------------------------------+-------------------------------------------------------------|
+| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull Kubernetes \bull AWS \bull Azure |
+| Data Mining            | Java / Android \bull Clojure[Script]              | Linux/*nix Admin/Support                                    |
+| Machine Learning       | JavaScript(ECMA) \bull React.js/Native            | Windows Setup/Support                                       |
+| Graphics Programming   | Python \bull Flask                                | Unix Tools/Scripts                                          |
+| Multimedia Programming | Unix shell                                        | Git collaboration, build hooks, CI                          |
+| Software Design        | Unity3D                                           | Network admin, filtering, subnets                           |
+| Game Programming       | TCP/UDP Sockets                                   | Azure AD, group management, automation roles                |
+| Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server |                                                             |
+|                        | OpenGL/DirectX \bull R                            |                                                             |
+|                        | SciKit Learn \bull Tensorflow                     |                                                             |
+|                        | REST API Design \bull GraphQL                     |                                                             |
 
 ** Experience
 *** Contract Software Engineer | Walmart via Insight Global
 March 2021 - Present | Remote
+ - Creating solutions for pushing real-time updates of price information to
+   stores through the Walmart chain
+ - Maintaining and improving a customized, large-scale stream processing
+   application running on Apache Kafka and Clojure
+ - Adding visibility to production performance through grafana dashboards &
+   alerts
+
 *** Freelance Software Developer
 January 2020 - March 2021 | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
@@ -107,17 +124,8 @@ September 2017 - January 2018 | Salinas, CA
  - Doesn't require any virtual machines, fault-tolerant
  - Can be used over the network or locally for interactive applications
 
-** Skills
-| Experience Areas       | Languages/Tech                                    | IT/DevOps                                                   |
-|------------------------+---------------------------------------------------+-------------------------------------------------------------|
-| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull Kubernetes \bull AWS \bull Azure |
-| Data Mining            | Java / Android \bull Clojure[Script]              | Linux/*nix Admin/Support                                    |
-| Machine Learning       | JavaScript(ECMA) \bull React.js/Native            | Windows Setup/Support                                       |
-| Graphics Programming   | Python \bull Flask                                | Unix Tools/Scripts                                          |
-| Multimedia Programming | Unix shell                                        | Git collaboration, build hooks, CI                          |
-| Software Design        | Unity3D                                           | Network admin, filtering, subnets                           |
-| Game Programming       | TCP/UDP Sockets                                   | Azure AD, group management, automation roles                |
-| Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server |                                                             |
-|                        | OpenGL/DirectX \bull R                            |                                                             |
-|                        | SciKit Learn \bull Tensorflow                     |                                                             |
-|                        | REST API Design \bull GraphQL                     |                                                             |
+** Education
+ - B.S. Computer Science, CSU Monterey Bay, May 2018
+ - Eagle Rock High School, June 2014
+
+References available upon request
