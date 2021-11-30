@@ -22,7 +22,7 @@
 
 ** Experience
 *** Contract Software Engineer | Walmart via Insight Global
-March 2021 | Remote
+March 2021 - September 2021 | Remote
  - Creating solutions for pushing real-time updates of price information to
    stores through the Walmart chain
  - Maintaining and improving a customized, large-scale stream processing
