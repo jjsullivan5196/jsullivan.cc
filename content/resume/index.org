@@ -21,6 +21,16 @@
 |                        | REST API Design \bull GraphQL                     |                                                             |
 
 ** Experience
+*** Staff Engineer | yU+co
+January 2022 | Los Angeles
+ - Maintenance and development of studio production infrastructure: internal
+   networks, web presence, central storage, render farm, etc
+ - Implemented policy and practice for studio asset security
+ - Responsible for on-call technical support, resolving hardware and software
+   issues to meet deadlines
+ - Engineering consultant for various internal and external projects, guidance
+   for building robust and sustainable systems
+
 *** Contract Software Engineer | Walmart via Insight Global
 March 2021 - September 2021 | Remote
  - Creating solutions for pushing real-time updates of price information to
