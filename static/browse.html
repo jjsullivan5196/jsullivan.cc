@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Browse dbpedia</title>
+        <style>
+        /* vars */
+        :root {
+            --font: sans-serif;
+
+            --main-bg: lightgray;
+            --card-bg: white;
+
+            --stack-margin: 5vw;
+            --stack-gap: 25px;
+
+            --card-padding: 15px;
+            --card-shadow: 0 0 5px black;
+
+            --url-input-width: 35%;
+        }
+
+        /* utils */
+        .col {
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* styles */
+        body, html {
+            font-family: var(--font);
+            background-color: var(--main-bg);
+        }
+
+        #stack {
+            margin-left: var(--stack-margin);
+            margin-right: var(--stack-margin);
+            gap: var(--stack-gap);
+        }
+
+        #stack article {
+            box-shadow: var(--card-shadow);
+            padding: var(--card-padding);
+        }
+
+        article {
+            background-color: var(--card-bg);
+        }
+
+        #get-resource input[name="res"] {
+            width: var(--url-input-width);
+        }
+        </style>
+    </head>
+    <body>
+    <main>
+    <section id="stack" class="col">
+        <article>
+            <h1>dbpedia browser</h1>
+
+            <p>Just a fun experiment with the dbpedia API. This app is one HTML file with an embedded script. (no javascript or CSS deps from the internet)</p> 
+            <p>Put the URL of a dbpedia resource below and click "Get" to see a summary + links for a wikipedia article. Any referred links (See also) you click on will stack up as cards on this page.</p>
+            <p>
+                <b>Note:</b> only works with page resources. (for now)
+            </p>
+
+            <p><a href="https://github.com/jjsullivan5196/jsullivan.cc/blob/master/static/browse.html">Source Code</a> (Or just save this page)</p>
+        </article>
+        <article id="controls">
+        <form id="get-resource">
+            <label>
+                Resource: 
+                <input 
+                    name="res" 
+                    type="url" 
+                    value="http://dbpedia.org/resource/Memex" 
+                />
+            </label>
+            <input type="submit" value="Get" />
+        </form>
+        </article>
+    </section>
+    </main>
+    </body>
+    <script>
+        function on_find_dbresource(e) {
+            e.preventDefault();
+
+            const data = new FormData(e.target);
+            show_dbpedia_resource(data.get('res'));
+        }
+
+        function select_lang(name) {
+            const is_lang = attr => attr['@language'] == name;
+
+            return function(vals) {
+                return vals.find(is_lang)['@value'];
+            }
+        }
+
+        const [lang_id, ..._] = window.navigator.language.split('-');
+        const select_browser_lang = select_lang(lang_id);
+
+        function get_ld(url) {
+            return fetch(url, {
+                headers: {
+                    'Accept': 'application/ld+json'
+                }
+            }).then(r => r.json());
+        }
+
+        function dbpedia_card(data) {
+            const [resource, ..._] = data['@graph'];
+
+            const primary = resource.isPrimaryTopicOf;
+            const thumbnail = resource.thumbnail;
+            const label = select_browser_lang(resource.label);
+            const comment = select_browser_lang(resource.comment);
+
+            const links = resource.wikiPageWikiLink
+                .map(l => `<li><a href="javascript:void;" onclick="show_dbpedia_resource('${l}');">${l}</a></li>`)
+                .join('\n');
+
+            return `
+                <article>
+                <a href="${primary}"><h2>${label}</h2></a>
+                <img src="${thumbnail}" />
+                <p>${comment}</p>
+                <details>
+                    <summary>See also:</summary>
+                    <ul>${links}</ul>
+                </details>
+                </article>
+            `;
+        }
+
+        function show_dbpedia_resource(url) {
+            get_ld(url).then(function (data) {
+                const card = dbpedia_card(data);
+                document.getElementById('controls').insertAdjacentHTML('afterend', card);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function(_) {
+            const form = document.getElementById('get-resource');
+            form.addEventListener('submit', on_find_dbresource);
+        });
+
+        show_dbpedia_resource("http://dbpedia.org/resource/Memex")
+    </script>
+</html>
