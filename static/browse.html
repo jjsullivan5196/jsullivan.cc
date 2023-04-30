@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Browse dbpedia</title>
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
         <style>
         /* vars */
         :root {
@@ -72,7 +73,7 @@
                 <input 
                     name="res" 
                     type="url" 
-                    value="http://dbpedia.org/resource/Memex" 
+                    value="https://dbpedia.org/resource/Memex" 
                 />
             </label>
             <input type="submit" value="Get" />
@@ -145,6 +146,6 @@
             form.addEventListener('submit', on_find_dbresource);
         });
 
-        show_dbpedia_resource("http://dbpedia.org/resource/Memex")
+        show_dbpedia_resource("https://dbpedia.org/resource/Memex")
     </script>
 </html>
