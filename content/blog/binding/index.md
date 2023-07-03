@@ -1,0 +1,15 @@
+---
+title: binding
+tags:
+ - poems
+---
+
+> There is only one impossible problem: naming things
+>
+> What greater form of violence is there, than to create concretions of identity
+>
+> To know the composition of yourself and the world you inhabit
+>
+> Such depth, suffocated by the shallow puddle of symbol and shorthand
+>
+> Freedom and purpose, truncated for comfort
