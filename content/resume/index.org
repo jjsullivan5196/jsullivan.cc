@@ -24,6 +24,15 @@
 |                        | REST API Design \bull GraphQL                       |                                                             |
 
 ** Experience
+*** Contract Software Engineer | Walmart via Insight Global
+March 2021 - September 2021, August 2023 | Remote
+ - Creating solutions for pushing real-time updates of price information to
+   stores through the Walmart chain
+ - Maintaining and improving a customized, large-scale stream processing
+   application running on Apache Kafka and Clojure
+ - Adding visibility to production performance through grafana dashboards &
+   alerts
+
 *** Staff Engineer | yU+co
 January 2022 | Los Angeles
  - Maintenance and development of studio production infrastructure: internal
@@ -34,15 +43,6 @@ January 2022 | Los Angeles
  - Engineering consultant for various internal and external projects, guidance
    for building robust and sustainable systems
 
-*** Contract Software Engineer | Walmart via Insight Global
-March 2021 - September 2021 | Remote
- - Creating solutions for pushing real-time updates of price information to
-   stores through the Walmart chain
- - Maintaining and improving a customized, large-scale stream processing
-   application running on Apache Kafka and Clojure
- - Adding visibility to production performance through grafana dashboards &
-   alerts
-
 *** Freelance Software Developer
 January 2020 - March 2021, September 2021 | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
@@ -51,8 +51,8 @@ January 2020 - March 2021, September 2021 | Los Angeles/Remote
  - Consulting for software installation and operations, hosting, recurring
    costs, etc
  - Delivered such products as a scheduler for an interactive LED display at the
-   LA Music Center, custom web applications, multiple client portfolio websites,
-   and more
+   LA Music Center, custom web applications for clients like the Fowler Museum,
+   multiple client portfolio websites, and more
 
 *** Co-Founder/Software Developer | Spodder
 August 2019 - January 2020 | Remote
