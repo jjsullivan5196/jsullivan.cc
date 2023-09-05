@@ -2,7 +2,7 @@
 title: "Flex -- Hand Gesture Recognition using Muscle Flexing Sensors"
 ---
 
-{{< youtube 4zgQ9ko6Kss >}}
+{{< youtube gcCZUx5LIl8 >}}
 
 - *[[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]*
 - *[[https://github.com/jjsullivan5196/flex][Test data/Driver code]]*
