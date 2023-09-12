@@ -45,7 +45,7 @@ March 2021 - September 2021, August 2023 | Remote
    alerts
 
 *** Staff Engineer | yU+co
-January 2022 | Los Angeles
+January 2022 - August 2023 | Los Angeles
  - Maintenance and development of studio production infrastructure: internal
    networks, web presence, central storage, render farm, etc
  - Implemented policy and practice for studio asset security
@@ -76,7 +76,7 @@ July 2018 - August 2019 | San Diego, CA
  - Deployed and maintained a set of polyglot backend REST API services which
    added critical features, including technologies implemented in C#, Java, and
    Python
- - Used Kibana to identify search performance bottlenecks and improve customer
+ - Used Kibana to identify performance bottlenecks in Elasticsearch and improve customer
    experience
 
 *** Teaching Assistant | TA++ Program, CSUMB SCD
@@ -92,8 +92,8 @@ August 2016 - June 2018 | Seaside, CA
 *** Undergrad Researcher | CSUMB-UROC Research Internship
 May 2016 - August 2017 | Seaside, CA
  - Synthesized original research in computer input peripherals
- - Used data science methodologies/scikit to test signal processing and classification
-   techniques
+ - Used data science methodologies and python data science frameworks like 
+   scikit and Tensorflow to test signal processing and classification techniques
  - Assisted in other VR/peripheral related projects in a cooperative lab
    environment, particularly in system administration/maintenance activities
 
@@ -108,6 +108,8 @@ September 2017 - January 2018 | Salinas, CA
  - Assisted customers one-on-one in technical support and consultation
 
 ** Highlighted Projects
+*** [[/browse.html][Dbpedia browser]]
+
 *** AttentiveAI | Using ubiquitous 5G for classroom engagement
 *[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]*
  - Application that gives teachers realtime information on classroom attention,
@@ -118,7 +120,7 @@ September 2017 - January 2018 | Salinas, CA
 *[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]*
  - Takes tweets from @realDonaldTrump and creates new messages. Uses
    preprocessing techniques in sklearn and an RNN-based text generator written
-   in tensorflow
+   in Tensorflow
 
 *** Flex | Hand gesture recognition using muscle flexing sensors
 *[[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]*
@@ -129,7 +131,7 @@ September 2017 - January 2018 | Salinas, CA
    gesture samples, implemented classification techniques
 
 *** Multi-Leap | Multiple LeapMotion controllers on one machine
-*[[https://youtu.be/X4LNkIV6XO8][Demo on YouTube]]*
+*[[https://youtu.be/CeaJa77KWD4][Demo on YouTube]]*
  - System that allows for multiple people to use an interactive projection
    surface at the same time
  - Multiple leapmotion hand trackers on one machine, multiplexed through

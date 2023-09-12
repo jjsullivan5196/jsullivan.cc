@@ -13,6 +13,7 @@
 
             --stack-margin: 5vw;
             --stack-gap: 25px;
+            --stack-card-rounding: 13px;
 
             --card-padding: 15px;
             --card-shadow: 0 0 5px black;
@@ -41,6 +42,7 @@
         #stack article {
             box-shadow: var(--card-shadow);
             padding: var(--card-padding);
+            border-radius: var(--stack-card-rounding);
         }
 
         article {
@@ -83,6 +85,7 @@
     </main>
     </body>
     <script>
+        // Form handler for page controls.
         function on_find_dbresource(e) {
             e.preventDefault();
 
@@ -90,17 +93,21 @@
             show_dbpedia_resource(data.get('res'));
         }
 
-        function select_lang(name) {
-            const is_lang = attr => attr['@language'] == name;
+        // Returns a function that selects the appropriate JSON-LD language string
+        // for `lang`.
+        function select_lang(lang) {
+            const is_lang = attr => attr['@language'] == lang;
 
             return function(vals) {
                 return vals.find(is_lang)['@value'];
             }
         }
 
+        // Get the language selector for this browser window.
         const [lang_id, ..._] = window.navigator.language.split('-');
         const select_browser_lang = select_lang(lang_id);
 
+        // Fetch a JSON-LD resource.
         function get_ld(url) {
             return fetch(url, {
                 headers: {
@@ -109,6 +116,12 @@
             }).then(r => r.json());
         }
 
+        // True if this is a link to a dbpedia special page. ( Contains a colon in the subject name )
+        function is_special_page(link) {
+            return link.substring(link.indexOf(':') + 1).includes(':');
+        }
+
+        // Take a dbpedia JSON-LD resource and format it into an HTML block.
         function dbpedia_card(data) {
             const [resource, ..._] = data['@graph'];
 
@@ -118,6 +131,7 @@
             const comment = select_browser_lang(resource.comment);
 
             const links = resource.wikiPageWikiLink
+                .filter(l => !is_special_page(l))
                 .map(l => `<li><a href="javascript:void;" onclick="show_dbpedia_resource('${l}');">${l}</a></li>`)
                 .join('\n');
 
@@ -134,13 +148,16 @@
             `;
         }
 
+        // Get a dbpedia resource and place at the top of the page.
         function show_dbpedia_resource(url) {
             get_ld(url).then(function (data) {
                 const card = dbpedia_card(data);
                 document.getElementById('controls').insertAdjacentHTML('afterend', card);
+                window.scrollTo(0, 0);
             });
         }
 
+        // Startup
         document.addEventListener('DOMContentLoaded', function(_) {
             const form = document.getElementById('get-resource');
             form.addEventListener('submit', on_find_dbresource);
