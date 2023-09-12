@@ -3,5 +3,5 @@ pagestyle: empty
 linkstyle: type
 linkcolor: blue
 geometry:
-- margin=1.5cm
+- margin=2cm
 ---

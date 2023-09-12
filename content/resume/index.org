@@ -1,40 +1,27 @@
 * John Sullivan
-
 [[https://jsullivan.cc/resume.pdf][PDF Version]] | [[https://raw.githubusercontent.com/jjsullivan5196/jsullivan.cc/master/content/resume/index.org][org-mode plaintext]] | [[https://jsullivan.cc/resume][On my website]]
 
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
-** Education
+*** Education
  - B.S. Computer Science, CSU Monterey Bay, May 2018
  - Eagle Rock High School, June 2014
 
-** Skills
-| Experience Areas       | Languages/Tech                                      | IT/DevOps                                                   |
-|------------------------+-----------------------------------------------------+-------------------------------------------------------------|
-| Operating Systems      | C++ \bull C# \bull C \bull Rust                     | Ansible \bull Docker \bull Kubernetes \bull AWS \bull Azure |
-| Data Mining            | Java / Android \bull Clojure[Script]                | Linux/*nix Admin/Support                                    |
-| Machine Learning       | JavaScript(ECMA) \bull React.js/Native \bull Svelte | Windows Setup/Support                                       |
-| Graphics Programming   | Python \bull Flask                                  | Unix Tools/Scripts                                          |
-| Multimedia Programming | Unix shell                                          | Git collaboration, build hooks, CI                          |
-| Software Design        | Unity3D                                             | Network admin, filtering, subnets                           |
-| Game Programming       | TCP/UDP Sockets                                     | Azure AD, group management, automation roles                |
-| Computer Networking    | Elastic Stack \bull ASP.NET Core \bull SQL Server   |                                                             |
-|                        | OpenGL/DirectX \bull R                              |                                                             |
-|                        | SciKit Learn \bull Tensorflow                       |                                                             |
-|                        | REST API Design \bull GraphQL                       |                                                             |
+*** Skills
+| Experience Areas       | Languages/Tech                                    | IT/DevOps                                |
+|------------------------+---------------------------------------------------+------------------------------------------|
+| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull Kubernetes    |
+| Data Mining            | Java / Android \bull Clojure[Script]              | AWS \bull Azure Linux/*nix Admin/Support |
+| Machine Learning       | JavaScript(ECMA)                                  | Windows Setup/Support                    |
+| Graphics Programming   | React.js/Native \bull Svelte Python \bull Flask   | Unix Tools/Scripts                       |
+| Multimedia Programming | Unity3D                                           | Git collaboration, build hooks, CI       |
+| Software Design        | IP Stack                                          | Network admin, filtering, subnets        |
+| Game Programming       | Elastic Stack \bull ASP.NET Core \bull SQL Server | Azure AD, group management,              |
+| Computer Networking    | R \bull SciKit Learn \bull Tensorflow             | automation roles                         |
+|                        | REST API Design \bull GraphQL                     |                                          |
+
 
 ** Experience
-*** Freelance Software Developer
-January 2020 - March 2021, September 2021 | Los Angeles/Remote
- - Provide technical services to clients, such as backend software or web
-   development
- - Determine scope and outcomes for client projects
- - Consulting for software installation and operations, hosting, recurring
-   costs, etc
- - Delivered such products as a scheduler for an interactive LED display at the
-   LA Music Center, custom web applications for clients like the Fowler Museum,
-   multiple client portfolio websites, and more
-
 *** Contract Software Engineer | Walmart via Insight Global
 March 2021 - September 2021, August 2023 | Remote
  - Creating solutions for pushing real-time updates of price information to
@@ -54,15 +41,6 @@ January 2022 - August 2023 | Los Angeles
  - Engineering consultant for various internal and external projects, guidance
    for building robust and sustainable systems
 
-*** Co-Founder/Software Developer | Spodder
-August 2019 - January 2020 | Remote
- - Allows users to anonymously add and discover 'beacons' on a shared map, which
-   detail local places and events
- - Created mobile app using React Native/React-Redux with integrated analytics
-   tracking
- - Deployed infrastructure using docker-compose and cloud-native services like
-   S3
-
 *** Software Engineer II | Capture2
 July 2018 - August 2019 | San Diego, CA
  - Created reporting integrations for Office365 using ReactJs, allows customers
@@ -78,6 +56,26 @@ July 2018 - August 2019 | San Diego, CA
    Python
  - Used Kibana to identify performance bottlenecks in Elasticsearch and improve customer
    experience
+
+*** Freelance Software Developer
+January 2020 - March 2021, September 2021 | Los Angeles/Remote
+ - Provide technical services to clients, such as backend software or web
+   development
+ - Determine scope and outcomes for client projects
+ - Consulting for software installation and operations, hosting, recurring
+   costs, etc
+ - Delivered such products as a scheduler for an interactive LED display at the
+   LA Music Center, custom web applications for clients like the Fowler Museum,
+   multiple client portfolio websites, and more
+   
+*** Co-Founder/Software Developer | Spodder
+August 2019 - January 2020 | Remote
+ - Allows users to anonymously add and discover 'beacons' on a shared map, which
+   detail local places and events
+ - Created mobile app using React Native/React-Redux with integrated analytics
+   tracking
+ - Deployed infrastructure using docker-compose and cloud-native services like
+   S3
 
 *** Teaching Assistant | TA++ Program, CSUMB SCD
 August 2016 - June 2018 | Seaside, CA
@@ -97,18 +95,9 @@ May 2016 - August 2017 | Seaside, CA
  - Assisted in other VR/peripheral related projects in a cooperative lab
    environment, particularly in system administration/maintenance activities
 
-** Misc Experience
-*** US Census Enumerator | US Census Bureau
-July 2020 - August 2020 | Los Angeles, CA
-
-*** Computer Repair Volunteer | Loaves Fishes and Computers
-September 2017 - January 2018 | Salinas, CA
- - Technician assisting with refurb of computers for in-need community members
- - Wrote software for automated hardware lifetime checks & issue reporting
- - Assisted customers one-on-one in technical support and consultation
-
 ** Highlighted Projects
-*** [[/browse.html][Dbpedia browser]]
+*** Dbpedia browser
+*[[https://jsullivan.cc/browse.html][Click to try the app]]*
 
 *** AttentiveAI | Using ubiquitous 5G for classroom engagement
 *[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]*
@@ -116,9 +105,9 @@ September 2017 - January 2018 | Salinas, CA
    using computer vision and IoT devices. Consulted on the concept and provided
    guidance for using React Native
 
-*** Trumpbot | RNN trained on tweets to generate new messages
+*** +Trumpbot+ | RNN trained on tweets to generate new messages
 *[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]*
- - Takes tweets from @realDonaldTrump and creates new messages. Uses
+ - Takes tweets from +@realDonaldTrump+ and creates new messages. Uses
    preprocessing techniques in sklearn and an RNN-based text generator written
    in Tensorflow
 
@@ -138,5 +127,15 @@ September 2017 - January 2018 | Salinas, CA
    systemd-nspawn
  - Doesn't require any virtual machines, fault-tolerant
  - Can be used over the network or locally for interactive applications
+
+** Misc Experience
+*** US Census Enumerator | US Census Bureau
+July 2020 - August 2020 | Los Angeles, CA
+
+*** Computer Repair Volunteer | Loaves Fishes and Computers
+September 2017 - January 2018 | Salinas, CA
+ - Technician assisting with refurb of computers for in-need community members
+ - Wrote software for automated hardware lifetime checks & issue reporting
+ - Assisted customers one-on-one in technical support and consultation
 
 References available upon request
