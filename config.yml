@@ -4,7 +4,7 @@ theme: hugo-flex
 enableRobotsTXT: true
 
 params:
-  footer: "&copy; 2020 John Sullivan"
+  footer: "&copy; 2023 John Sullivan"
   mainSections:
   - portfolio
   - blog
