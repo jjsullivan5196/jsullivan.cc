@@ -1,5 +1,5 @@
 * John Sullivan
-[[https://jsullivan.cc/resume.pdf][PDF Version]] | [[https://raw.githubusercontent.com/jjsullivan5196/jsullivan.cc/master/content/resume/index.org][org-mode plaintext]] | [[https://jsullivan.cc/resume][On my website]]
+[[https://jsullivan.cc/resume.pdf][PDF Version]] | [[https://jsullivan.cc/resume.org][org-mode plaintext]] | [[https://jsullivan.cc/resume.html][On my website]]
 
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
