@@ -11,6 +11,7 @@
 [[./contact.org][Contact]]
 [[https://github.com/jjsullivan5196][Github]]
 [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
+[[https://instagram.com/cc.jsullivan][Instagram]]
 
 * A place for friends
 Hi, I am John, and this is my website.
