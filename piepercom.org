@@ -1,0 +1,10 @@
+#+TITLE: Portfolio Website for Pieper Construction
+#+DATE: <2020-01-01>
+* Pieper Construction Portfolio                                         :web:
+
+ - *[[https://pieperconstruction.com][pieperconstruction.com]]*
+
+A local construction company in LA needed a new website to exhibit their
+previous work. Their old site was predicated mostly on SEO content, without much
+for human visitors to see. I took some queues from other contractor portfolios
+and made a gallery page which expands to show the summaries of the jobs.

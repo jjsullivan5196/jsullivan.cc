@@ -1,0 +1,89 @@
+#+TITLE: Johns site
+#+OPTIONS: title:nil
+
+#+BEGIN_EXPORT html
+<h2 title="I dont know nothing about no calculus.">
+<code>(limit (perception iota) iota -&gt; truth)</code>
+</h2>
+#+END_EXPORT
+
+[[./resume.pdf][Resume]]
+[[./contact.org][Contact]]
+[[https://github.com/jjsullivan5196][Github]]
+[[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
+
+* A place for friends
+Hi, I am John, and this is my website.
+
+This will be the record of my
+[[https://en.wikipedia.org/wiki/Sabbatical][sabbatical]], hopefully
+concluding in some approximation of
+[[https://en.wikipedia.org/wiki/Truth][what is]], or a permanent
+working holiday in Tokyo.
+
+Please see my contact above for business inquiries.
+
+* Articles & writing
+- [[./therealsuckless.org][Make software simple again]]
+
+** Verse
+- [[./binding.org][binding]]
+
+* My work
+
+-----
+
+* [[./attentive.org][AttentiveAI]]
+#+INCLUDE: "./attentive.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./clampark.org][Clamparking]]
+#+INCLUDE: "./clampark.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./flex.org][Flex]]
+#+INCLUDE: "./flex.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./plaza.org][Music Center Plaza]]
+#+INCLUDE: "./plaza.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./multileap][Leap Motion Madness]]
+#+INCLUDE: "./multileap.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./traceur.org][Traceur]]
+#+INCLUDE: "./traceur.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./spodder][Spodder]]
+#+INCLUDE: "./spodder.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./piepercom.org][Pieper Construction Portfolio]]
+#+INCLUDE: "./piepercom.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./dbbrowse.org][DBPedia Browser]]
+#+INCLUDE: "./dbbrowse.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./web-misc.org][Other Web Projects]]
+#+INCLUDE: "./web-misc.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./trumble.org][Trumpbot]]
+#+INCLUDE: "./trumble.org" :minlevel 1 :lines "3-"
+
+-----

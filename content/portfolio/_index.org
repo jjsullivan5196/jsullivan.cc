@@ -1,6 +1,0 @@
----
-title: Portfolio
----
-
-** My Github
-[[https://github.com/jjsullivan5196]]

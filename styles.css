@@ -1,0 +1,38 @@
+:root {
+    --bg: #222222;
+    --fg: #ffffff;
+    --midlight: #bbbbbb;
+    --highlight: #ff2222;
+}
+
+* {
+    font-family: sans;
+}
+
+code {
+    font-family: mono;
+}
+
+html {
+    box-sizing: border-box;
+    border-left: solid var(--highlight) 15px;
+}
+
+body {
+    margin: auto;
+    padding: 25px;
+    max-width: 78vw;
+}
+
+body, body * {
+    color: var(--fg);
+    background-color: var(--bg);
+}
+
+a:visited {
+    color: var(--highlight);
+}
+
+a {
+    color: var(--midlight);
+}

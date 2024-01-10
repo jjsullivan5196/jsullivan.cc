@@ -1,0 +1,20 @@
+#+TITLE: AttentiveAI
+#+DATE: <2019-10-01>
+* Tools for tracking classroom engagement                     :portfolio:web:
+
+#+BEGIN_EXPORT html
+<iframe
+  width="560" height="315"
+  src="https://www.youtube.com/embed/1oO4VQVYbxI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+  </iframe>
+#+END_EXPORT
+	
+ - *[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]*
+
+Demonstration of an application that gives teachers realtime metrics and
+visualizations of classroom attention. I consulted on the concept and provided
+guidance on using React Native to build the clientside application.

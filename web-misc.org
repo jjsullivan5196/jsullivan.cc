@@ -1,0 +1,10 @@
+#+TITLE: Misc web development
+#+DATE: <2022-01-01>
+* Here's some of my other work from the web                   :web:portfolio:
+
+ - [[http://uist.acm.org/uist2020/gallery.html][Gallery site for a scientific conference]]
+ - [[https://sigchi.github.io/web-program-gallery/][Gallery Component for Poster/Paper Sessions]] | [[https://github.com/sigchi/web-program-gallery][Source Code]]
+ - [[https://leimberg.com/News/SneakPeek/Gain-Harvesting-Calculator][Components of NumberCruncher Browser Version]]
+ - [[https://dancelawyer.squarespace.com/][Squarespace theme for online publication]]
+ - [[https://makenibeats.com/][Personal site for local artist]]
+ - [[https://jjsullivan5196.github.io/stegonet/][An image steganography tool, running in the browser]]

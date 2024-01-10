@@ -1,0 +1,5 @@
+#+TITLE: DBPedia Browser single-page app
+#+DATE: <2023-09-01>
+* DBPedia Browser                                                       :web:
+
+Check it out [[/dbbrowse-app.html][here]].

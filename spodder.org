@@ -1,0 +1,9 @@
+#+TITLE: Spodder
+#+DATE: <2019-01-01>
+* Find places and events right around you                     :portfolio:web:
+
+An experimental social network that allows you to anonymously create
+'beacons' on a shared map. The beacons can tell others what you're up to
+or things going on in the area, through text and/or images. You can
+click on these beacons all over the map, or you can view them as a feed
+with more details.

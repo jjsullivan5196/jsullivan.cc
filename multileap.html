@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-01-09 Tue 23:29 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Multi-Leap</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="./"> UP </a>
+ |
+ <a accesskey="H" href="/"> HOME </a>
+</div><div id="content" class="content">
+<h1 class="title">Multi-Leap</h1>
+<div id="outline-container-orgeaa1984" class="outline-2">
+<h2 id="orgeaa1984">Multi-user interaction surface</h2>
+<div class="outline-text-2" id="text-orgeaa1984">
+<iframe
+  width="560" height="315"
+  src="https://www.youtube.com/embed/CeaJa77KWD4"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+  </iframe>
+
+<p>
+Working demonstration of multiple <a href="https://www.leapmotion.com/">LeapMotion</a> infrared trackers being used on one
+PC. This work was intended for an interactive projection surface, and would
+allow multiple people to manually interact with applications displayed on the
+glass.
+</p>
+
+<p>
+This was achieved using <a href="https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html">SystemD-Nspawn</a> process containers in linux, as the Leap
+driver at the time did not allow for multiple controllers to be connected to one
+machine. I used the process isolation provided by SystemD to filter the USB
+identifiers of the controllers in each container, so that only one controller
+was seen per container instance. Since the Leap driver is exposed via websocket,
+this allows for an application to use multiple controllers at once.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2018-04-01 Sun 00:00</p>
+<p class="date">Created: 2024-01-09 Tue 23:29</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

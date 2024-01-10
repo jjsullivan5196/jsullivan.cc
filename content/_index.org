@@ -1,9 +1,0 @@
----
----
-
-* Welcome!
-Hi, I'm John, and this is my site on the WWW. I'm a hacker by trade and hobby,
-currently working as a freelancer. I love big cities, weird tech history, and
-javascript. If you need someone with software design experience for a project, I
-can help you get it done. Feel free to contact me about business, or my prior
-work, via the contact info on this site or my resume.

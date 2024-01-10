@@ -1,0 +1,17 @@
+#+TITLE: Scene Scheduling for the LA Music Center Plaza
+#+DATE: <2020-01-01>
+* Scene Scheduling for the LA Music Center Plaza              :portfolio:web:
+
+ - [[https://www.yuco.com/works/music-center-plaza][Project Overview/demo video]]
+
+Over the past few years, the Los Angeles Music Center has installed an IP camera
+system and signboard monitors to create altered reflections of their plaza
+space. yU+co has taken this system and used it to apply style-transferred
+projections and other effects to those passing by.
+
+I was contracted to provide a simple scheduling mediator for the different
+effects used by the system, and allow for creating detailed schedules for the
+week, by day, hour, scene and various controls for duration and immediate
+scheduling. This allows the operators to control the central touchdesigner
+application externally, and save persistent schedules that can be swapped for
+different times of the year, all from a simple web application.
