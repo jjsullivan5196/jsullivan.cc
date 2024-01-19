@@ -48,7 +48,7 @@ One might say that data mining is somehow more "environmentally
 friendly" than other resource extraction. Maybe that can be true, but
 in the current landscape of brute-force compute burning a small
 nation's worth of energy, consumer information products killing us,
-and consumer e-waste killing us. Why should these dynamics change when
+and consumer e-waste killing us, why should these dynamics change when
 autonomous agents are thrown in the mix? [fn:: More than there is
 already, anyway] Why do we so desperately want to make WALL-E real?
 
