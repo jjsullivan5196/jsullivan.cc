@@ -1,0 +1,58 @@
+#+TITLE: Portfolio
+
+-----
+
+* [[./attentive.org][AttentiveAI]]
+#+INCLUDE: "./attentive.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./clampark.org][Clamparking]]
+#+INCLUDE: "./clampark.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./flex.org][Flex]]
+#+INCLUDE: "./flex.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./plaza.org][Music Center Plaza]]
+#+INCLUDE: "./plaza.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./multileap][Leap Motion Madness]]
+#+INCLUDE: "./multileap.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./traceur.org][Traceur]]
+#+INCLUDE: "./traceur.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./spodder][Spodder]]
+#+INCLUDE: "./spodder.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./piepercom.org][Pieper Construction Portfolio]]
+#+INCLUDE: "./piepercom.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./dbbrowse.org][DBPedia Browser]]
+#+INCLUDE: "./dbbrowse.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./web-misc.org][Other Web Projects]]
+#+INCLUDE: "./web-misc.org" :minlevel 1 :lines "3-"
+
+-----
+
+* [[./trumble.org][Trumpbot]]
+#+INCLUDE: "./trumble.org" :minlevel 1 :lines "3-"
+
+-----

@@ -258,69 +258,72 @@ understanding how software is
 [[https://en.wikipedia.org/wiki/Turing_machine][run]] on
 [[https://en.wikipedia.org/wiki/Von_Neumann_architecture][machines]]. It
 will be loaded with a lot of my own wacky opinions of how bad software
-and computers are, since it is my main motivation for constantly looking
-for more of these materials.
+and computers are, since it is my main motivation for constantly
+looking for more of these materials.
 
 More specifically, I want to understand why the engineering distance
 between a machine and the practical applications it performs is so
-inordinately large. We have excellent, high-level programming languages
-with appropriate primitives to build world-scale systems, but God forbid
-you want to talk to a
+inordinately large. We have excellent, high-level programming
+languages with appropriate primitives to build world-scale systems,
+but God forbid you want to talk to a
 [[https://gist.github.com/Overv/7ac07356037592a121225172d7d78f2d][graphics]]
-[[https://youtu.be/_36yNWw_07g?si=ne3IAwWmQEcEk6e3][device]] and have it
-do a cool trick you just thought up, or create your own
-[[https://llvm.org/docs/GettingStarted.html][programming language]], or
-any number of applications that involve negotiating with some platform.
+[[https://youtu.be/_36yNWw_07g?si=ne3IAwWmQEcEk6e3][device]] and have
+it do a cool trick you just thought up, or create your own
+[[https://llvm.org/docs/GettingStarted.html][programming language]],
+or any number of applications that involve negotiating with some
+platform.
 
 Smalltalk, all the way back in the 1980s, did solve all the problems
-related to bootstrapping a complete programming system from bare metal,
-and you could inspect any layer of that solution with the same exact
-tools you use to write applications. Why can't we do that today? Why
-can't we create a closed abstraction of a machine that any platform or
-language can use?
+related to bootstrapping a complete programming system from bare
+metal, and you could inspect any layer of that solution with the same
+exact tools you use to write applications. Why can't we do that today?
+Why can't we create a closed abstraction of a machine that any
+platform or language can use?
 
 I lay the blame with our development tools being inadequate for
-understanding a complete system as a whole, from hardware & platforms to
-the software that runs on them. Any programmer should be able to spend
-an afternoon in any programming language and be able to have a small
-kernel program that can file your taxes and send HTTP requests on nearly
-anything that can run code. However, we often get stuck in what is the
-right language not for the application we are making, but rather how
-this language can eventually target some CPU, operating system, VM
-hypervisor, container framework, web browser, game console, and so on.
-Even when you do have merely adequate tools for development, they often
-grow legs and run far away from your language of choice, ask you to
-suffer hours of tutorials or documentation that doesn't generalize, or
-bring [[https://github.com/emacs-mirror/emacs][all their 50+ year old
+understanding a complete system as a whole, from hardware & platforms
+to the software that runs on them. Any programmer should be able to
+spend an afternoon in any programming language and be able to have a
+small kernel program that can file your taxes and send HTTP requests
+on nearly anything that can run code. However, we often get stuck in
+what is the right language not for the application we are making, but
+rather how this language can eventually target some CPU, operating
+system, VM hypervisor, container framework, web browser, game console,
+and so on.  Even when you do have merely adequate tools for
+development, they often grow legs and run far away from your language
+of choice, ask you to suffer hours of tutorials or documentation that
+doesn't generalize, or bring
+[[https://github.com/emacs-mirror/emacs][all their 50+ year old
 friends]] to give you some light reading.
 
 Considering our platform is a fine problem to have, but in the end it
-shouldn't be something that restricts our ability to use the right tool
-for the problem we're trying to solve. Platforms offer us primitives to
-run code, languages arrange those primitives into useful tools for
-solving problems. Programming languages should offer us the ability to
-solve both our application and platform-related problems in a generic
-way. Despite this, we settle for
+shouldn't be something that restricts our ability to use the right
+tool for the problem we're trying to solve. Platforms offer us
+primitives to run code, languages arrange those primitives into useful
+tools for solving problems. Programming languages should offer us the
+ability to solve both our application and platform-related problems in
+a generic way. Despite this, we settle for
 [[https://en.wikipedia.org/wiki/Worse_is_better][worse is better]] and
 have bespoke, cryptic and non-portable solutions for abstracting over
-platforms. See the demand for win32 emulation, Valve basically adopting
-the WINE project, the C programming language being unable to die, and
-the success of Docker for evidence of platforms being more than
-platforms.
+platforms. See the demand for win32 emulation, Valve basically
+adopting the WINE project, the C programming language being unable to
+die, and the success of Docker for evidence of platforms being more
+than platforms.
 
 Even the [[https://en.wikipedia.org/wiki/GraphQL][conceptual]]
 [[https://www.destroyallsoftware.com/talks/wat][machines]] we build on
-top of the real ones don't make our programs easier to comprehend. Often
-they ignore
-[[https://en.wikipedia.org/wiki/Self_(programming_language)][years]] of
-research work, or they haphazardly cherry pick features for some
+top of the real ones don't make our programs easier to
+comprehend. Often they ignore
+[[https://en.wikipedia.org/wiki/Self_(programming_language)][years]]
+of research work, or they haphazardly cherry pick features for some
 particular reason (often not good reasons) to the
 [[https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction][detriment]]
-of the overall system being transparent to the person who works with it.
+of the overall system being transparent to the person who works with
+it.
 
-I enjoy masochistically pretending I can do something about all of this,
-so I spend a lot of time messing with compilers and other such tools to
-see how we can simplify the process of making great applications. This
-list documents some of the resources I've collected to gain some insight
-on this issue and prior attempts at making better tools for software
-development.
+I enjoy masochistically pretending I can do something about all of
+this, so I spend a lot of time messing with compilers and other such
+tools to see how we can simplify the process of making great
+applications. This list documents some of the resources I've collected
+to gain some insight on this issue and prior attempts at making better
+tools for software development.
