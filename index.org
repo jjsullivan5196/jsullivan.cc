@@ -29,6 +29,10 @@ Please see my contact above for business inquiries.
 
 * Articles & writing
 
+* <2024-03-14> [[./casual-misanthropy.org]["The Soft Bigotry of Low Expectations"]]
+#+INCLUDE: "./ill.org" :minlevel 1 :lines "3-20"
+...
+
 * <2024-01-18> [[./casual-misanthropy.org]["The Soft Bigotry of Low Expectations"]]
 #+INCLUDE: "./casual-misanthropy.org" :minlevel 1 :lines "3-20"
 ...
