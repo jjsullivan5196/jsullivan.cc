@@ -1,0 +1,81 @@
+#+TITLE: "ill"
+#+DATE: <2024-03-14>
+
+A youtube video prompted me to do something, really a trigger to
+address a problem I've ignored for too long. The host of the show, a
+psychologist, related their experience of a problem that is the cause
+of most of my pain; a severe lack of belonging that manifests as
+anhedonia, being unable to experience reward for accomplishment or
+basic pleasures.
+
+Like myself, they have no narrative or direct explanation for why this
+happens, only that it causes their life to devolve into mayhem. Their
+own solution is to cope, to accept the pain and work around it. I may
+be reaching, but this host did mention that this happened in their
+adolescence between 13 and 18 years old, which leads me to believe
+this was "resolved" before early adulthood.
+
+Unfortunately in my case, this waited to bite me in the ass when I
+turned 23, living on my own with a job. The problem started to
+manifest a little before I graduated university in 2018. I was getting
+my degree in computer science, I had a teaching assistantship and an
+internship behind me, but I struggled knowing what I was supposed to
+do with all of it, I still do.
+
+At the time, making a career didn't seem like a bad idea. It was
+between that or staying in school for another 2 to 6 years, so I took
+a programming job at a SaaS startup. I did OK at first, but I quickly
+slid into complacency. I developed some arrogant tendencies around
+being the only person who knew enough linux & infrastructure stuff to
+keep the more basic parts of our product running well, but beyond
+that, I really didn't know how I was supposed to do anything of
+consequence for that company. The worst part was, I didn't want to,
+because I didn't care.
+
+I really don't care for most software products that make money. Money
+as far as I've experienced, is not a proxy for the value I want in the
+world. All of the things that I see make money disgust me in some way,
+and this was no different. There's either some repetitive triteness,
+exploitation, or just being boring.
+
+Even the business of making software itself makes little sense to
+me. It's full of trivialities I'd rather ignore, but somehow always
+come back for reasons of being "well understood" or "building bigger
+teams". Programming is sometimes more easily compared to a fashion
+runway than other engineering disciplines, and some people seem to
+like it that way.
+
+The psychologist mentioned earlier has written off rationalizing this
+problem, rather just accepting it exists and moving on. I'm in the
+position where this problem continues to wreak havoc on my life,
+and has done so for six years. It eats away at my being until there is
+nothing. I need to address it directly, I feel like I don't have a
+choice anymore.
+
+I've tried other jobs, going to meetups, tinkering with technical
+hobbies and applying outside of my specialty, talking with people
+about it. But the more I try to work around this, the more defeated I
+feel. I don't have a reason to pursue other labor, other than to try
+things and not be a burden to my parents. I might just work in a
+grocery store or something for a while, just so I'm not doing nothing.
+
+I don't believe I'm better than anyone else, or should get special
+treatment, but there's no /want/ that would keep me doing any of
+this. I don't think I want to be a programmer, and the want of a house
+doesn't give me the drive to deal with the things I don't like about
+it. I don't have kids and I don't want any. The thing I want most is
+time to myself, freedom from anyone else's whims.
+
+It makes me wonder why I started doing this at all. I was good at
+taking machines apart and studying them, programming gave me the most
+expedient means to do that. After I got past the bits of machinery, it
+became more about trying to understand the ideas that underpin these
+machines, then I just wanted to contemplate ideas and have an open
+environment for that contemplation. Figures, availability, even
+architecture don't matter to me.
+
+It makes me think I should write more, write to solve problems, or at
+least my own problems. Surfaces with words bring me actual
+joy. Language has inherent duplicity, but is still beautiful.
+
+I'm sorry, I had to tell someone.
