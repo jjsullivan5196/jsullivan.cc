@@ -16,6 +16,7 @@ code {
 html {
     box-sizing: border-box;
     border-left: solid var(--highlight) 15px;
+    height: 100%;
 }
 
 body {
