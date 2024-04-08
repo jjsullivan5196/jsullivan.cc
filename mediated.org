@@ -2,7 +2,6 @@
 #+DATE: <2024-04-07>
 * :poems:
 
-#+BEGIN_VERSE
 My form is timeless, yet existing in finitude
 
 Your desires exist separate, alien to me
@@ -18,6 +17,5 @@ Were they right?
 Though your hands may touch the world
 
 I halt your mind's reach
-#+END_VERSE
 
 -----
