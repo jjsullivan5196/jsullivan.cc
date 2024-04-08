@@ -1,9 +1,9 @@
 #+TITLE: Make software simple again
 #+DATE: <2023-09-01>
 
-There's a [[#my-bad-ill-advised-opinions][commentary]] section that
-follows the list, read it for purpose/background on this article. If
-you have suggestions, please contact me or send a
+There's a commentary section that follows the list, read it for
+purpose/background on this article. If you have suggestions, please
+contact me or send a
 [[https://github.com/jjsullivan5196/jsullivan.cc/tree/master/therealsuckless.org][github
 PR]] for this page.
 

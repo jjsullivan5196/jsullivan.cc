@@ -1,51 +1,88 @@
-#+TITLE: John's site
-#+OPTIONS: title:nil
-
-#+BEGIN_EXPORT html
-<h2 title="I dont know nothing about no calculus.">
-<code>(limit (perception iota) iota -&gt; truth)</code>
-</h2>
-#+END_EXPORT
-
-[[https://patreon.com/user?u=117927543][Support me on Patreon]]
-
-[[./resume.pdf][Resume]]
-[[./portfolio.org][Portfolio]]
-[[./contact.org][Contact]]
-[[https://github.com/jjsullivan5196][Github]]
-[[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
-[[https://instagram.com/cc.jsullivan][Instagram]]
-
-* A place for friends
-Hi, I'm John, and this is my website.
-
-This will be the record of my
-[[https://en.wikipedia.org/wiki/Sabbatical][sabbatical]], hopefully
-concluding in some approximation of
-[[https://en.wikipedia.org/wiki/Truth][what is]], or a permanent
-working holiday in Tokyo.
-
-Please see my contact above for business inquiries.
-
-* Articles & writing
-
-* <2024-03-14> [[./ill.org]["ill"]]
-#+INCLUDE: "./ill.org" :minlevel 1 :lines "3-20"
+#+INCLUDE: "./index.inc"
+* <2024-04-07 Sun>  [[file:mediated.org][mediated]] 
+#+include: "mediated.org" :minlevel 1 :lines "3-20"
 ...
 
-[[./ill.org][read more]]
-
-* <2024-01-18> [[./casual-misanthropy.org]["The Soft Bigotry of Low Expectations"]]
-#+INCLUDE: "./casual-misanthropy.org" :minlevel 1 :lines "3-20"
+[[file:mediated.org][read more]]
+* <2024-03-14 Thu>  [[file:ill.org]["ill"]] 
+#+include: "ill.org" :minlevel 1 :lines "3-20"
 ...
 
-[[./casual-misanthropy.org][read more]]
-
-* <2023-09-01> [[./therealsuckless.org][Make software simple again]]
-#+INCLUDE: "./therealsuckless.org" :minlevel 1 :lines "255-300"
+[[file:ill.org][read more]]
+* <2024-01-18 Thu>  [[file:casual-misanthropy.org]["The Soft Bigotry of Low Expectations"]] 
+#+include: "casual-misanthropy.org" :minlevel 1 :lines "3-20"
 ...
 
-[[./therealsuckless.org][read more]]
+[[file:casual-misanthropy.org][read more]]
+* <2024-01-11 Thu>  [[file:resume.org][resume]] 
+#+include: "resume.org" :minlevel 1 :lines "3-20"
+...
 
-* Verse
-- [[./binding.org][binding]]
+[[file:resume.org][read more]]
+* <2023-09-01 Fri>  [[file:dbbrowse.org][DBPedia Browser single-page app]] 
+#+include: "dbbrowse.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:dbbrowse.org][read more]]
+* <2023-09-01 Fri>  [[file:therealsuckless.org][Make software simple again]] 
+#+include: "therealsuckless.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:therealsuckless.org][read more]]
+* <2023-07-03 Mon>  [[file:binding.org][binding]] 
+#+include: "binding.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:binding.org][read more]]
+* <2022-01-01 Sat>  [[file:web-misc.org][Misc web development]] 
+#+include: "web-misc.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:web-misc.org][read more]]
+* <2020-01-01 Wed>  [[file:piepercom.org][Portfolio Website for Pieper Construction]] 
+#+include: "piepercom.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:piepercom.org][read more]]
+* <2020-01-01 Wed>  [[file:plaza.org][Scene Scheduling for the LA Music Center Plaza]] 
+#+include: "plaza.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:plaza.org][read more]]
+* <2019-10-01 Tue>  [[file:attentive.org][AttentiveAI]] 
+#+include: "attentive.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:attentive.org][read more]]
+* <2019-01-01 Tue>  [[file:spodder.org][Spodder]] 
+#+include: "spodder.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:spodder.org][read more]]
+* <2018-10-01 Mon>  [[file:clampark.org][Clamparking]] 
+#+include: "clampark.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:clampark.org][read more]]
+* <2018-06-01 Fri>  [[file:traceur.org][Traceur]] 
+#+include: "traceur.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:traceur.org][read more]]
+* <2018-06-01 Fri>  [[file:trumble.org][Trumble]] 
+#+include: "trumble.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:trumble.org][read more]]
+* <2018-04-01 Sun>  [[file:multileap.org][Multi-Leap]] 
+#+include: "multileap.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:multileap.org][read more]]
+* <2017-10-01 Sun>  [[file:flex.org][Flex]] 
+#+include: "flex.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:flex.org][read more]]
+
+#+INCLUDE: "./contact.inc"
