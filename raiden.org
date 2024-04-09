@@ -2,7 +2,7 @@
 #+DATE: <2024-04-08>
 
 #+CAPTION: "But in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness." -- Metal Gear Solid 2
-#+ATTR_HTML: :width 600px
+#+ATTR_HTML: :width 400px
 [[./mgs2colonel.webp]]
 
 * WARNING: Spoilers for Metal Gear Solid 2 follow
