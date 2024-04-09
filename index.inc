@@ -10,7 +10,6 @@
 [[https://patreon.com/cc_jsullivan][Support me on Patreon]]
 
 [[./resume.pdf][Resume]]
-[[./portfolio.org][Portfolio]]
 [[#contact][Contact]]
 [[https://github.com/jjsullivan5196][Github]]
 [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
