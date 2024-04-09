@@ -14,7 +14,6 @@ code {
 }
 
 html {
-    width: 100%;
     min-height: 100%;
     border-left: solid var(--highlight) 15px;
 }
