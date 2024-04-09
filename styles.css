@@ -14,9 +14,9 @@ code {
 }
 
 html {
-    box-sizing: border-box;
+    width: 100%;
+    min-height: 100%;
     border-left: solid var(--highlight) 15px;
-    height: 100%;
 }
 
 body {
