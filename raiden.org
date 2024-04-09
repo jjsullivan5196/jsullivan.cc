@@ -1,0 +1,89 @@
+#+TITLE: The Banality of Evil
+#+DATE: <2024-04-08>
+
+#+CAPTION: "But in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness." -- Metal Gear Solid 2
+#+ATTR_HTML: :width 600px
+[[./mgs2colonel.webp]]
+
+* WARNING: Spoilers for Metal Gear Solid 2 follow
+
+The postmodern movement in the arts came about as a response to a
+perceived apex in humanity's ability to inflict suffering upon itself;
+creating spaces that made clear the pretentions of modern rationality,
+only those who indulge in the absurd will be afforded clarity.
+
+Of course, an absurdist take on the current state of the world
+provides a natural camoflauge, a perfect stage to play out an
+audience's beliefs while leaving them open to subversion. The writers
+of Metal Gear Solid 2 made such an attempt to great success, leaving
+players in 2001 completely blindsided and nearly unconscious to the
+messaging that played out right before them. In some ways, that
+success might have transcended even the author's original intentions.
+
+Metal Gear Solid 2 was made in the climate of the dotcom rampup,
+arguably the first large scale information economy to emerge after the
+computer revolution. Despite the true innovations in electronic
+commerce that were had in the dotcom era, it was not hard to see a
+capital-driven inflation creating redundant and unnecessary
+products. The internet became an ill-fitted sieve for incomprehensible
+amounts of data, created by an insatiable appetite for profit-seeking.
+
+The writers response to these real-world events was to see data
+creation as a supply-side force in this economy, to be met by an actor
+providing demand. Naturally, this was to be an autonomous artificial
+general intelligence that took form as a consequence of our lives
+being reified in data. Our genetic sequence provides the instructions
+necessary to produce intelligent, conscious agents, so why couldn't a
+stochastic model estimate its way to fully meddling in human affairs?
+
+The odd departure from most "robots taking over the world" movies, was
+that this artificial being purports to have our best interests in
+mind. It does not seek to control us, but to sift out the signal from
+the noise in the accumulating pile of information we create, to
+reverse entropy on our behalf and preserve what precious amount of
+cultural ingredients we have left. Towards the end of the game, the
+avatars of the AGI you've been tricked into working with reveal their
+program as "Selection for Societal Sanity", to act as an evolutionary
+pressure for the 'memetic' DNA of society at large.
+
+It's not very hard to fit narrative frames to our current
+circumstance, sense making nearly demands we find or invent tales to
+suss out the ever maddening condition of our lives. However, I would
+argue most popular interpretations of MGS2's postmodern subversions
+did not read the text to completion. Most essays and commentary on the
+game see the setting as Hideo Kojima's usual antics of player agency
+subversion, using the fact of your playing the game to question your
+actions in context of the narrative. The Big Shell, the monster of the
+week villains, and even the scary AGI great filter are merely there to
+remind you of the absurd nature of what you're doing.
+
+With my clear, current year of 2024 eyes, I can see that the writers
+were seeing the big picture of information being valued purely by its
+quantity. Its natural to see in the big bad villain plot of the AGI,
+why else would it concern itself with saving us from the heat death of
+our culture? Its also very telling that the AGI decides to test its
+program by creating a high-tension hostage rescue scenario by
+manipulating independent actors into a terrorist collective.
+
+I would argue the AGI in question, GW, has already manifested. It
+lacks intentionality, but it has already consumed the minds of "AI
+Engineers" currently building the products of the sort you see from
+OpenAI. This manifestation of a cultural CRISPR is currently limited in
+scope, but its mode of interaction is deception, just like GW. Given
+these system's tendency to overfit on self-produced synthetic
+examples, it almost makes sense that GW would try to preserve our
+society, in order to maintain its own coherency.
+
+Some in the space are aware of the synthetic data poison pill, but
+they don't seem to care as far as generative AI models producing junk
+that gets in the way of our lives. AI might be sold by tech companies
+as a way to direct the development of our collective intelligence, but
+I'd argue that's where the real GW falls short. Without
+intentionality, we only have the intrepid captains of capital to
+direct these systems and their production, and it appears their goal
+is only to make us work harder and maximize profits, even at the
+expense of culture.
+
+In some way, I wish GW was actually real, compared to this garbage.
+
+

@@ -1,4 +1,9 @@
 #+INCLUDE: "./index.inc"
+* <2024-04-08 Mon>  [[file:raiden.org][The Banality of Evil]] 
+#+include: "raiden.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:raiden.org][read more]]
 * <2024-04-07 Sun>  [[file:mediated.org][mediated]] 
 #+include: "mediated.org" :minlevel 1 :lines "3-20"
 ...
