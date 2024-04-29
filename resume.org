@@ -4,23 +4,12 @@
 
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
+** Professional Objective
+I want to create software that helps people live better lives.
+
 *** Education
  - B.S. Computer Science, CSU Monterey Bay, May 2018
  - Eagle Rock High School, June 2014
-
-*** Skills
-| Experience Areas       | Languages/Tech                                    | IT/DevOps                                |
-|------------------------+---------------------------------------------------+------------------------------------------|
-| Operating Systems      | C++ \bull C# \bull C \bull Rust                   | Ansible \bull Docker \bull Kubernetes    |
-| Data Mining            | Java / Android \bull Clojure[Script]              | AWS \bull Azure Linux/*nix Admin/Support |
-| Machine Learning       | JavaScript(ECMA)                                  | Windows Setup/Support                    |
-| Graphics Programming   | React.js/Native \bull Svelte Python \bull Flask   | Unix Tools/Scripts                       |
-| Multimedia Programming | Unity3D                                           | Git collaboration, build hooks, CI       |
-| Software Design        | IP Stack                                          | Network admin, filtering, subnets        |
-| Game Programming       | Elastic Stack \bull ASP.NET Core \bull SQL Server | Azure AD, group management,              |
-| Computer Networking    | R \bull SciKit Learn \bull Tensorflow             | automation roles                         |
-|                        | REST API Design \bull GraphQL                     |                                          |
-
 
 ** Experience
 *** Freelance Software Developer
@@ -101,39 +90,6 @@ May 2016 - August 2017 | Seaside, CA
    scikit and Tensorflow to test signal processing and classification techniques
  - Assisted in other VR/peripheral related projects in a cooperative lab
    environment, particularly in system administration/maintenance activities
-
-** Highlighted Projects
-*** Dbpedia browser
-*[[https://jsullivan.cc/browse.html][Click to try the app]]*
-
-*** AttentiveAI | Using ubiquitous 5G for classroom engagement
-*[[https://devpost.com/software/5g-in-education][Winner of ATT 5G Hackathon -- Best use of Cloud Technology]]*
- - Application that gives teachers realtime information on classroom attention,
-   using computer vision and IoT devices. Consulted on the concept and provided
-   guidance for using React Native
-
-*** +Trumpbot+ | RNN trained on tweets to generate new messages
-*[[https://github.com/jjsullivan5196/trumble][Github Repository/Jupyter Notebook Report]]*
- - Takes tweets from +@realDonaldTrump+ and creates new messages. Uses
-   preprocessing techniques in sklearn and an RNN-based text generator written
-   in Tensorflow
-
-*** Flex | Hand gesture recognition using muscle flexing sensors
-*[[https://dl.acm.org/citation.cfm?id=3134360][ACM Digital Library]]*
- - Novel gesture sensor intended for use as a general-purpose remote control
- - Used multiple recurrent neural networks in a bagging configuration to
-   classify gestures used by the Myo sensor
- - Developed driver code for the sensor, recording framework for collecting
-   gesture samples, implemented classification techniques
-
-*** Multi-Leap | Multiple LeapMotion controllers on one machine
-*[[https://youtu.be/CeaJa77KWD4][Demo on YouTube]]*
- - System that allows for multiple people to use an interactive projection
-   surface at the same time
- - Multiple leapmotion hand trackers on one machine, multiplexed through
-   systemd-nspawn
- - Doesn't require any virtual machines, fault-tolerant
- - Can be used over the network or locally for interactive applications
 
 ** Misc Experience
 *** US Census Enumerator | US Census Bureau
