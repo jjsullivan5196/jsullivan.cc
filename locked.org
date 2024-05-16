@@ -1,0 +1,40 @@
+#+TITLE: What's outside of here?
+#+DATE: <2024-05-15>
+
+Writing computer code is a funny business, fundamentally an exercise
+in taking a random walk across many abstract concepts to achieve some
+more concretely defined goal. Different people will see this
+'abstractness' in different ways. Personally, the only ground truth I
+find is in the symbolic representation of programs that guide these
+machines we call computers, but even that is a fiction in some
+sense. [[https://en.wikipedia.org/wiki/Limits_of_computation][Symbol
+and switching rates]] do have physical limitations, so there is an
+upper bound on the expressions of programs, but everything between
+that and the act of naming things are ultimately figments of our
+imagination. Some might even question
+[[https://youtu.be/HB5TrK7A4pI?si=3AS4NDCyhEAXDoff][if we're all that
+good at it anyway.]]
+
+I make this preface to highlight a sentiment I occasionally run
+across, that there are easily discernible levels of abstraction in
+programming and information technology in general, some more concrete
+or 'real' than others. This quality of realism might even be mistaken
+for objective truths of one matter or the other, to the point that our
+software artifacts end up mutating our collective reality, or at least
+skewing it to the point of appearing real.
+
+It's my opinion that, it is the act of seeking the ultimate truth of
+everything in these tools that leads us astray. I don't believe this
+is an original thought, but seeing the rapid incursion of "AI" and
+other algorithmic systems into our lives and the objects around us
+gives me pause. Doctors take the hippocratic oath and generally
+respect the limits of medicinal practice, but there are some overeager
+technologists who seem to revel in the manifestation of their truth,
+regardless of the consequences.
+
+Our imagination's ability to manifest is both awe-inspiring and
+terrific, and I think we owe it to ourselves to be even more
+imaginative on the whole. I make no general prescription of what that
+should look like, it would defeat the point. However, I think on the
+whole we're digging a pretty complex rut that might be difficult to
+get out of later.
