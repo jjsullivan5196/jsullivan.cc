@@ -11,6 +11,7 @@
 
 [[./resume.pdf][Resume]]
 [[#contact][Contact]]
+[[https://jsullivan.cc/rss.xml][RSS]]
 [[https://github.com/jjsullivan5196][Github]]
 [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 [[https://instagram.com/cc.jsullivan][Instagram]]

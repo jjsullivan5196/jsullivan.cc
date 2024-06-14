@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>John's blogs</title>
+  <atom:link href="https://jsullivan.cc/rss.xml" rel="self" type="application/rss+xml" />
+  <link>https://jsullivan.cc/</link>
+  <description><![CDATA[]]></description>
+  <language>en</language>
+  <pubDate>Fri, 14 Jun 2024 00:08:49 -0700</pubDate>
+  <lastBuildDate>Fri, 14 Jun 2024 00:08:49 -0700</lastBuildDate>
+  <generator>Emacs 29.3 Org-mode 9.6.15</generator>
+  <webMaster>john@crunchbox (john)</webMaster>
+  <image>
+    <url>https://jsullivan.cc/mgs2colonel.webp</url>
+    <title>John's blogs</title>
+    <link>https://jsullivan.cc/</link>
+  </image>
+
+  <item>
+    <title>What's outside of here?</title>
+    <link>https://jsullivan.cc/locked.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/locked.html</guid>
+    <pubDate>Wed, 15 May 2024 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[<p>
+    Writing computer code is a funny business, fundamentally an exercise
+    in taking a random walk across many abstract concepts to achieve some
+    more concretely defined goal. Different people will see this
+    'abstractness' in different ways. Personally, the only ground truth I
+    find is in the symbolic representation of programs that guide these
+    machines we call computers, but even that is a fiction in some
+    sense. <a href="https://en.wikipedia.org/wiki/Limits_of_computation">Symbol
+    and switching rates</a> do have physical limitations, so there is an
+    upper bound on the expressions of programs, but everything between
+    that and the act of naming things are ultimately figments of our
+    imagination. Some might even question
+    <a href="https://youtu.be/HB5TrK7A4pI?si=3AS4NDCyhEAXDoff">if we're all that
+    good at it anyway.</a>
+    </p>
+
+    <p>
+    I make this preface to highlight a sentiment I occasionally run
+    across, that there are easily discernible levels of abstraction in
+    ...
+    </p>
+    ]]></description>
+  </item>
+  <item>
+    <title>The Banality of Evil</title>
+    <link>https://jsullivan.cc/raiden.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/raiden.html</guid>
+    <pubDate>Mon, 08 Apr 2024 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[
+    <div id="org8c7b861" class="figure">
+    <p><img src="./mgs2colonel.webp" alt="mgs2colonel.webp" width="400px" />
+    </p>
+    <p><span class="figure-number">Figure 1: </span>"But in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness." -- Metal Gear Solid 2</p>
+    </div>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>mediated</title>
+    <link>https://jsullivan.cc/mediated.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/mediated.html</guid>
+    <pubDate>Sun, 07 Apr 2024 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>"ill"</title>
+    <link>https://jsullivan.cc/ill.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/ill.html</guid>
+    <pubDate>Thu, 14 Mar 2024 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[<p>
+    A youtube video prompted me to do something, really a trigger to
+    address a problem I've ignored for too long. The host of the show, a
+    psychologist, related their experience of a problem that is the cause
+    of most of my pain; a severe lack of belonging that manifests as
+    anhedonia, being unable to experience reward for accomplishment or
+    basic pleasures.
+    </p>
+
+    <p>
+    Like myself, they have no narrative or direct explanation for why this
+    happens, only that it causes their life to devolve into mayhem. Their
+    own solution is to cope, to accept the pain and work around it. I may
+    be reaching, but this host did mention that this happened in their
+    adolescence between 13 and 18 years old, which leads me to believe
+    this was "resolved" before early adulthood.
+    </p>
+
+    <p>
+    Unfortunately in my case, this waited to bite me in the ass when I
+    turned 23, living on my own with a job. The problem started to
+    ...
+    </p>
+    ]]></description>
+  </item>
+  <item>
+    <title>"The Soft Bigotry of Low Expectations"</title>
+    <link>https://jsullivan.cc/casual-misanthropy.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/casual-misanthropy.html</guid>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 -0800</pubDate>
+
+    <description><![CDATA[
+    <div id="org4ec0c2d" class="figure">
+    <p><img src="./loomer.jpg" alt="loomer.jpg" width="600px" />
+    </p>
+    <p><span class="figure-number">Figure 2: </span>OK Loomer</p>
+    </div>
+
+    <p>
+    The <a href="https://a16z.com/the-techno-optimist-manifesto/">Techno-Optimist</a> is quite the conflicted character, somehow being a
+    superposition of <a href="https://geohot.github.io/blog/jekyll/update/2023/04/11/wireheading-city.html">enlighted philanthropists</a>, venture capital
+    golddiggers, <a href="https://twitter.com/BasedBeffJezos">self-aggrandizing memers</a>, <a href="https://en.wikipedia.org/wiki/Ada_Lovelace#Insight_into_potential_of_computing_devices">Ada Lovelace</a> and <a href="https://harpers.org/archive/1932/10/in-praise-of-idleness/">Bertrand
+    Russell</a>. Simultaneously a champion for progress, not in the here and
+    now, but also not one of those thousand yard stare <a href="https://www.effectivealtruism.org/">Effective Altruists</a>
+    you keep hearing about. Here in the land of optimistic outlook, the
+    techno-capital machine creates no pollution, lets the market be free,
+    and manifests post-scarcity levels of abundance. Also, criticism is
+    for losers, <a href="https://graymirror.substack.com/p/heroin-liberals-and-cocaine-conservatives">smoke some crack or something.</a>
+    </p>
+
+    <p>
+    However, as Hegel's dialectic informs us, forms exist through their
+    inherent contradictions. Stronger forms descend of their ancestors, rid
+    ...
+    </p>
+    ]]></description>
+  </item>
+  <item>
+    <title>DBPedia Browser single-page app</title>
+    <link>https://jsullivan.cc/dbbrowse.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/dbbrowse.html</guid>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Make software simple again</title>
+    <link>https://jsullivan.cc/therealsuckless.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/therealsuckless.html</guid>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[<p>
+    There's a commentary section that follows the list, read it for
+    purpose/background on this article. If you have suggestions, please
+    contact me or send a
+    <a href="https://github.com/jjsullivan5196/jsullivan.cc/tree/master/therealsuckless.org">github
+    PR</a> for this page.
+    </p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>binding</title>
+    <link>https://jsullivan.cc/binding.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/binding.html</guid>
+    <pubDate>Mon, 03 Jul 2023 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Misc web development</title>
+    <link>https://jsullivan.cc/web-misc.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/web-misc.html</guid>
+    <pubDate>Sat, 01 Jan 2022 00:00:00 -0800</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Portfolio Website for Pieper Construction</title>
+    <link>https://jsullivan.cc/piepercom.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/piepercom.html</guid>
+    <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Scene Scheduling for the LA Music Center Plaza</title>
+    <link>https://jsullivan.cc/plaza.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/plaza.html</guid>
+    <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>AttentiveAI</title>
+    <link>https://jsullivan.cc/attentive.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/attentive.html</guid>
+    <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Spodder</title>
+    <link>https://jsullivan.cc/spodder.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/spodder.html</guid>
+    <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Clamparking</title>
+    <link>https://jsullivan.cc/clampark.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/clampark.html</guid>
+    <pubDate>Mon, 01 Oct 2018 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Traceur</title>
+    <link>https://jsullivan.cc/traceur.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/traceur.html</guid>
+    <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Trumble</title>
+    <link>https://jsullivan.cc/trumble.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/trumble.html</guid>
+    <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Multi-Leap</title>
+    <link>https://jsullivan.cc/multileap.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/multileap.html</guid>
+    <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>Flex</title>
+    <link>https://jsullivan.cc/flex.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/flex.html</guid>
+    <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>resume</title>
+    <link>https://jsullivan.cc/resume.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/resume.html</guid>
+    <pubDate>Wed, 01 May 1996 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[<p>
+    <a href="https://jsullivan.cc/resume.pdf">PDF Version</a> | <a href="https://jsullivan.cc/resume.org">org-mode plaintext</a> | <a href="https://jsullivan.cc/resume.html">On my website</a>
+    </p>
+
+    <p>
+    <a href="mailto:john-j-sullivan@outlook.com">john-j-sullivan@outlook.com</a> | <a href="http://jsullivan.cc">jsullivan.cc</a> | 213-910-4003 | <a href="https://github.com/jjsullivan5196">GitHub</a> | <a href="https://linkedin.com/in/jjsullivan5196">LinkedIn</a>
+    </p>
+    ]]></description>
+  </item>
+</channel>
+</rss>

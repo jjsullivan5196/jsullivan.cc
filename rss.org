@@ -1,0 +1,153 @@
+#+TITLE: John's blogs
+* What's outside of here?
+:PROPERTIES:
+:RSS_PERMALINK: locked.html
+:PUBDATE:  2024-05-15
+:ID:       ecd14cc8-ab61-494a-90c6-4c333f00c80d
+:END:
+#+include: "locked.org" :minlevel 1 :lines "3-20"
+...
+* The Banality of Evil
+:PROPERTIES:
+:RSS_PERMALINK: raiden.html
+:PUBDATE:  2024-04-08
+:ID:       1cc33481-895d-4820-b992-23f01f13f397
+:END:
+#+include: "raiden.org" :minlevel 1 :lines "3-20"
+...
+* mediated
+:PROPERTIES:
+:RSS_PERMALINK: mediated.html
+:PUBDATE:  2024-04-07
+:ID:       ba0aef1b-33ba-4072-807b-153186bd606a
+:END:
+#+include: "mediated.org" :minlevel 1 :lines "3-20"
+...
+* "ill"
+:PROPERTIES:
+:RSS_PERMALINK: ill.html
+:PUBDATE:  2024-03-14
+:ID:       470b54dd-4996-47ca-afd6-68744733f01b
+:END:
+#+include: "ill.org" :minlevel 1 :lines "3-20"
+...
+* "The Soft Bigotry of Low Expectations"
+:PROPERTIES:
+:RSS_PERMALINK: casual-misanthropy.html
+:PUBDATE:  2024-01-18
+:ID:       05a4b8d8-9b3e-4513-969d-1f40aa4d22af
+:END:
+#+include: "casual-misanthropy.org" :minlevel 1 :lines "3-20"
+...
+* DBPedia Browser single-page app
+:PROPERTIES:
+:RSS_PERMALINK: dbbrowse.html
+:PUBDATE:  2023-09-01
+:ID:       5dc26c53-0adf-4179-9b9f-c8965a24175a
+:END:
+#+include: "dbbrowse.org" :minlevel 1 :lines "3-20"
+...
+* Make software simple again
+:PROPERTIES:
+:RSS_PERMALINK: therealsuckless.html
+:PUBDATE:  2023-09-01
+:ID:       21e5064c-22be-49f5-8540-d3ede3598eb2
+:END:
+#+include: "therealsuckless.org" :minlevel 1 :lines "3-20"
+...
+* binding
+:PROPERTIES:
+:RSS_PERMALINK: binding.html
+:PUBDATE:  2023-07-03
+:ID:       fa502121-1fe5-48fd-aa0e-c74f20630cb1
+:END:
+#+include: "binding.org" :minlevel 1 :lines "3-20"
+...
+* Misc web development
+:PROPERTIES:
+:RSS_PERMALINK: web-misc.html
+:PUBDATE:  2022-01-01
+:ID:       52a4632c-ea06-42dc-8ba9-4e73cb752e56
+:END:
+#+include: "web-misc.org" :minlevel 1 :lines "3-20"
+...
+* Portfolio Website for Pieper Construction
+:PROPERTIES:
+:RSS_PERMALINK: piepercom.html
+:PUBDATE:  2020-01-01
+:ID:       39421db8-0739-4846-b6e4-66bd2c63962e
+:END:
+#+include: "piepercom.org" :minlevel 1 :lines "3-20"
+...
+* Scene Scheduling for the LA Music Center Plaza
+:PROPERTIES:
+:RSS_PERMALINK: plaza.html
+:PUBDATE:  2020-01-01
+:ID:       00b59068-6903-4bb1-b14a-fd2f2de832b1
+:END:
+#+include: "plaza.org" :minlevel 1 :lines "3-20"
+...
+* AttentiveAI
+:PROPERTIES:
+:RSS_PERMALINK: attentive.html
+:PUBDATE:  2019-10-01
+:ID:       189f25af-e501-4e76-8b24-6423da307afa
+:END:
+#+include: "attentive.org" :minlevel 1 :lines "3-20"
+...
+* Spodder
+:PROPERTIES:
+:RSS_PERMALINK: spodder.html
+:PUBDATE:  2019-01-01
+:ID:       e1b347f5-05b1-414e-890a-df3e49590bf7
+:END:
+#+include: "spodder.org" :minlevel 1 :lines "3-20"
+...
+* Clamparking
+:PROPERTIES:
+:RSS_PERMALINK: clampark.html
+:PUBDATE:  2018-10-01
+:ID:       e5f9255e-bfb2-47c9-aa2c-d5745383ca69
+:END:
+#+include: "clampark.org" :minlevel 1 :lines "3-20"
+...
+* Traceur
+:PROPERTIES:
+:RSS_PERMALINK: traceur.html
+:PUBDATE:  2018-06-01
+:ID:       a90c6a44-9c65-491d-ba56-229a0ac692bd
+:END:
+#+include: "traceur.org" :minlevel 1 :lines "3-20"
+...
+* Trumble
+:PROPERTIES:
+:RSS_PERMALINK: trumble.html
+:PUBDATE:  2018-06-01
+:ID:       ef94d0b3-5484-4878-b467-4eff564720f4
+:END:
+#+include: "trumble.org" :minlevel 1 :lines "3-20"
+...
+* Multi-Leap
+:PROPERTIES:
+:RSS_PERMALINK: multileap.html
+:PUBDATE:  2018-04-01
+:ID:       e0da9ed5-377e-49a8-8bde-bf9f2577e129
+:END:
+#+include: "multileap.org" :minlevel 1 :lines "3-20"
+...
+* Flex
+:PROPERTIES:
+:RSS_PERMALINK: flex.html
+:PUBDATE:  2017-10-01
+:ID:       c829e692-e702-4137-8578-f0b6d99b51f9
+:END:
+#+include: "flex.org" :minlevel 1 :lines "3-20"
+...
+* resume
+:PROPERTIES:
+:RSS_PERMALINK: resume.html
+:PUBDATE:  1996-05-01
+:ID:       6496bd42-866e-41c1-af76-e635e27353f8
+:END:
+#+include: "resume.org" :minlevel 1 :lines "3-20"
+...
