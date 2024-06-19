@@ -3,7 +3,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: locked.html
 :PUBDATE:  2024-05-15
-:ID:       ecd14cc8-ab61-494a-90c6-4c333f00c80d
+:ID:       97ca8575-f31e-4117-9ed3-3733e79c8c74
 :END:
 #+include: "locked.org" :minlevel 1 :lines "3-20"
 ...
@@ -11,7 +11,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: raiden.html
 :PUBDATE:  2024-04-08
-:ID:       1cc33481-895d-4820-b992-23f01f13f397
+:ID:       8a6492ac-cdd8-48eb-b760-dbad7dbfdddf
 :END:
 #+include: "raiden.org" :minlevel 1 :lines "3-20"
 ...
@@ -19,23 +19,15 @@
 :PROPERTIES:
 :RSS_PERMALINK: mediated.html
 :PUBDATE:  2024-04-07
-:ID:       ba0aef1b-33ba-4072-807b-153186bd606a
+:ID:       84396444-8b96-46d3-afcd-c32f217813b0
 :END:
 #+include: "mediated.org" :minlevel 1 :lines "3-20"
-...
-* "ill"
-:PROPERTIES:
-:RSS_PERMALINK: ill.html
-:PUBDATE:  2024-03-14
-:ID:       470b54dd-4996-47ca-afd6-68744733f01b
-:END:
-#+include: "ill.org" :minlevel 1 :lines "3-20"
 ...
 * "The Soft Bigotry of Low Expectations"
 :PROPERTIES:
 :RSS_PERMALINK: casual-misanthropy.html
 :PUBDATE:  2024-01-18
-:ID:       05a4b8d8-9b3e-4513-969d-1f40aa4d22af
+:ID:       57dc93a1-7e0c-4989-8fe1-79c78e3b6c36
 :END:
 #+include: "casual-misanthropy.org" :minlevel 1 :lines "3-20"
 ...
@@ -43,7 +35,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: dbbrowse.html
 :PUBDATE:  2023-09-01
-:ID:       5dc26c53-0adf-4179-9b9f-c8965a24175a
+:ID:       eeea32a1-4ec3-419a-92d2-e229a1d66ba8
 :END:
 #+include: "dbbrowse.org" :minlevel 1 :lines "3-20"
 ...
@@ -51,7 +43,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: therealsuckless.html
 :PUBDATE:  2023-09-01
-:ID:       21e5064c-22be-49f5-8540-d3ede3598eb2
+:ID:       b6297e17-3105-4cac-b63d-395bf089f36d
 :END:
 #+include: "therealsuckless.org" :minlevel 1 :lines "3-20"
 ...
@@ -59,7 +51,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: binding.html
 :PUBDATE:  2023-07-03
-:ID:       fa502121-1fe5-48fd-aa0e-c74f20630cb1
+:ID:       6137baa9-7c3b-4cd7-bd10-14eb529fd8ed
 :END:
 #+include: "binding.org" :minlevel 1 :lines "3-20"
 ...
@@ -67,15 +59,23 @@
 :PROPERTIES:
 :RSS_PERMALINK: web-misc.html
 :PUBDATE:  2022-01-01
-:ID:       52a4632c-ea06-42dc-8ba9-4e73cb752e56
+:ID:       f7d3aeef-e6a5-46e7-a528-eae9409acfee
 :END:
 #+include: "web-misc.org" :minlevel 1 :lines "3-20"
+...
+* Vital Matters
+:PROPERTIES:
+:RSS_PERMALINK: vital-matters.html
+:PUBDATE:  2020-01-01
+:ID:       e7ed573b-c606-43a4-9455-35917a3ca7bb
+:END:
+#+include: "vital-matters.org" :minlevel 1 :lines "3-20"
 ...
 * Portfolio Website for Pieper Construction
 :PROPERTIES:
 :RSS_PERMALINK: piepercom.html
 :PUBDATE:  2020-01-01
-:ID:       39421db8-0739-4846-b6e4-66bd2c63962e
+:ID:       0b891b40-8038-4111-9643-8ce247bd9a8c
 :END:
 #+include: "piepercom.org" :minlevel 1 :lines "3-20"
 ...
@@ -83,7 +83,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: plaza.html
 :PUBDATE:  2020-01-01
-:ID:       00b59068-6903-4bb1-b14a-fd2f2de832b1
+:ID:       88d6ee81-3c77-459e-908d-dd66aee631ed
 :END:
 #+include: "plaza.org" :minlevel 1 :lines "3-20"
 ...
@@ -91,7 +91,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: attentive.html
 :PUBDATE:  2019-10-01
-:ID:       189f25af-e501-4e76-8b24-6423da307afa
+:ID:       a36dc8b7-5f99-4966-9fde-08d3984fe0b4
 :END:
 #+include: "attentive.org" :minlevel 1 :lines "3-20"
 ...
@@ -99,7 +99,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: spodder.html
 :PUBDATE:  2019-01-01
-:ID:       e1b347f5-05b1-414e-890a-df3e49590bf7
+:ID:       39dfc1d8-2be9-40e3-8352-6ef1be12d1f9
 :END:
 #+include: "spodder.org" :minlevel 1 :lines "3-20"
 ...
@@ -107,7 +107,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: clampark.html
 :PUBDATE:  2018-10-01
-:ID:       e5f9255e-bfb2-47c9-aa2c-d5745383ca69
+:ID:       11ffe8e9-e971-43c2-b3bc-60d9531cfc5e
 :END:
 #+include: "clampark.org" :minlevel 1 :lines "3-20"
 ...
@@ -115,7 +115,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: traceur.html
 :PUBDATE:  2018-06-01
-:ID:       a90c6a44-9c65-491d-ba56-229a0ac692bd
+:ID:       80b5f077-d068-43cb-8701-756501c26d04
 :END:
 #+include: "traceur.org" :minlevel 1 :lines "3-20"
 ...
@@ -123,7 +123,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: trumble.html
 :PUBDATE:  2018-06-01
-:ID:       ef94d0b3-5484-4878-b467-4eff564720f4
+:ID:       59f3a270-e4be-4f3f-a42a-54bc117db595
 :END:
 #+include: "trumble.org" :minlevel 1 :lines "3-20"
 ...
@@ -131,7 +131,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: multileap.html
 :PUBDATE:  2018-04-01
-:ID:       e0da9ed5-377e-49a8-8bde-bf9f2577e129
+:ID:       b1d5ca32-a032-4433-bc9d-984b77389d18
 :END:
 #+include: "multileap.org" :minlevel 1 :lines "3-20"
 ...
@@ -139,7 +139,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: flex.html
 :PUBDATE:  2017-10-01
-:ID:       c829e692-e702-4137-8578-f0b6d99b51f9
+:ID:       370665db-26e3-4350-971a-6d7171ba500c
 :END:
 #+include: "flex.org" :minlevel 1 :lines "3-20"
 ...
@@ -147,7 +147,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: resume.html
 :PUBDATE:  1996-05-01
-:ID:       6496bd42-866e-41c1-af76-e635e27353f8
+:ID:       14ab4c00-4435-4447-85fd-05143fa1a02f
 :END:
 #+include: "resume.org" :minlevel 1 :lines "3-20"
 ...

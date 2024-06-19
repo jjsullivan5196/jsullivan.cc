@@ -1,8 +1,6 @@
 #+DATE: <1996-05-01>
 * John Sullivan
-[[https://jsullivan.cc/resume.pdf][PDF Version]] | [[https://jsullivan.cc/resume.org][org-mode plaintext]] | [[https://jsullivan.cc/resume.html][On my website]]
-
-[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
+[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
 ** Professional Objective
 I want to create software that helps people live better lives.
@@ -45,7 +43,7 @@ July 2018 - August 2019 | San Diego, CA
  - Used Kibana to identify performance bottlenecks in Elasticsearch
    and improve customer experience
  
-*** Contract Software Engineer | Walmart via Insight Global
+*** Software Engineer | Walmart via Insight Global
 March 2021 - September 2021, August 2023 - September 2023 | Remote
  - Creating solutions for pushing real-time updates of price information to
    stores through the Walmart chain
@@ -88,12 +86,9 @@ May 2016 - August 2017 | Seaside, CA
  - Synthesized original research in computer input peripherals
  - Used data science methodologies and python data science frameworks like 
    scikit and Tensorflow to test signal processing and classification techniques
- - Assisted in other VR/peripheral related projects in a cooperative lab
-   environment, particularly in system administration/maintenance activities
-
-** Misc Experience
-*** US Census Enumerator | US Census Bureau
-July 2020 - August 2020 | Los Angeles, CA
+ - Assisted in other VR/peripheral related projects in a cooperative
+   lab environment, particularly in sysadmin and creating solutions
+   with the Unity game engine
 
 *** Computer Repair Volunteer | Loaves Fishes and Computers
 September 2017 - January 2018 | Salinas, CA

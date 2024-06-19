@@ -14,11 +14,11 @@
 ...
 
 [[file:mediated.org][read more]]
-* <2024-03-14 Thu>  [[file:ill.org]["ill"]] 
-#+include: "ill.org" :minlevel 1 :lines "3-20"
+* <2024-01-18 Thu>  [[file:portfolio.org][Portfolio]] 
+#+include: "portfolio.org" :minlevel 1 :lines "3-20"
 ...
 
-[[file:ill.org][read more]]
+[[file:portfolio.org][read more]]
 * <2024-01-18 Thu>  [[file:casual-misanthropy.org]["The Soft Bigotry of Low Expectations"]] 
 #+include: "casual-misanthropy.org" :minlevel 1 :lines "3-20"
 ...
@@ -49,6 +49,11 @@
 ...
 
 [[file:web-misc.org][read more]]
+* <2020-01-01 Wed>  [[file:vital-matters.org][Vital Matters]] 
+#+include: "vital-matters.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:vital-matters.org][read more]]
 * <2020-01-01 Wed>  [[file:piepercom.org][Portfolio Website for Pieper Construction]] 
 #+include: "piepercom.org" :minlevel 1 :lines "3-20"
 ...

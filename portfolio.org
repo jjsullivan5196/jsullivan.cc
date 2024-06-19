@@ -2,6 +2,10 @@
 
 -----
 
+#+INCLUDE: "./vital-matters.org" :minlevel 1 :lines "3-"
+
+-----
+
 * [[./attentive.org][AttentiveAI]]
 #+INCLUDE: "./attentive.org" :minlevel 1 :lines "3-"
 
@@ -49,10 +53,5 @@
 
 * [[./web-misc.org][Other Web Projects]]
 #+INCLUDE: "./web-misc.org" :minlevel 1 :lines "3-"
-
------
-
-* [[./trumble.org][Trumpbot]]
-#+INCLUDE: "./trumble.org" :minlevel 1 :lines "3-"
 
 -----
