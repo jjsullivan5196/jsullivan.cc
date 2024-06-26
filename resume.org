@@ -15,7 +15,7 @@ January 2020 - March 2021, September 2021 | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
    development
  - Technologies used range across tools like scikit/pandas/jupyter, React,
-   ASP.NET Core, Clojure & ClojureScript, Hugo, AWS/Azure
+   ASP.NET Core, Clojure & ClojureScript, SQL/MySQL/SQL Server, Hugo, AWS/Azure
  - Used Python with Jupyter and Pandas to explore emerging AI
    technologies provided by the HuggingFace project
  - Determine scope and outcomes for client projects
@@ -30,7 +30,7 @@ January 2020 - March 2021, September 2021 | Los Angeles/Remote
 July 2018 - August 2019 | San Diego, CA
  - Deployed and maintained a set of polyglot backend REST API services
    which added critical features, including technologies implemented
-   in ASP.NET Core, Spring Boot, and Python Flask
+   in C# ASP.NET Core, Spring Boot in Java, and Python Flask
  - Created reporting integrations for Microsoft Office using ReactJs,
    allows customers to create reports using tools they're already
    familiar with
