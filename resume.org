@@ -2,14 +2,21 @@
 * John Sullivan
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
-** Professional Objective
-I want to create software that helps people live better lives.
-
 *** Education
  - B.S. Computer Science, CSU Monterey Bay, May 2018
  - Eagle Rock High School, June 2014
 
 ** Experience
+*** Staff Engineer | yU+co
+January 2022 - August 2023 | Los Angeles
+ - Maintenance and development of studio production infrastructure: internal
+   networks, web presence, central storage, render farm, etc
+ - Implemented policy and practice for studio asset security
+ - Responsible for on-call technical support, resolving hardware and software
+   issues to meet deadlines
+ - Engineering consultant for various internal and external projects, guidance
+   for building robust and sustainable systems
+
 *** Freelance Software Developer
 January 2020 - March 2021, September 2021 | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
@@ -26,6 +33,15 @@ January 2020 - March 2021, September 2021 | Los Angeles/Remote
    like the Fowler Museum at UCLA, multiple client portfolio websites,
    and more
 
+*** Software Engineer | Walmart via Insight Global
+March 2021 - September 2021, August 2023 - September 2023 | Remote
+ - Creating solutions for pushing real-time updates of price information to
+   stores through the Walmart chain
+ - Maintaining and improving a customized, large-scale stream processing
+   application running on Apache Kafka and Clojure
+ - Adding visibility to production performance through Grafana dashboards &
+   alerts
+ 
 *** Software Engineer II | Capture2
 July 2018 - August 2019 | San Diego, CA
  - Deployed and maintained a set of polyglot backend REST API services
@@ -42,34 +58,6 @@ July 2018 - August 2019 | San Diego, CA
    Kubernetes
  - Used Kibana to identify performance bottlenecks in Elasticsearch
    and improve customer experience
- 
-*** Software Engineer | Walmart via Insight Global
-March 2021 - September 2021, August 2023 - September 2023 | Remote
- - Creating solutions for pushing real-time updates of price information to
-   stores through the Walmart chain
- - Maintaining and improving a customized, large-scale stream processing
-   application running on Apache Kafka and Clojure
- - Adding visibility to production performance through Grafana dashboards &
-   alerts
-
-*** Staff Engineer | yU+co
-January 2022 - August 2023 | Los Angeles
- - Maintenance and development of studio production infrastructure: internal
-   networks, web presence, central storage, render farm, etc
- - Implemented policy and practice for studio asset security
- - Responsible for on-call technical support, resolving hardware and software
-   issues to meet deadlines
- - Engineering consultant for various internal and external projects, guidance
-   for building robust and sustainable systems
-   
-*** Co-Founder/Software Developer | Spodder
-August 2019 - January 2020 | Remote
- - Allows users to anonymously add and discover 'beacons' on a shared map, which
-   detail local places and events
- - Created mobile app using React Native/React-Redux with integrated analytics
-   tracking
- - Deployed infrastructure using docker-compose and cloud-native services like
-   S3
 
 *** Teaching Assistant | TA++ Program, CSUMB SCD
 August 2016 - June 2018 | Seaside, CA
@@ -95,5 +83,17 @@ September 2017 - January 2018 | Salinas, CA
  - Technician assisting with refurb of computers for in-need community members
  - Wrote software for automated hardware lifetime checks & issue reporting
  - Assisted customers one-on-one in technical support and consultation
+
+*** US Census Enumerator | US Census Bureau
+July 2020 - August 2020 | Los Angeles, CA
+
+*** Co-Founder/Software Developer | Spodder
+August 2019 - January 2020 | Remote
+ - Allows users to anonymously add and discover 'beacons' on a shared map, which
+   detail local places and events
+ - Created mobile app using React Native/React-Redux with integrated analytics
+   tracking
+ - Deployed infrastructure using docker-compose and cloud-native services like
+   S3
 
 References available upon request
