@@ -2,6 +2,7 @@
 pagestyle: empty
 linkstyle: type
 linkcolor: blue
+fontsize: 12pt
 geometry:
 - margin=2cm
 ---

@@ -14,8 +14,8 @@
   <link>https://jsullivan.cc/</link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Tue, 02 Jul 2024 11:57:44 -0700</pubDate>
-  <lastBuildDate>Tue, 02 Jul 2024 11:57:44 -0700</lastBuildDate>
+  <pubDate>Tue, 02 Jul 2024 12:15:47 -0700</pubDate>
+  <lastBuildDate>Tue, 02 Jul 2024 12:15:47 -0700</lastBuildDate>
   <generator>Emacs 29.3 Org-mode 9.6.15</generator>
   <webMaster>john@crunchbox (john)</webMaster>
   <image>
@@ -62,7 +62,7 @@
     <pubDate>Mon, 08 Apr 2024 00:00:00 -0700</pubDate>
 
     <description><![CDATA[
-    <div id="org21eb643" class="figure">
+    <div id="orgdad53bf" class="figure">
     <p><img src="./mgs2colonel.webp" alt="mgs2colonel.webp" width="400px" />
     </p>
     <p><span class="figure-number">Figure 1: </span>"But in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness." -- Metal Gear Solid 2</p>
@@ -87,7 +87,7 @@
     <pubDate>Thu, 18 Jan 2024 00:00:00 -0800</pubDate>
 
     <description><![CDATA[
-    <div id="org8ea0907" class="figure">
+    <div id="org8b8153c" class="figure">
     <p><img src="./loomer.jpg" alt="loomer.jpg" width="600px" />
     </p>
     <p><span class="figure-number">Figure 2: </span>OK Loomer</p>
@@ -257,15 +257,9 @@
     <a href="mailto:john-j-sullivan@outlook.com">john-j-sullivan@outlook.com</a> | <a href="http://jsullivan.cc/portfolio">jsullivan.cc</a> | 213-910-4003 | <a href="https://github.com/jjsullivan5196">GitHub</a> | <a href="https://linkedin.com/in/jjsullivan5196">LinkedIn</a>
     </p>
 
-    <div id="outline-container-org85151e1" class="outline-3">
-    <h3 id="org85151e1">Education</h3>
-    <div class="outline-text-3" id="text-org85151e1">
-    <ul class="org-ul">
-    <li>B.S. Computer Science, CSU Monterey Bay, May 2018</li>
-    <li>Eagle Rock High School, June 2014</li>
-    </ul>
-    </div>
-    </div>
+    <p>
+    B.S. Computer Science, CSU Monterey Bay, May 2018 | Eagle Rock High School, June 2014
+    </p>
     ]]></description>
   </item>
 </channel>

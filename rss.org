@@ -3,7 +3,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: locked.html
 :PUBDATE:  2024-05-15
-:ID:       bcb03463-f9fa-4d39-a3ae-ee061f6fe4dc
+:ID:       e7d67fa3-cb29-4d70-96f9-e70401c30580
 :END:
 #+include: "locked.org" :minlevel 1 :lines "3-20"
 ...
@@ -11,7 +11,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: raiden.html
 :PUBDATE:  2024-04-08
-:ID:       d44f32eb-c021-463c-ae73-bb1dadfa77f0
+:ID:       2d6dd43a-aea4-429b-a5e9-2661e272dace
 :END:
 #+include: "raiden.org" :minlevel 1 :lines "3-20"
 ...
@@ -19,7 +19,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: mediated.html
 :PUBDATE:  2024-04-07
-:ID:       85d07f94-fa9e-4d91-8f35-0ff4ff2d8d7e
+:ID:       ab8c833c-6ce1-4c28-893b-e9e4ac11aa3f
 :END:
 #+include: "mediated.org" :minlevel 1 :lines "3-20"
 ...
@@ -27,7 +27,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: casual-misanthropy.html
 :PUBDATE:  2024-01-18
-:ID:       3683eec9-7444-47ad-acb6-b1b548858047
+:ID:       2e561acb-b2b6-4824-9539-08322f28e1a8
 :END:
 #+include: "casual-misanthropy.org" :minlevel 1 :lines "3-20"
 ...
@@ -35,7 +35,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: dbbrowse.html
 :PUBDATE:  2023-09-01
-:ID:       2a43c354-23a2-46e6-b59f-6bcd2d98c1fd
+:ID:       29ffb6f8-db31-4cbe-bf0c-584608c76aef
 :END:
 #+include: "dbbrowse.org" :minlevel 1 :lines "3-20"
 ...
@@ -43,7 +43,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: therealsuckless.html
 :PUBDATE:  2023-09-01
-:ID:       465b3a14-6299-4116-8101-2baff93b5895
+:ID:       da61da9b-141f-43da-a034-55d7e68b1a5d
 :END:
 #+include: "therealsuckless.org" :minlevel 1 :lines "3-20"
 ...
@@ -51,7 +51,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: binding.html
 :PUBDATE:  2023-07-03
-:ID:       2ed53375-5414-4119-904e-ae4ca2fea8fd
+:ID:       9e1ebb66-cf36-4317-8a2f-6eb64f53c5ad
 :END:
 #+include: "binding.org" :minlevel 1 :lines "3-20"
 ...
@@ -59,7 +59,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: web-misc.html
 :PUBDATE:  2022-01-01
-:ID:       7185760d-24d0-4961-951e-9a3d08213c24
+:ID:       347f2255-2a78-481f-be68-5c3b1be25086
 :END:
 #+include: "web-misc.org" :minlevel 1 :lines "3-20"
 ...
@@ -67,7 +67,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: vital-matters.html
 :PUBDATE:  2020-01-01
-:ID:       faee2d58-45e6-4647-8343-bdf05d3d73be
+:ID:       4eb93734-7d59-46c4-be32-df4271e25533
 :END:
 #+include: "vital-matters.org" :minlevel 1 :lines "3-20"
 ...
@@ -75,7 +75,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: piepercom.html
 :PUBDATE:  2020-01-01
-:ID:       ec5146c0-4999-49a0-9842-ed2b3d27db68
+:ID:       14e2b478-5f7c-4baa-b850-9004a84be765
 :END:
 #+include: "piepercom.org" :minlevel 1 :lines "3-20"
 ...
@@ -83,7 +83,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: plaza.html
 :PUBDATE:  2020-01-01
-:ID:       e8babf13-9052-40ba-a6ee-a2cc9acac843
+:ID:       e274be3b-1bc4-4a12-8268-2b6dd2ca7bf8
 :END:
 #+include: "plaza.org" :minlevel 1 :lines "3-20"
 ...
@@ -91,7 +91,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: attentive.html
 :PUBDATE:  2019-10-01
-:ID:       a23aa331-0cb9-407c-8b9a-a9dae227125b
+:ID:       ae17bc1f-bf7b-4ad5-af95-936c9554db38
 :END:
 #+include: "attentive.org" :minlevel 1 :lines "3-20"
 ...
@@ -99,7 +99,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: spodder.html
 :PUBDATE:  2019-01-01
-:ID:       648eb625-ac18-4616-ba7a-9ae44ad00866
+:ID:       b9948b38-fad9-40e1-b043-76e41b16119e
 :END:
 #+include: "spodder.org" :minlevel 1 :lines "3-20"
 ...
@@ -107,7 +107,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: clampark.html
 :PUBDATE:  2018-10-01
-:ID:       f4729e57-898f-428d-b6a2-adab72f8f34c
+:ID:       c213af4a-639b-476b-8cff-1a40a2dcb291
 :END:
 #+include: "clampark.org" :minlevel 1 :lines "3-20"
 ...
@@ -115,7 +115,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: traceur.html
 :PUBDATE:  2018-06-01
-:ID:       ab54479f-58c3-4578-af1b-26bb0a3b248c
+:ID:       6bc0927f-d9fc-439d-8bf7-e0384915eefb
 :END:
 #+include: "traceur.org" :minlevel 1 :lines "3-20"
 ...
@@ -123,7 +123,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: trumble.html
 :PUBDATE:  2018-06-01
-:ID:       975bb254-04eb-4dba-bc86-904bce8b5463
+:ID:       f50bceef-e629-42bd-8084-e9a78d5b7fd5
 :END:
 #+include: "trumble.org" :minlevel 1 :lines "3-20"
 ...
@@ -131,7 +131,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: multileap.html
 :PUBDATE:  2018-04-01
-:ID:       db5b4daa-f83d-4efd-a274-f529c60a2866
+:ID:       914f096f-1a2c-408f-aed2-30fb088dc940
 :END:
 #+include: "multileap.org" :minlevel 1 :lines "3-20"
 ...
@@ -139,7 +139,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: flex.html
 :PUBDATE:  2017-10-01
-:ID:       87956e39-ac0e-49b1-bd84-b81badd30f60
+:ID:       207aba25-dd7e-4e2e-8923-0dc974c9d6e3
 :END:
 #+include: "flex.org" :minlevel 1 :lines "3-20"
 ...
@@ -147,7 +147,7 @@
 :PROPERTIES:
 :RSS_PERMALINK: resume.html
 :PUBDATE:  1996-05-01
-:ID:       8e26f5f5-7254-4a48-afaf-553d0af80f74
+:ID:       b647a607-1df1-4fd6-8b66-2bff01d4ef15
 :END:
 #+include: "resume.org" :minlevel 1 :lines "3-20"
 ...
