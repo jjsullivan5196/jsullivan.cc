@@ -14,9 +14,9 @@
   <link>https://jsullivan.cc/</link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Tue, 02 Jul 2024 12:15:47 -0700</pubDate>
-  <lastBuildDate>Tue, 02 Jul 2024 12:15:47 -0700</lastBuildDate>
-  <generator>Emacs 29.3 Org-mode 9.6.15</generator>
+  <pubDate>Mon, 15 Jul 2024 19:55:02 -0700</pubDate>
+  <lastBuildDate>Mon, 15 Jul 2024 19:55:02 -0700</lastBuildDate>
+  <generator>Emacs 29.4 Org-mode 9.6.15</generator>
   <webMaster>john@crunchbox (john)</webMaster>
   <image>
     <url>https://jsullivan.cc/mgs2colonel.webp</url>
@@ -24,6 +24,36 @@
     <link>https://jsullivan.cc/</link>
   </image>
 
+  <item>
+    <title>Righteous Indignation</title>
+    <link>https://jsullivan.cc/whiner.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/whiner.html</guid>
+    <pubDate>Mon, 15 Jul 2024 00:00:00 -0700</pubDate>
+
+    <description><![CDATA[<p>
+    I'm just here to complain.
+    </p>
+
+    <p>
+    Technology makes our lives objectively worse, Uncle Ted already said
+    as much. Here I am, having given 28 years of my life to this trash,
+    and every economic force conspires to make me do more of it.
+    </p>
+
+    <p>
+    PFAs are in our blood, plastic lines the oceans, cobalt kills kids and
+    so does all the crispy carcinogens in burning motherboards. My
+    ancestors purportedly wasted their lives on a "dream" that their
+    children would never attain. Who is free today? Who is truly free?
+    </p>
+
+    <p>
+    It is hard to care anymore.
+    ...
+    </p>
+    ]]></description>
+  </item>
   <item>
     <title>What's outside of here?</title>
     <link>https://jsullivan.cc/locked.html</link>
@@ -62,7 +92,7 @@
     <pubDate>Mon, 08 Apr 2024 00:00:00 -0700</pubDate>
 
     <description><![CDATA[
-    <div id="orgdad53bf" class="figure">
+    <div id="orgbb8c8c0" class="figure">
     <p><img src="./mgs2colonel.webp" alt="mgs2colonel.webp" width="400px" />
     </p>
     <p><span class="figure-number">Figure 1: </span>"But in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness." -- Metal Gear Solid 2</p>
@@ -87,7 +117,7 @@
     <pubDate>Thu, 18 Jan 2024 00:00:00 -0800</pubDate>
 
     <description><![CDATA[
-    <div id="org8b8153c" class="figure">
+    <div id="orgb02af38" class="figure">
     <p><img src="./loomer.jpg" alt="loomer.jpg" width="600px" />
     </p>
     <p><span class="figure-number">Figure 2: </span>OK Loomer</p>
