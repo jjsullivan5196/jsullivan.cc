@@ -2,42 +2,42 @@
 * John Sullivan
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
-B.S. Computer Science, CSU Monterey Bay, May 2018 | Eagle Rock High School, June 2014
-
-*** Staff Engineer | yU+co
-January 2022 - August 2023 | Los Angeles
- - Maintenance and development of studio production infrastructure: internal
-   networks, web presence, central storage, render farm, etc
- - Implemented policy and practice for studio asset security
- - Responsible for on-call technical support, resolving hardware and software
-   issues to meet deadlines
- - Engineering consultant for various internal and external projects, guidance
-   for building sustainable systems
-
 *** Freelance Software Developer
 January 2020 - March 2021, September 2021 | Los Angeles/Remote
  - Provide technical services to clients, such as backend software or web
    development
- - Technologies used range across tools like scikit/pandas/jupyter, React,
-   ASP.NET Core, Clojure & ClojureScript, SQL/MySQL/SQL Server, Hugo, AWS/Azure
- - Used Python with Jupyter and Pandas to explore emerging AI
-   technologies provided by the HuggingFace project
  - Determine scope and outcomes for client projects
- - Consulting for software installation and operations, hosting, recurring
-   costs, etc
+ - Consulting for frontend design testing, software installation and
+   operations, hosting, recurring costs, etc
+ - Technologies used range across React, ASP.NET Core, Clojure &
+   ClojureScript, SQL Server, Hugo, AWS/Azure
  - Delivered such products as a scheduler for an interactive LED
    display at the LA Music Center, custom web applications for clients
-   like the Fowler Museum at UCLA, multiple client portfolio websites,
-   and more
+   like the Fowler Museum at UCLA, client portfolio websites, and more
+  
+*** Staff Engineer | yU+co
+January 2022 - August 2023 | Los Angeles
+ - Responsible for maintenance and development of studio production
+   infrastructure: internal networks, web presence, central storage,
+   render farm, etc
+ - Coordinating equipment deliveries, transport and site-to-site
+   operations
+ - Implemented policy and practice for studio asset security
+ - Provided on-call technical support, resolving hardware and software
+   issues to meet deadlines
+ - Engineering consultant for various internal and external projects,
+   guidance for building sustainable systems
 
 *** Software Engineer | Walmart via Insight Global
 March 2021 - September 2021, August 2023 - September 2023 | Remote
- - Creating solutions for pushing real-time updates of price information to
-   stores through the Walmart chain
- - Maintaining and improving a customized, large-scale stream processing
-   application running on Apache Kafka and Clojure
- - Adding visibility to production performance through Grafana dashboards &
-   alerts
+ - Creating solutions for pushing real-time updates of price
+   information to stores through the Walmart chain
+ - Maintaining and improving a customized, large-scale stream
+   processing application running on Apache Kafka and Clojure
+ - Adding visibility to production performance through Grafana
+   dashboards & alerts
+ - Designed strategies for app deployment and orchestration on
+   Kubernetes
  
 *** Software Engineer II | Capture2
 July 2018 - August 2019 | San Diego, CA
@@ -56,15 +56,15 @@ July 2018 - August 2019 | San Diego, CA
  - Used Kibana to identify performance bottlenecks in Elasticsearch
    and improve customer experience
 
-*** Teaching Assistant | TA++ Program, CSUMB SCD
+*** Teaching Assistant | TA++ Program, CSUMB School of Computing and Design
 August 2016 - June 2018 | Seaside, CA
  - Delivered quality instructional assistance to the Intro, Multimedia, and Web
    programming classes
  - Advised students on technical considerations for python multimedia projects
  - Collaborated on an engaging intro programming curriculum including in class
    labs, study sessions, and extracurricular activities
- - Directed Peer-Led-Team-Learning sessions that improved student cooperation
-   and practical problem-solving skills
+ - Directed Peer-Led-Team-Learning sessions that improved student
+   cooperation and practical problem-solving skills
 
 *** Undergrad Researcher | CSUMB-UROC Research Internship
 May 2016 - August 2017 | Seaside, CA
@@ -84,9 +84,5 @@ September 2017 - January 2018 | Salinas, CA
 *** US Census Enumerator | US Census Bureau
 July 2020 - August 2020 | Los Angeles, CA
 
-*** Co-Founder/Software Developer | Spodder
-August 2019 - January 2020 | Remote
- - Allows users to anonymously add and discover 'beacons' on a shared map, which
-   detail local places and events
- - Created mobile app using React Native. Deployed infrastructure
-   using docker-compose and cloud-native services like S3
+*** Education
+B.S. Computer Science, CSU Monterey Bay, May 2018
