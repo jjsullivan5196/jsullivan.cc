@@ -1,4 +1,9 @@
 #+INCLUDE: "./index.inc"
+* <2025-02-10 Mon>  [[file:edge.org][On a seam]] 
+#+include: "edge.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:edge.org][read more]]
 * <2024-05-15 Wed>  [[file:locked.org][What's outside of here?]] 
 #+include: "locked.org" :minlevel 1 :lines "3-20"
 ...

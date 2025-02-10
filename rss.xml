@@ -14,8 +14,8 @@
   <link>https://jsullivan.cc/</link>
   <description><![CDATA[]]></description>
   <language>en</language>
-  <pubDate>Wed, 04 Sep 2024 22:46:19 -0700</pubDate>
-  <lastBuildDate>Wed, 04 Sep 2024 22:46:19 -0700</lastBuildDate>
+  <pubDate>Mon, 10 Feb 2025 01:37:30 -0800</pubDate>
+  <lastBuildDate>Mon, 10 Feb 2025 01:37:30 -0800</lastBuildDate>
   <generator>Emacs 29.4 Org-mode 9.6.15</generator>
   <webMaster>john@crunchbox (john)</webMaster>
   <image>
@@ -24,6 +24,40 @@
     <link>https://jsullivan.cc/</link>
   </image>
 
+  <item>
+    <title>On a seam</title>
+    <link>https://jsullivan.cc/edge.html</link>
+    <author>john@crunchbox (john)</author>
+    <guid isPermaLink="false">https://jsullivan.cc/edge.html</guid>
+    <pubDate>Mon, 10 Feb 2025 00:00:00 -0800</pubDate>
+
+    <description><![CDATA[<p>
+    I find myself exiting a subway train, my father is there with me.
+    </p>
+
+    <p>
+    I walk up the stairs of the station, between layered halls of glass
+    reflecting a brutalist, grey masonry reminiscent of calculated
+    machinery. I assume the architect means to impart the experience of
+    being inside an engine gearbox. People flood the station concourse
+    like oil over gears, uniformly wiped in their dark business attire.
+    </p>
+
+    <p>
+    Coming out through the shaft, to the exit, the early evening sky is an
+    odd haze of purplish smog. A cool breeze pushes the passers by along
+    the sidewalk. Something feels familiar about this place, it's
+    somewhere I've been before, albeit unsettling.
+    </p>
+
+    <p>
+    My father looks to the tall buildings in the distance, but is cut off
+    by a man walking past. The man seems to exist in two places at once,
+    he loses a step but continues as if nothing happened. I remark "the
+    ...
+    </p>
+    ]]></description>
+  </item>
   <item>
     <title>Righteous Indignation</title>
     <link>https://jsullivan.cc/whiner.html</link>
@@ -92,7 +126,7 @@
     <pubDate>Mon, 08 Apr 2024 00:00:00 -0700</pubDate>
 
     <description><![CDATA[
-    <div id="org19b546e" class="figure">
+    <div id="orgd6101d8" class="figure">
     <p><img src="./mgs2colonel.webp" alt="mgs2colonel.webp" width="400px" />
     </p>
     <p><span class="figure-number">Figure 1: </span>"But in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness." -- Metal Gear Solid 2</p>
@@ -117,7 +151,7 @@
     <pubDate>Thu, 18 Jan 2024 00:00:00 -0800</pubDate>
 
     <description><![CDATA[
-    <div id="org9a8dddb" class="figure">
+    <div id="org4c7cdf0" class="figure">
     <p><img src="./loomer.jpg" alt="loomer.jpg" width="600px" />
     </p>
     <p><span class="figure-number">Figure 2: </span>OK Loomer</p>
@@ -285,10 +319,6 @@
 
     <description><![CDATA[<p>
     <a href="mailto:john-j-sullivan@outlook.com">john-j-sullivan@outlook.com</a> | <a href="http://jsullivan.cc/portfolio">jsullivan.cc</a> | 213-910-4003 | <a href="https://github.com/jjsullivan5196">GitHub</a> | <a href="https://linkedin.com/in/jjsullivan5196">LinkedIn</a>
-    </p>
-
-    <p>
-    B.S. Computer Science, CSU Monterey Bay, May 2018 | Eagle Rock High School, June 2014
     </p>
     ]]></description>
   </item>
