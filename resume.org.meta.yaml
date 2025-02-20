@@ -1,8 +1,10 @@
 ---
+fontfamily: noto
+fontfamilyoptions: sfdefault
 pagestyle: empty
 linkstyle: type
 linkcolor: blue
-fontsize: 12pt
+fontsize: 11pt
 geometry:
 - margin=2cm
 ---

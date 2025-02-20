@@ -1,63 +1,85 @@
 #+DATE: <1996-05-01>
 * John Sullivan
-[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | 213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
-
-*** Freelance Software Developer
-January 2020 - March 2021, September 2021 | Los Angeles/Remote
- - Provide technical services to clients, such as backend software or web
-   development
- - Determine scope and outcomes for client projects
- - Consulting for frontend design testing, software installation and
-   operations, hosting, recurring costs, etc
- - Technologies used range across React, ASP.NET Core, Clojure &
-   ClojureScript, SQL Server, Hugo, AWS/Azure
- - Delivered such products as a scheduler for an interactive LED
-   display at the LA Music Center, custom web applications for clients
-   like the Fowler Museum at UCLA, client portfolio websites, and more
-  
-*** Staff Engineer | yU+co
-January 2022 - August 2023 | Los Angeles
- - Responsible for maintenance and development of studio production
-   infrastructure: internal networks, web presence, central storage,
-   render farm, etc
- - Coordinating equipment deliveries, transport and site-to-site
-   operations
- - Implemented policy and practice for studio asset security
- - Provided on-call technical support, resolving hardware and software
-   issues to meet deadlines
- - Engineering consultant for various internal and external projects,
-   guidance for building sustainable systems
+[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
 *** Software Engineer | Walmart via Insight Global
-March 2021 - September 2021, August 2023 - September 2023 | Remote
+March 2021 - September 2021, August 2023 - September 2023
+
+/Clojure-based event sourcing, Kafka, Grafana, CI/CD on Kubernetes/
+
  - Creating solutions for pushing real-time updates of price
    information to stores through the Walmart chain
- - Maintaining and improving a customized, large-scale stream
-   processing application running on Apache Kafka and Clojure
+ - Maintaining and improving a customized, large-scale event sourcing
+   pipeline
  - Adding visibility to production performance through Grafana
    dashboards & alerts
  - Designed strategies for app deployment and orchestration on
    Kubernetes
- 
+
+*** Staff Engineer | yU+co
+January 2022 - February 2024
+
+/IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline, Fullstack web, Python data scraping/
+
+ - Responsible for maintenance and development of studio production
+   infrastructure: internal networks, web presence, central storage,
+   render farm, etc
+ - Implemented policy and practice for studio asset security
+ - Provided on-call technical support, resolving hardware and software
+   issues to meet deadlines
+ - Added IT infrastructure and policy for managed computer usage,
+   configuration management, and other pipeline automation for projects
+ - Engineering consultant for various internal and external projects,
+   guidance for building sustainable systems
+
 *** Software Engineer II | Capture2
-July 2018 - August 2019 | San Diego, CA
+July 2018 - August 2019
+
+/SaSS application on ASP.NET, Frontend JavaScript, React, Java-Spring/Python/ASP.NET Core microservices, Azure Automation & Containerization (Docker, Ansible), SQL Server persistence and ETL, Elasticsearch document indexing and search performance (Kibana)/
+
  - Deployed and maintained a set of polyglot backend REST API services
-   which added critical features, including technologies implemented
-   in C# ASP.NET Core, Spring Boot in Java, and Python Flask
+   which added critical features
  - Created reporting integrations for Microsoft Office using ReactJs,
    allows customers to create reports using tools they're already
    familiar with
  - Implemented a search-by-location capability for govt business
-   opportunities in Telerik Kendo, allowing customers to easily find
-   opportunities in places relevant to their business
+   opportunities, allowing customers to easily find opportunities in
+   places relevant to their business
  - Eliminated wasted time and human error from manually deploying backbone
-   architecture by automating with Azure RM templates, Ansible, Docker, and
-   Kubernetes
+   architecture by automating deployment of all application-supporting services
  - Used Kibana to identify performance bottlenecks in Elasticsearch
    and improve customer experience
 
+#+latex: \clearpage
+ 
+*** Freelance Software Developer
+January 2020 - March 2021, September 2021
+
+/Fullstack JavaScript, React, Svelte, ClojureScript, ASP.NET Core, CMS/Hugo, Cloud native AWS/Azure/
+
+ - Provide technical services to clients, such as backend software or
+   web development
+ - Determine scope and outcomes for client projects
+ - Consulting for frontend design testing, software installation and
+   operations, hosting, recurring costs, etc
+ - Delivered such products as a scheduler for an interactive LED
+   display at the LA Music Center, custom web applications for clients
+   like the Fowler Museum at UCLA, client portfolio websites, and more
+
+*** Undergrad Researcher | CSUMB-UROC Research Internship
+May 2016 - August 2017
+
+/Python Data Science stack, scikit, pandas, TensorFlow, RStudio, Unity Game Engine, Virtual Reality R&D/
+
+ - Synthesized original research in computer input peripherals
+ - Used data science methodologies to test signal processing and
+   classification techniques for gesture recognition
+ - Assisted in other VR/peripheral related projects in a cooperative
+   lab environment, particularly in sysadmin and creating solutions
+   with the Unity game engine
+ 
 *** Teaching Assistant | TA++ Program, CSUMB School of Computing and Design
-August 2016 - June 2018 | Seaside, CA
+August 2016 - June 2018
  - Delivered quality instructional assistance to the Intro, Multimedia, and Web
    programming classes
  - Advised students on technical considerations for python multimedia projects
@@ -65,24 +87,6 @@ August 2016 - June 2018 | Seaside, CA
    labs, study sessions, and extracurricular activities
  - Directed Peer-Led-Team-Learning sessions that improved student
    cooperation and practical problem-solving skills
-
-*** Undergrad Researcher | CSUMB-UROC Research Internship
-May 2016 - August 2017 | Seaside, CA
- - Synthesized original research in computer input peripherals
- - Used data science methodologies and python data science frameworks like 
-   scikit and Tensorflow to test signal processing and classification techniques
- - Assisted in other VR/peripheral related projects in a cooperative
-   lab environment, particularly in sysadmin and creating solutions
-   with the Unity game engine
-
-*** Computer Repair Volunteer | Loaves Fishes and Computers
-September 2017 - January 2018 | Salinas, CA
- - Technician assisting with refurb of computers for in-need community members
- - Wrote software for automated hardware lifetime checks & issue reporting
- - Assisted customers one-on-one in technical support and consultation
-
-*** US Census Enumerator | US Census Bureau
-July 2020 - August 2020 | Los Angeles, CA
 
 *** Education
 B.S. Computer Science, CSU Monterey Bay, May 2018
