@@ -3,7 +3,7 @@
 
 #+BEGIN_EXPORT html
 <h2 title="foo">
-<code>(apply reason)</code>
+<pre>(apply reason)</pre>
 </h2>
 #+END_EXPORT
 

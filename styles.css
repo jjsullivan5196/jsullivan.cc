@@ -9,10 +9,6 @@
     font-family: sans;
 }
 
-code {
-    font-family: mono;
-}
-
 html {
     min-height: 100%;
     border-left: solid var(--highlight) 15px;
@@ -21,7 +17,7 @@ html {
 body {
     margin: auto;
     padding: 25px;
-    max-width: 85vw;
+    max-width: 48em;
 }
 
 body, body * {
