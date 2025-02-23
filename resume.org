@@ -19,7 +19,7 @@ March 2021 - September 2021, August 2023 - September 2023
 *** Staff Engineer | yU+co
 January 2022 - February 2024
 
-/IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline, Fullstack web, Python data scraping/
+/IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline (Cinema 4d/AfterEffects), Fullstack web, Python data scraping/
 
  - Responsible for maintenance and development of studio production
    infrastructure: internal networks, web presence, central storage,
@@ -55,7 +55,7 @@ July 2018 - August 2019
 *** Freelance Software Developer
 January 2020 - March 2021, September 2021
 
-/Fullstack JavaScript, React, Svelte, ClojureScript, ASP.NET Core, CMS/Hugo, Cloud native AWS/Azure/
+/Fullstack JavaScript, React, Svelte, ClojureScript, PHP, Nodejs, MySQL, ASP.NET Core, CMS/Hugo, Cloud native AWS/Azure/
 
  - Provide technical services to clients, such as backend software or
    web development
