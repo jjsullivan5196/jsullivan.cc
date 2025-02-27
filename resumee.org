@@ -13,6 +13,13 @@ August 2019
  - Maintenance of company website
  - Jobsite help for low voltage electrical and networking equipment
 
+*** Volunteer | LA Regional Food Bank
+October 2024
+
+ - Sorting donated food items for packaging
+ - Lifting boxes and packing pallets
+ - Monthly pantry volunteer, packing meal kits for in need community members 
+
 *** System Administrator | yU+co
 January 2022 - February 2024
 
@@ -60,15 +67,3 @@ July 2018 - August 2019
  - Helped customers locate relevent business opportunities faster
  - Reduced churn on application maintenance with automation and
    performance monitoring
- 
-*** Software Developer (Freelance)
-January 2020
-
- - Provide technical services to clients, such as backend software or
-   web development
- - Determine scope and outcomes for client projects
- - Consulting for frontend design testing, software installation and
-   operations, hosting, recurring costs, etc
- - Delivered such products as a scheduler for an interactive LED
-   display at the LA Music Center, custom web applications for clients
-   like the Fowler Museum at UCLA, client portfolio websites, and more
