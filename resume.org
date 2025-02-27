@@ -3,7 +3,12 @@
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
 *** Software Engineer | Walmart via Insight Global
-March 2021 - September 2021, August 2023 - September 2023
+March 2021 - September 2023
+
+#+BEGIN_COMMENT
+702 SW 8th St, Bentonville, AR 72716
++1-479-273-4000
+#+END_COMMENT
 
 /Clojure-based event sourcing, Kafka, Grafana, CI/CD on Kubernetes/
 
@@ -19,12 +24,17 @@ March 2021 - September 2021, August 2023 - September 2023
 *** Staff Engineer | yU+co
 January 2022 - February 2024
 
+#+BEGIN_COMMENT
+3450 Cahuenga Blvd W Unit #507, Los Angeles, CA 90068
++1-323-606-5050
+#+END_COMMENT
+
 /IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline (Cinema 4d/AfterEffects), Fullstack web, Python data scraping/
 
  - Responsible for maintenance and development of studio production
    infrastructure: internal networks, web presence, central storage,
    render farm, etc
- - Implemented policy and practice for studio asset security
+ - Implemented policy for digital asset security
  - Provided on-call technical support, resolving hardware and software
    issues to meet deadlines
  - Added IT infrastructure and policy for managed computer usage,
@@ -35,25 +45,26 @@ January 2022 - February 2024
 *** Software Engineer II | Capture2
 July 2018 - August 2019
 
+#+BEGIN_COMMENT
+2820 Camino Del Rio South #209, San Diego, CA 92108
++1-442-227-2946
+#+END_COMMENT
+
 /SaSS application on ASP.NET, Frontend JavaScript, React, Java-Spring/Python/ASP.NET Core microservices, Azure Automation & Containerization (Docker, Ansible), SQL Server persistence and ETL, Elasticsearch document indexing and search performance (Kibana)/
 
- - Deployed and maintained a set of polyglot backend REST API services
-   which added critical features
- - Created reporting integrations for Microsoft Office using ReactJs,
-   allows customers to create reports using tools they're already
-   familiar with
- - Implemented a search-by-location capability for govt business
-   opportunities, allowing customers to easily find opportunities in
-   places relevant to their business
- - Eliminated wasted time and human error from manually deploying backbone
-   architecture by automating deployment of all application-supporting services
- - Used Kibana to identify performance bottlenecks in Elasticsearch
-   and improve customer experience
+ - Deployed and maintained software for researching government
+   buisness opportunties
+ - Created reporting integrations for Microsoft Office, allowing
+   customers to create reports using tools they're already familiar
+   with
+ - Helped customers locate relevent business opportunities faster
+ - Reduced churn on application maintenance with automation and
+   performance monitoring
 
 #+latex: \clearpage
  
-*** Freelance Software Developer
-January 2020 - March 2021, September 2021
+*** Software Developer (Freelance)
+January 2020
 
 /Fullstack JavaScript, React, Svelte, ClojureScript, PHP, Nodejs, MySQL, ASP.NET Core, CMS/Hugo, Cloud native AWS/Azure/
 
@@ -69,6 +80,11 @@ January 2020 - March 2021, September 2021
 *** Undergrad Researcher | CSUMB-UROC Research Internship
 May 2016 - August 2017
 
+#+BEGIN_COMMENT
+100 Campus Ctr, Seaside, CA 93955
++1-831-582-3000
+#+END_COMMENT
+
 /Python Data Science stack, scikit, pandas, TensorFlow, RStudio, Unity Game Engine, Virtual Reality R&D/
 
  - Synthesized original research in computer input peripherals
@@ -80,6 +96,12 @@ May 2016 - August 2017
  
 *** Teaching Assistant | TA++ Program, CSUMB School of Computing and Design
 August 2016 - June 2018
+
+#+BEGIN_COMMENT
+100 Campus Ctr, Seaside, CA 93955
++1-831-582-3000
+#+END_COMMENT
+
  - Delivered quality instructional assistance to the Intro, Multimedia, and Web
    programming classes
  - Advised students on technical considerations for python multimedia projects

@@ -1,0 +1,74 @@
+#+DATE: <1996-05-01>
+* John Sullivan
+[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | +1-213-910-4003
+
+*** Admin Assistant | Pieper Construction
+August 2019
+
+#+BEGIN_COMMENT
++1-310-990-9663
+#+END_COMMENT
+
+ - Responsible for book keeping, permit filing and other clerical tasks
+ - Maintenance of company website
+ - Jobsite help for low voltage electrical and networking equipment
+
+*** System Administrator | yU+co
+January 2022 - February 2024
+
+#+BEGIN_COMMENT
+3450 Cahuenga Blvd W Unit #507, Los Angeles, CA 90068
++1-323-606-5050
+#+END_COMMENT
+
+ - Responsible for maintenance and development of studio production
+   infrastructure
+ - Implemented policy for digital asset security
+ - Provided on-call technical support, resolving hardware and software
+   issues to meet deadlines
+
+*** Software Engineer | Walmart
+March 2021 - September 2023
+
+#+BEGIN_COMMENT
+702 SW 8th St, Bentonville, AR 72716
++1-479-273-4000
+#+END_COMMENT
+
+ - Creating solutions for pushing real-time updates of price
+   information to stores through the Walmart chain
+ - Maintaining and improving a customized, large-scale event sourcing
+   pipeline
+ - Adding visibility to production performance through Grafana
+   dashboards & alerts
+ - Designed strategies for app deployment and orchestration on
+   Kubernetes
+
+*** Software Engineer II | Capture2
+July 2018 - August 2019
+
+#+BEGIN_COMMENT
+2820 Camino Del Rio South #209, San Diego, CA 92108
++1-442-227-2946
+#+END_COMMENT
+
+ - Deployed and maintained software for researching government
+   buisness opportunties
+ - Created reporting integrations for Microsoft Office, allowing
+   customers to create reports using tools they're already familiar
+   with
+ - Helped customers locate relevent business opportunities faster
+ - Reduced churn on application maintenance with automation and
+   performance monitoring
+ 
+*** Software Developer (Freelance)
+January 2020
+
+ - Provide technical services to clients, such as backend software or
+   web development
+ - Determine scope and outcomes for client projects
+ - Consulting for frontend design testing, software installation and
+   operations, hosting, recurring costs, etc
+ - Delivered such products as a scheduler for an interactive LED
+   display at the LA Music Center, custom web applications for clients
+   like the Fowler Museum at UCLA, client portfolio websites, and more
