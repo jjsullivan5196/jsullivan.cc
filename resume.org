@@ -1,6 +1,6 @@
 #+DATE: <1996-05-01>
 * John Sullivan
-[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | [[http://jsullivan.cc/portfolio][jsullivan.cc]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
+[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
 *** Software Engineer | Walmart via Insight Global
 March 2021 - September 2023
@@ -50,14 +50,14 @@ July 2018 - August 2019
 +1-442-227-2946
 #+END_COMMENT
 
-/SaSS application on ASP.NET, Frontend JavaScript, React, Java-Spring/Python/ASP.NET Core microservices, Azure Automation & Containerization (Docker, Ansible), SQL Server persistence and ETL, Elasticsearch document indexing and search performance (Kibana)/
+/SaaS application on ASP.NET, Frontend JavaScript, React, Java-Spring/Python/ASP.NET Core microservices, Azure Automation & Containerization (Docker, Ansible), SQL Server persistence and ETL, Elasticsearch document indexing and search performance (Kibana)/
 
  - Deployed and maintained software for researching government
-   buisness opportunties
+   business opportunities
  - Created reporting integrations for Microsoft Office, allowing
    customers to create reports using tools they're already familiar
    with
- - Helped customers locate relevent business opportunities faster
+ - Helped customers locate relevant business opportunities faster
  - Reduced churn on application maintenance with automation and
    performance monitoring
 

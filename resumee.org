@@ -60,10 +60,10 @@ July 2018 - August 2019
 #+END_COMMENT
 
  - Deployed and maintained software for researching government
-   buisness opportunties
+   business opportunities
  - Created reporting integrations for Microsoft Office, allowing
    customers to create reports using tools they're already familiar
    with
- - Helped customers locate relevent business opportunities faster
+ - Helped customers locate relevant business opportunities faster
  - Reduced churn on application maintenance with automation and
    performance monitoring
