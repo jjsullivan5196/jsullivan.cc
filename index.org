@@ -1,4 +1,9 @@
 #+INCLUDE: "./index.inc"
+* <2025-05-08 Thu>  [[file:megane.org][Funny Glasses Man]] 
+#+include: "megane.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:megane.org][read more]]
 * <2025-02-10 Mon>  [[file:edge.org][On a seam]] 
 #+include: "edge.org" :minlevel 1 :lines "3-20"
 ...
@@ -104,5 +109,10 @@
 ...
 
 [[file:flex.org][read more]]
+* <1996-05-01 Wed>  [[file:resumee.org][resumee]] 
+#+include: "resumee.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:resumee.org][read more]]
 
 #+INCLUDE: "./contact.inc"
