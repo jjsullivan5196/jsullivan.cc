@@ -1,4 +1,9 @@
 #+INCLUDE: "./index.inc"
+* <2025-05-15 Thu>  [[file:poor.org][The mind, destitute]] 
+#+include: "poor.org" :minlevel 1 :lines "3-20"
+...
+
+[[file:poor.org][read more]]
 * <2025-05-08 Thu>  [[file:megane.org][Funny Glasses Man]] 
 #+include: "megane.org" :minlevel 1 :lines "3-20"
 ...

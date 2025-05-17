@@ -52,8 +52,9 @@ July 2018 - August 2019
 
 /SaaS application on ASP.NET, Frontend JavaScript, React, Java-Spring/Python/ASP.NET Core microservices, Azure Automation & Containerization (Docker, Ansible), SQL Server persistence and ETL, Elasticsearch document indexing and search performance (Kibana)/
 
- - Deployed and maintained software for researching government
-   business opportunities
+ - Developed and maintained software for researching government
+   business opportunities, including web/HTTP APIs, javascript
+   frontend apps, scraping tools, etc
  - Created reporting integrations for Microsoft Office, allowing
    customers to create reports using tools they're already familiar
    with
