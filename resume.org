@@ -2,7 +2,42 @@
 * John Sullivan
 [[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
 
-*** Software Engineer | Walmart via Insight Global
+*** Staff Engineer | yU+co
+January 2022 - February 2024
+
+#+BEGIN_COMMENT
+3450 Cahuenga Blvd W Unit #507, Los Angeles, CA 90068
++1-323-606-5050
+#+END_COMMENT
+
+/IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline (Cinema 4d/AfterEffects), Fullstack web, Python data scraping/
+
+ - Responsible for maintenance and development of studio production
+   infrastructure: internal networks, web presence, central storage,
+   render farm, etc
+ - Created and implemented policy for digital asset security
+ - Provided on-call technical support, resolving hardware and software
+   issues to meet deadlines
+ - Added IT infrastructure and policy for managed computer usage,
+   configuration management, and other pipeline automation for projects
+ - Engineering consultant for various internal and external projects,
+   guidance for building sustainable systems
+
+*** Freelance Software Developer
+January 2020
+
+/Fullstack JavaScript, React, Svelte, ClojureScript, PHP, Nodejs, MySQL, ASP.NET Core, CMS/Hugo, Cloud native AWS/Azure/
+
+ - Provide technical services to clients, such as backend software or
+   web development
+ - Determine scope and outcomes for client projects
+ - Consulting for frontend design testing, software installation and
+   operations, hosting, recurring costs, etc
+ - Delivered such products as a scheduler for an interactive LED
+   display at the LA Music Center, custom web applications for clients
+   like the Fowler Museum at UCLA, client portfolio websites, and more
+
+*** Software Engineer | Walmart Global Tech
 March 2021 - September 2023
 
 #+BEGIN_COMMENT
@@ -21,26 +56,7 @@ March 2021 - September 2023
  - Designed strategies for app deployment and orchestration on
    Kubernetes
 
-*** Staff Engineer | yU+co
-January 2022 - February 2024
-
-#+BEGIN_COMMENT
-3450 Cahuenga Blvd W Unit #507, Los Angeles, CA 90068
-+1-323-606-5050
-#+END_COMMENT
-
-/IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline (Cinema 4d/AfterEffects), Fullstack web, Python data scraping/
-
- - Responsible for maintenance and development of studio production
-   infrastructure: internal networks, web presence, central storage,
-   render farm, etc
- - Implemented policy for digital asset security
- - Provided on-call technical support, resolving hardware and software
-   issues to meet deadlines
- - Added IT infrastructure and policy for managed computer usage,
-   configuration management, and other pipeline automation for projects
- - Engineering consultant for various internal and external projects,
-   guidance for building sustainable systems
+#+latex: \clearpage
 
 *** Software Engineer II | Capture2
 July 2018 - August 2019
@@ -61,22 +77,6 @@ July 2018 - August 2019
  - Helped customers locate relevant business opportunities faster
  - Reduced churn on application maintenance with automation and
    performance monitoring
-
-#+latex: \clearpage
- 
-*** Software Developer (Freelance)
-January 2020
-
-/Fullstack JavaScript, React, Svelte, ClojureScript, PHP, Nodejs, MySQL, ASP.NET Core, CMS/Hugo, Cloud native AWS/Azure/
-
- - Provide technical services to clients, such as backend software or
-   web development
- - Determine scope and outcomes for client projects
- - Consulting for frontend design testing, software installation and
-   operations, hosting, recurring costs, etc
- - Delivered such products as a scheduler for an interactive LED
-   display at the LA Music Center, custom web applications for clients
-   like the Fowler Museum at UCLA, client portfolio websites, and more
 
 *** Undergrad Researcher | CSUMB-UROC Research Internship
 May 2016 - August 2017
