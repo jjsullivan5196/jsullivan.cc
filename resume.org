@@ -1,6 +1,6 @@
 #+DATE: <1996-05-01>
 * John Sullivan
-[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]] | [[https://linkedin.com/in/jjsullivan5196][LinkedIn]]
+[[mailto:john-j-sullivan@outlook.com][john-j-sullivan@outlook.com]] | +1-213-910-4003 | [[https://github.com/jjsullivan5196][GitHub]]
 
 *** Staff Engineer | yU+co
 January 2022 - February 2024
@@ -13,11 +13,12 @@ January 2022 - February 2024
 /IT & Network Admin/Automation, Ansible, Active Directory, AWS Deadline (Cinema 4d/AfterEffects), Fullstack web, Python data scraping/
 
  - Responsible for maintenance and development of studio production
-   infrastructure: internal networks, web presence, central storage,
-   render farm, etc
- - Created and implemented policy for digital asset security
- - Provided on-call technical support, resolving hardware and software
-   issues to meet deadlines
+   infrastructure: internal networks, maintainence on graphics
+   workstations, web presence, DNS, central storage, render farm, etc
+ - Created and administered training for artists using company
+   computer resources
+ - Provided on-call technical support to motion design artists,
+   resolving hardware and software issues to meet deadlines
  - Added IT infrastructure and policy for managed computer usage,
    configuration management, and other pipeline automation for projects
  - Engineering consultant for various internal and external projects,
@@ -32,7 +33,7 @@ January 2020
    web development
  - Determine scope and outcomes for client projects
  - Consulting for frontend design testing, software installation and
-   operations, hosting, recurring costs, etc
+   operations, hosting, domain registration, recurring costs, etc
  - Delivered such products as a scheduler for an interactive LED
    display at the LA Music Center, custom web applications for clients
    like the Fowler Museum at UCLA, client portfolio websites, and more
